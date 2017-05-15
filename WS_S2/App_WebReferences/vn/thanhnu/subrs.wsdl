@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:tns="http://devtn.moba.vn/subscription/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:SOAP-ENC="http://schemas.xmlsoap.org/soap/encoding/" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns="http://schemas.xmlsoap.org/wsdl/" targetNamespace="http://devtn.moba.vn/subscription/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <xsd:schema targetNamespace="http://devtn.moba.vn/subscription/">
+      <xsd:import namespace="http://schemas.xmlsoap.org/soap/encoding/" />
+      <xsd:import namespace="http://schemas.xmlsoap.org/wsdl/" />
+    </xsd:schema>
+  </wsdl:types>
+  <wsdl:message name="smsKichHoatRequest">
+    <wsdl:part name="User_ID" type="xsd:string" />
+  </wsdl:message>
+  <wsdl:message name="smsKichHoatResponse">
+    <wsdl:part name="result" type="xsd:string" />
+  </wsdl:message>
+  <wsdl:message name="smsGiaHanRequest">
+    <wsdl:part name="User_ID" type="xsd:string" />
+    <wsdl:part name="Status" type="xsd:string" />
+  </wsdl:message>
+  <wsdl:message name="smsGiaHanResponse">
+    <wsdl:part name="result" type="xsd:string" />
+  </wsdl:message>
+  <wsdl:message name="smsHuyRequest">
+    <wsdl:part name="User_ID" type="xsd:string" />
+  </wsdl:message>
+  <wsdl:message name="smsHuyResponse">
+    <wsdl:part name="result" type="xsd:string" />
+  </wsdl:message>
+  <wsdl:portType name="ServicePortType">
+    <wsdl:operation name="smsKichHoat">
+      <documentation>get MO</documentation>
+      <wsdl:input message="tns:smsKichHoatRequest" />
+      <wsdl:output message="tns:smsKichHoatResponse" />
+    </wsdl:operation>
+    <wsdl:operation name="smsGiaHan">
+      <documentation>get MO</documentation>
+      <wsdl:input message="tns:smsGiaHanRequest" />
+      <wsdl:output message="tns:smsGiaHanResponse" />
+    </wsdl:operation>
+    <wsdl:operation name="smsHuy">
+      <documentation>get MO</documentation>
+      <wsdl:input message="tns:smsHuyRequest" />
+      <wsdl:output message="tns:smsHuyResponse" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="ServiceBinding" type="tns:ServicePortType">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" style="rpc" />
+    <wsdl:operation name="smsKichHoat">
+      <soap:operation soapAction="http://devtn.moba.vn/subscription/#smsKichHoat" style="rpc" />
+      <wsdl:input>
+        <soap:body use="encoded" namespace="http://devtn.moba.vn/subscription/" encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="encoded" namespace="http://devtn.moba.vn/subscription/" encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="smsGiaHan">
+      <soap:operation soapAction="http://devtn.moba.vn/subscription/#smsGiaHan" style="rpc" />
+      <wsdl:input>
+        <soap:body use="encoded" namespace="http://devtn.moba.vn/subscription/" encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="encoded" namespace="http://devtn.moba.vn/subscription/" encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="smsHuy">
+      <soap:operation soapAction="http://devtn.moba.vn/subscription/#smsHuy" style="rpc" />
+      <wsdl:input>
+        <soap:body use="encoded" namespace="http://devtn.moba.vn/subscription/" encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="encoded" namespace="http://devtn.moba.vn/subscription/" encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="Service">
+    <wsdl:port name="ServicePort" binding="tns:ServiceBinding">
+      <soap:address location="http://thanhnu.vn/subscription/subrs.php" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

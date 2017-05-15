@@ -1,0 +1,109 @@
+2013-01-29 16:08:27,894 [DEBUG] 4 File - ---------------------------------------------
+2013-01-29 16:08:27,909 [DEBUG] 4 File - User_ID: 84955555555
+2013-01-29 16:08:27,909 [DEBUG] 4 File - Service_ID: 940
+2013-01-29 16:08:27,909 [DEBUG] 4 File - Command_Code: CLIP
+2013-01-29 16:08:27,909 [DEBUG] 4 File - Message: ABC
+2013-01-29 16:08:27,909 [DEBUG] 4 File - Request_ID: 9758731868
+2013-01-29 16:09:39,033 [DEBUG] 4 File - ---------------Error sentMT----------------------
+2013-01-29 16:09:39,033 [DEBUG] 4 File - Get Error : Failed to convert parameter value from a String to a Int32., returnValue: 0
+2013-01-29 16:09:45,549 [DEBUG] 9 File - ---------------------------------------------
+2013-01-29 16:09:45,549 [DEBUG] 9 File - User_ID: 84955555555
+2013-01-29 16:09:45,549 [DEBUG] 9 File - Service_ID: 940
+2013-01-29 16:09:45,549 [DEBUG] 9 File - Command_Code: CLIP
+2013-01-29 16:09:45,549 [DEBUG] 9 File - Message: ABC
+2013-01-29 16:09:45,549 [DEBUG] 9 File - Request_ID: 9758731868
+2013-01-29 16:12:29,858 [DEBUG] 9 File - ---------------Error sentMT----------------------
+2013-01-29 16:12:29,858 [DEBUG] 9 File - Get Error : Failed to convert parameter value from a String to a Int32., returnValue: 0
+2013-01-29 16:17:50,881 [DEBUG] 5 File - ---------------------------------------------
+2013-01-29 16:17:50,881 [DEBUG] 5 File - User_ID: 84955555555
+2013-01-29 16:17:50,881 [DEBUG] 5 File - Service_ID: 940
+2013-01-29 16:17:50,881 [DEBUG] 5 File - Command_Code: CLIP
+2013-01-29 16:17:50,881 [DEBUG] 5 File - Message: ABC
+2013-01-29 16:17:50,881 [DEBUG] 5 File - Request_ID: 9758731868
+2013-01-29 16:18:17,490 [DEBUG] 5 File - ---------------Error sentMT----------------------
+2013-01-29 16:18:17,490 [DEBUG] 5 File - Get Error : Failed to convert parameter value from a String to a Int32., returnValue: 0
+2013-01-29 16:19:44,425 [DEBUG] 5 File - ---------------------------------------------
+2013-01-29 16:19:44,425 [DEBUG] 5 File - User_ID: 84955555555
+2013-01-29 16:19:44,425 [DEBUG] 5 File - Service_ID: 940
+2013-01-29 16:19:44,425 [DEBUG] 5 File - Command_Code: CLIP
+2013-01-29 16:19:44,425 [DEBUG] 5 File - Message: ABC
+2013-01-29 16:19:44,425 [DEBUG] 5 File - Request_ID: 9758731868
+2013-01-29 16:22:19,562 [DEBUG] 5 File - ---------------Error sentMT----------------------
+2013-01-29 16:22:19,562 [DEBUG] 5 File - Get Error : Failed to convert parameter value from a String to a Int32., returnValue: 0
+2013-01-29 16:22:24,312 [DEBUG] 4 File - ---------------------------------------------
+2013-01-29 16:22:24,312 [DEBUG] 4 File - User_ID: 84955555555
+2013-01-29 16:22:24,312 [DEBUG] 4 File - Service_ID: 940
+2013-01-29 16:22:24,312 [DEBUG] 4 File - Command_Code: CLIP
+2013-01-29 16:22:24,312 [DEBUG] 4 File - Message: ABC
+2013-01-29 16:22:24,312 [DEBUG] 4 File - Request_ID: 9758731868
+2013-01-29 16:24:54,136 [DEBUG] 4 File - ---------------Error sentMT----------------------
+2013-01-29 16:24:54,136 [DEBUG] 4 File - Get Error : Failed to convert parameter value from a String to a Int32., returnValue: 0
+2013-01-29 16:28:05,506 [DEBUG] 5 File - ---------------------------------------------
+2013-01-29 16:28:05,506 [DEBUG] 5 File - User_ID: 84955555555
+2013-01-29 16:28:05,506 [DEBUG] 5 File - Service_ID: 940
+2013-01-29 16:28:05,506 [DEBUG] 5 File - Command_Code: CLIP
+2013-01-29 16:28:05,506 [DEBUG] 5 File - Message: ABC
+2013-01-29 16:28:05,506 [DEBUG] 5 File - Request_ID: 9758731868
+2013-01-29 16:31:54,735 [DEBUG] 5 File - ---------------Error sentMT----------------------
+2013-01-29 16:31:54,735 [DEBUG] 5 File - Get Error : Failed to convert parameter value from a String to a Int32., returnValue: 0
+2013-01-29 16:31:59,875 [DEBUG] 4 File - ---------------------------------------------
+2013-01-29 16:31:59,875 [DEBUG] 4 File - User_ID: 84955555555
+2013-01-29 16:31:59,875 [DEBUG] 4 File - Service_ID: 940
+2013-01-29 16:31:59,875 [DEBUG] 4 File - Command_Code: CLIP
+2013-01-29 16:31:59,875 [DEBUG] 4 File - Message: ABC
+2013-01-29 16:31:59,875 [DEBUG] 4 File - Request_ID: 9758731868
+2013-01-29 16:34:00,497 [DEBUG] 4 File - ---------------Error sentMT----------------------
+2013-01-29 16:34:00,497 [DEBUG] 4 File - Get Error : Failed to convert parameter value from a String to a Int32., returnValue: 0
+2013-01-29 16:35:27,120 [DEBUG] 4 File - ---------------------------------------------
+2013-01-29 16:35:27,120 [DEBUG] 4 File - User_ID: 84955555555
+2013-01-29 16:35:27,120 [DEBUG] 4 File - Service_ID: 940
+2013-01-29 16:35:27,120 [DEBUG] 4 File - Command_Code: CLIP
+2013-01-29 16:35:27,120 [DEBUG] 4 File - Message: ABC
+2013-01-29 16:35:27,120 [DEBUG] 4 File - Request_ID: 9758731868
+2013-01-29 16:36:32,962 [DEBUG] 5 File - ---------------------------------------------
+2013-01-29 16:36:32,962 [DEBUG] 5 File - User_ID: 84955555555
+2013-01-29 16:36:32,962 [DEBUG] 5 File - Service_ID: 940
+2013-01-29 16:36:32,962 [DEBUG] 5 File - Command_Code: CLIP
+2013-01-29 16:36:32,962 [DEBUG] 5 File - Message: ABC
+2013-01-29 16:36:32,962 [DEBUG] 5 File - Request_ID: 9758731868
+2013-01-29 16:37:01,055 [DEBUG] 5 File - Reg return value: 0
+2013-01-29 16:42:31,203 [DEBUG] 4 File - ---------------------------------------------
+2013-01-29 16:42:31,218 [DEBUG] 4 File - User_ID: 84928888888
+2013-01-29 16:42:31,218 [DEBUG] 4 File - Service_ID: 940
+2013-01-29 16:42:31,218 [DEBUG] 4 File - Command_Code: CLIP
+2013-01-29 16:42:31,218 [DEBUG] 4 File - Message: ABC
+2013-01-29 16:42:31,218 [DEBUG] 4 File - Request_ID: 9758731868
+2013-01-29 16:42:54,655 [DEBUG] 4 File - Reg return value: 0
+2013-01-29 16:44:16,403 [DEBUG] 5 File - ---------------------------------------------
+2013-01-29 16:44:16,403 [DEBUG] 5 File - User_ID: 84928888888
+2013-01-29 16:44:16,403 [DEBUG] 5 File - Service_ID: 940
+2013-01-29 16:44:16,403 [DEBUG] 5 File - Command_Code: CLIP
+2013-01-29 16:44:16,403 [DEBUG] 5 File - Message: ABC
+2013-01-29 16:44:16,403 [DEBUG] 5 File - Request_ID: 9758731868
+2013-01-29 16:44:50,590 [DEBUG] 5 File - Reg return value: 1
+2013-01-29 16:47:55,882 [DEBUG] 9 File - ---------------------------------------------
+2013-01-29 16:47:55,882 [DEBUG] 9 File - User_ID: 84928888888
+2013-01-29 16:47:55,882 [DEBUG] 9 File - Service_ID: 940
+2013-01-29 16:47:55,882 [DEBUG] 9 File - Command_Code: CLIP OFF
+2013-01-29 16:47:55,882 [DEBUG] 9 File - Message: ABC
+2013-01-29 16:47:55,882 [DEBUG] 9 File - Request_ID: 9758731868
+2013-01-29 16:49:57,910 [DEBUG] 9 File - Reg return value: 0
+2013-01-29 16:56:15,025 [DEBUG] 5 File - ---------------------------------------------
+2013-01-29 16:56:15,025 [DEBUG] 5 File - User_ID: 84928888888
+2013-01-29 16:56:15,025 [DEBUG] 5 File - Service_ID: 940
+2013-01-29 16:56:15,025 [DEBUG] 5 File - Command_Code: CLIP
+2013-01-29 16:56:15,025 [DEBUG] 5 File - Message: CLIP
+2013-01-29 16:56:15,025 [DEBUG] 5 File - Request_ID: 9758731868
+2013-01-29 16:56:18,181 [DEBUG] 5 File - Reg return value: 0
+2013-01-29 16:57:07,836 [DEBUG] 5 File - ---------------------------------------------
+2013-01-29 16:57:07,836 [DEBUG] 5 File - User_ID: 84928888888
+2013-01-29 16:57:07,836 [DEBUG] 5 File - Service_ID: 940
+2013-01-29 16:57:07,836 [DEBUG] 5 File - Command_Code: CLIP
+2013-01-29 16:57:07,836 [DEBUG] 5 File - Message: CLIP OFF
+2013-01-29 16:57:07,836 [DEBUG] 5 File - Request_ID: 9758731868
+2013-01-29 16:59:23,755 [DEBUG] 4 File - ---------------------------------------------
+2013-01-29 16:59:23,755 [DEBUG] 4 File - User_ID: 84928888888
+2013-01-29 16:59:23,755 [DEBUG] 4 File - Service_ID: 940
+2013-01-29 16:59:23,755 [DEBUG] 4 File - Command_Code: CLIP
+2013-01-29 16:59:23,755 [DEBUG] 4 File - Message: CLIP
+2013-01-29 16:59:23,755 [DEBUG] 4 File - Request_ID: 9758731868

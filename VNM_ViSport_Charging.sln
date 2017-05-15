@@ -1,0 +1,92 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VNM_ViSport_Charging", "VNM_ViSport_Charging\VNM_ViSport_Charging\VNM_ViSport_Charging.csproj", "{C7C965FC-4F09-4EEA-899B-19C3F694041B}"
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "WS_S2", "WS_S2\", "{4826E29E-A1E9-4A78-B41A-4E67899B9D14}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.VirtualPath = "/WS_S2"
+		Debug.AspNetCompiler.PhysicalPath = "WS_S2\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\WS_S2\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/WS_S2"
+		Release.AspNetCompiler.PhysicalPath = "WS_S2\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\WS_S2\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "1560"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VNM_VClip_Charging", "VNM_VClip_Charging\VNM_VClip_Charging\VNM_VClip_Charging.csproj", "{3CD01BC8-A413-436B-B094-EB7F70E8A560}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VNM_ViSport_SpamSms", "VNM_ViSport_SpamSms\VNM_ViSport_SpamSms\VNM_ViSport_SpamSms.csproj", "{EF70E77C-0BA3-4530-A173-02C8AD256CB0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VNM_VClip_SpamSms", "VNM_VClip_SpamSms\VNM_VClip_SpamSms\VNM_VClip_SpamSms.csproj", "{1512B835-92B8-4FA0-A86B-29F731600DEA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VNM_ViSport_Charging_SpamSms", "VNM_ViSport_Charging_SpamSms\VNM_ViSport_Charging_SpamSms\VNM_ViSport_Charging_SpamSms.csproj", "{55507195-594F-4F2F-95A8-FBA1C9768733}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VNM_Vote_Charging", "VNM_Vote_Charging\VNM_Vote_Charging\VNM_Vote_Charging.csproj", "{EDE52ED9-60E0-4EE9-BD57-BFD0901D9B4C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VNM_ViSport_Charging_SportGameHero", "VNM_ViSport_Charging_SportGameHero\VNM_ViSport_Charging_SportGameHero\VNM_ViSport_Charging_SportGameHero.csproj", "{17B69FB2-C424-46AF-9449-D50FA5791AA7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LuckyFone", "LuckyFone\LuckyFone.csproj", "{B22B27ED-6AB5-4458-BC1B-368949BD7A56}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppboxApi", "AppboxApi\AppboxApi.csproj", "{43A0EED6-1DA0-49F2-BDEE-199A443D5877}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C7C965FC-4F09-4EEA-899B-19C3F694041B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7C965FC-4F09-4EEA-899B-19C3F694041B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7C965FC-4F09-4EEA-899B-19C3F694041B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7C965FC-4F09-4EEA-899B-19C3F694041B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4826E29E-A1E9-4A78-B41A-4E67899B9D14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4826E29E-A1E9-4A78-B41A-4E67899B9D14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4826E29E-A1E9-4A78-B41A-4E67899B9D14}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{4826E29E-A1E9-4A78-B41A-4E67899B9D14}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{3CD01BC8-A413-436B-B094-EB7F70E8A560}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CD01BC8-A413-436B-B094-EB7F70E8A560}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CD01BC8-A413-436B-B094-EB7F70E8A560}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CD01BC8-A413-436B-B094-EB7F70E8A560}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF70E77C-0BA3-4530-A173-02C8AD256CB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF70E77C-0BA3-4530-A173-02C8AD256CB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF70E77C-0BA3-4530-A173-02C8AD256CB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF70E77C-0BA3-4530-A173-02C8AD256CB0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1512B835-92B8-4FA0-A86B-29F731600DEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1512B835-92B8-4FA0-A86B-29F731600DEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1512B835-92B8-4FA0-A86B-29F731600DEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1512B835-92B8-4FA0-A86B-29F731600DEA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55507195-594F-4F2F-95A8-FBA1C9768733}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55507195-594F-4F2F-95A8-FBA1C9768733}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55507195-594F-4F2F-95A8-FBA1C9768733}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55507195-594F-4F2F-95A8-FBA1C9768733}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EDE52ED9-60E0-4EE9-BD57-BFD0901D9B4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDE52ED9-60E0-4EE9-BD57-BFD0901D9B4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDE52ED9-60E0-4EE9-BD57-BFD0901D9B4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDE52ED9-60E0-4EE9-BD57-BFD0901D9B4C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17B69FB2-C424-46AF-9449-D50FA5791AA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17B69FB2-C424-46AF-9449-D50FA5791AA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17B69FB2-C424-46AF-9449-D50FA5791AA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17B69FB2-C424-46AF-9449-D50FA5791AA7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B22B27ED-6AB5-4458-BC1B-368949BD7A56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B22B27ED-6AB5-4458-BC1B-368949BD7A56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B22B27ED-6AB5-4458-BC1B-368949BD7A56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B22B27ED-6AB5-4458-BC1B-368949BD7A56}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43A0EED6-1DA0-49F2-BDEE-199A443D5877}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43A0EED6-1DA0-49F2-BDEE-199A443D5877}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43A0EED6-1DA0-49F2-BDEE-199A443D5877}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43A0EED6-1DA0-49F2-BDEE-199A443D5877}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

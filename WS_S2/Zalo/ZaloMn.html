@@ -1,0 +1,196 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    
+    <meta content="width=320; initial-scale=1.0; maximum-scale=1.0; user-scalable=0;" name="viewport" />
+
+</head>
+<body>
+    
+    <script type="text/javascript">
+        
+        function run(input) {
+            
+            var a = document.getElementById("lnkSms");
+
+            var iOs = false;
+            var p = navigator.platform;
+
+            if (p == 'iPad' || p == 'iPhone' || p == 'iPod') {
+                iOs = true;
+            }
+            
+            if(iOs) {
+                a.setAttribute("href", "sms:8179&body=ZALO" + input);
+            } else {
+                a.setAttribute("href", "sms:8179?body=ZALO" + input);
+            }
+
+            
+
+            var name = '';
+            if (input == 'BD') {
+                name = 'Bình Dương';
+            }else if (input == 'BL') {
+                name = 'Bạc Liêu';
+            }
+            else if (input == 'BP') {
+                name = 'Bình Phước';
+            }
+            else if (input == 'BT') {
+                name = 'Bến Tre';
+            }
+            else if (input == 'BTH') {
+                name = 'Bình Thuận';
+            }
+            else if (input == 'CM') {
+                name = 'Cà Mau';
+            }
+            else if (input == 'CT') {
+                name = 'Cần Thơ';
+            }
+            else if (input == 'DL') {
+                name = 'Đà Lạt (Lâm Đồng)';
+            }
+            else if (input == 'DN') {
+                name = 'Đồng Nai';
+            }
+            else if (input == 'DT') {
+                name = 'Đồng Tháp';
+            }
+            else if (input == 'HCM') {
+                name = 'Tp Hồ Chí Minh';
+            }
+            else if (input == 'HG') {
+                name = 'Hậu Giang';
+            }
+            else if (input == 'KG') {
+                name = 'Kiên Giang';
+            }
+            else if (input == 'LA') {
+                name = 'Long An';
+            }
+            else if (input == 'ST') {
+                name = 'Sóc Trăng';
+            }
+            else if (input == 'MN') {
+                name = 'Miền Nam';
+            }
+            else if (input == 'TG') {
+                name = 'Tiền Giang';
+            }
+            else if (input == 'TN') {
+                name = 'Tây Ninh';
+            }
+            else if (input == 'TV') {
+                name = 'Trà Vinh';
+            }
+            else if (input == 'VL') {
+                name = 'Vĩnh Long';
+            }
+            else if (input == 'VT') {
+                name = 'Vũng Tàu';
+            }
+            else if (input == 'AG') {
+                name = 'An Giang';
+            }
+
+            document.getElementById('lblTinh').innerHTML = name;
+
+        }
+
+        function Check() {
+            var a = document.getElementById('drgTinh').value;
+            if (a == '0') {
+                alert('Xin vui lòng chọn Tỉnh !');
+                return false;
+            }
+
+            return true;
+        }
+
+    </script>
+
+<table align="center">
+
+    <tr>
+        <td align="center" style="background: #6d84a2; font-size: 14px; font-weight: bold">
+            KẾT QUẢ XỔ SỐ ZALO
+        </td>
+    </tr>
+
+    <tr>
+        <td><b>Chọn tỉnh</b></td>
+    </tr>
+    <tr>
+        <td></td>
+    </tr>
+    <tr>
+        <td>
+            <select class="a" name="drgTinh" onchange=" run(document.getElementById('drgTinh').value); " id="drgTinh" style="width: 180px !important; min-width: 50px; max-width: 180px; height: 30px;">
+                <option value="0">- Chọn tỉnh -</option>
+                <option value="BD">Bình Dương</option>
+                <option value="BL">Bạc Liêu</option>
+                <option value="BP">Bình Phước</option>
+                <option value="BT">Bến Tre</option>
+                <option value="BTH">Bình Thuận</option>
+                <option value="CM">Cà Mau</option>
+                <option value="CT">Cần Thơ</option>
+                <option value="DL">Đà Lạt (Lâm Đồng)</option>
+                <option value="DN">Đồng Nai</option>
+                <option value="DT">Đồng Tháp</option>
+                <option value="HCM">Tp Hồ Chí Minh</option>
+                <option value="HG">Hậu Giang</option>
+                <option value="KG">Kiên Giang</option>
+                <option value="LA">Long An</option>
+                <option value="ST">Sóc Trăng</option>
+                <option value="MN">Miền Nam</option>
+                <option value="TG">Tiền Giang</option>
+                <option value="TN">Tây Ninh</option>
+                <option value="TV">Trà Vinh</option>
+                <option value="VL">Vĩnh Long</option>
+                <option value="VT">Vũng Tàu</option>
+                <option value="AG">An Giang</option>
+            </select>
+        </td>
+    </tr>
+
+    <tr>
+        <td></td>
+    </tr>
+
+    <tr>
+        <td>
+            <b>Quyền lợi</b>
+        </td>
+    </tr>
+
+    <tr>
+        <td></td>
+    </tr>
+
+    <tr>
+        <td>
+            <legend>
+                <fieldset>
+                    Bạn nhận được kết quả xổ số mới nhất từ tỉnh <b><label id="lblTinh"> XXX </label></b>. <br/>
+                    Tin nhắn tính phí 1000 VNĐ
+                </fieldset>
+            </legend>
+        </td>
+    </tr>
+
+    <tr>
+        <td></td>
+    </tr>
+
+    <tr align="center">
+        <td>
+            <a onclick=" return Check(); " style="text-decoration: none" id="lnkSms" href="sms:8179?body=ZALOAG">Đăng ký</a>
+        </td>
+    </tr>
+</table>    
+
+</body>
+</html>

@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/E:/Minh_Works/Wap/WIN_SERVICE/ViSport/WS_S2/Zalo/Callback.aspx" hash="aca9aebc4" filehash="de563638d57b7464" flags="110000" assembly="App_Web_w2esrhre" type="ASP.zalo_callback_aspx">
+    <filedeps>
+        <filedep name="/E:/Minh_Works/Wap/WIN_SERVICE/ViSport/WS_S2/Zalo/Callback.aspx" />
+        <filedep name="/E:/Minh_Works/Wap/WIN_SERVICE/ViSport/WS_S2/Zalo/Callback.aspx.cs" />
+    </filedeps>
+</preserve>

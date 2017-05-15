@@ -1,0 +1,212 @@
+2013-07-10 09:43:30,507 [DEBUG] 9 File -  
+2013-07-10 09:43:30,960 [DEBUG] 9 File -  
+2013-07-10 09:43:31,444 [DEBUG] 9 File - -------------------VNM Mo Log DK1--------------------------
+2013-07-10 09:43:31,835 [DEBUG] 9 File - User_ID: 0987765522
+2013-07-10 09:43:32,226 [DEBUG] 9 File - Service_ID: 949
+2013-07-10 09:43:32,585 [DEBUG] 9 File - Command_Code: DK1
+2013-07-10 09:43:32,944 [DEBUG] 9 File - Message: DK SC MB
+2013-07-10 09:43:33,272 [DEBUG] 9 File - Request_ID: 0
+2013-07-10 09:43:33,616 [DEBUG] 9 File -  
+2013-07-10 09:43:33,975 [DEBUG] 9 File -  
+2013-07-10 09:47:13,678 [DEBUG] 5 File -  
+2013-07-10 09:47:14,038 [DEBUG] 5 File -  
+2013-07-10 09:47:14,929 [DEBUG] 5 File - -------------------VNM Mo Log DK1--------------------------
+2013-07-10 09:47:15,288 [DEBUG] 5 File - User_ID: 0987765522
+2013-07-10 09:47:15,616 [DEBUG] 5 File - Service_ID: 949
+2013-07-10 09:47:15,882 [DEBUG] 5 File - Command_Code: DK1
+2013-07-10 09:47:16,194 [DEBUG] 5 File - Message: DK SC MB
+2013-07-10 09:47:16,476 [DEBUG] 5 File - Request_ID: 0
+2013-07-10 09:47:16,757 [DEBUG] 5 File -  
+2013-07-10 09:47:17,148 [DEBUG] 5 File -  
+2013-07-10 09:53:45,365 [DEBUG] 5 File -  
+2013-07-10 09:53:45,709 [DEBUG] 5 File -  
+2013-07-10 09:53:45,959 [DEBUG] 5 File - -------------------VNM Mo Log DK1--------------------------
+2013-07-10 09:53:46,177 [DEBUG] 5 File - User_ID: 0987765522
+2013-07-10 09:53:46,381 [DEBUG] 5 File - Service_ID: 949
+2013-07-10 09:53:46,631 [DEBUG] 5 File - Command_Code: DK1
+2013-07-10 09:53:46,818 [DEBUG] 5 File - Message: DK SC XMB
+2013-07-10 09:53:46,927 [DEBUG] 5 File - Request_ID: 0
+2013-07-10 09:53:47,115 [DEBUG] 5 File -  
+2013-07-10 09:53:47,365 [DEBUG] 5 File -  
+2013-07-10 10:07:26,187 [DEBUG] 10 File -  
+2013-07-10 10:07:26,640 [DEBUG] 10 File -  
+2013-07-10 10:07:27,031 [DEBUG] 10 File - -------------------VNM Mo Log DK1--------------------------
+2013-07-10 10:07:27,437 [DEBUG] 10 File - User_ID: 0987765522
+2013-07-10 10:07:27,875 [DEBUG] 10 File - Service_ID: 949
+2013-07-10 10:07:28,312 [DEBUG] 10 File - Command_Code: DK1
+2013-07-10 10:07:28,703 [DEBUG] 10 File - Message: DK SC XMB
+2013-07-10 10:07:29,062 [DEBUG] 10 File - Request_ID: 0
+2013-07-10 10:07:29,484 [DEBUG] 10 File -  
+2013-07-10 10:07:30,031 [DEBUG] 10 File -  
+2013-07-10 10:10:45,269 [DEBUG] 10 File -  
+2013-07-10 10:10:45,597 [DEBUG] 10 File -  
+2013-07-10 10:10:45,956 [DEBUG] 10 File - -------------------VNM Mo Log DK1--------------------------
+2013-07-10 10:10:46,347 [DEBUG] 10 File - User_ID: 0987765522
+2013-07-10 10:10:46,675 [DEBUG] 10 File - Service_ID: 949
+2013-07-10 10:10:47,066 [DEBUG] 10 File - Command_Code: DK1
+2013-07-10 10:10:47,394 [DEBUG] 10 File - Message: DK SC XMB
+2013-07-10 10:10:47,722 [DEBUG] 10 File - Request_ID: 0
+2013-07-10 10:10:48,081 [DEBUG] 10 File -  
+2013-07-10 10:10:48,425 [DEBUG] 10 File -  
+2013-07-10 10:12:25,577 [DEBUG] 10 File -  
+2013-07-10 10:12:25,780 [DEBUG] 10 File -  
+2013-07-10 10:12:25,968 [DEBUG] 10 File - -------------------VNM Mo Log DK1--------------------------
+2013-07-10 10:12:26,140 [DEBUG] 10 File - User_ID: 0987765522
+2013-07-10 10:12:26,312 [DEBUG] 10 File - Service_ID: 949
+2013-07-10 10:12:26,499 [DEBUG] 10 File - Command_Code: DK1
+2013-07-10 10:12:26,671 [DEBUG] 10 File - Message: DK SC XMB
+2013-07-10 10:12:26,843 [DEBUG] 10 File - Request_ID: 0
+2013-07-10 10:12:27,031 [DEBUG] 10 File -  
+2013-07-10 10:12:27,187 [DEBUG] 10 File -  
+2013-07-10 10:27:04,434 [DEBUG] 5 File -  
+2013-07-10 10:27:05,075 [DEBUG] 5 File -  
+2013-07-10 10:27:05,700 [DEBUG] 5 File - -------------------VNM Mo Log DK1--------------------------
+2013-07-10 10:27:06,638 [DEBUG] 5 File - User_ID: 0987765522
+2013-07-10 10:27:07,091 [DEBUG] 5 File - Service_ID: 949
+2013-07-10 10:27:07,513 [DEBUG] 5 File - Command_Code: DK1
+2013-07-10 10:27:07,919 [DEBUG] 5 File - Message: DK1 SC XMB
+2013-07-10 10:27:08,341 [DEBUG] 5 File - Request_ID: 0
+2013-07-10 10:27:08,810 [DEBUG] 5 File -  
+2013-07-10 10:27:09,169 [DEBUG] 5 File -  
+2013-07-10 10:30:02,980 [DEBUG] 9 File -  
+2013-07-10 10:30:03,324 [DEBUG] 9 File -  
+2013-07-10 10:30:03,855 [DEBUG] 9 File - -------------------VNM Mo Log DK1--------------------------
+2013-07-10 10:30:04,230 [DEBUG] 9 File - User_ID: 0987765522
+2013-07-10 10:30:04,574 [DEBUG] 9 File - Service_ID: 949
+2013-07-10 10:30:04,902 [DEBUG] 9 File - Command_Code: DK1
+2013-07-10 10:30:05,262 [DEBUG] 9 File - Message: DK1 SC XMB
+2013-07-10 10:30:05,559 [DEBUG] 9 File - Request_ID: 0
+2013-07-10 10:30:05,887 [DEBUG] 9 File -  
+2013-07-10 10:30:06,246 [DEBUG] 9 File -  
+2013-07-10 10:57:09,971 [DEBUG] 4 File -  
+2013-07-10 10:57:10,362 [DEBUG] 4 File -  
+2013-07-10 10:57:10,783 [DEBUG] 4 File - -------------------VNM Mo Log DK1--------------------------
+2013-07-10 10:57:11,112 [DEBUG] 4 File - User_ID: 0987765522
+2013-07-10 10:57:11,377 [DEBUG] 4 File - Service_ID: 949
+2013-07-10 10:57:11,658 [DEBUG] 4 File - Command_Code: DK1
+2013-07-10 10:57:11,924 [DEBUG] 4 File - Message: DK1 SC XMB
+2013-07-10 10:57:12,158 [DEBUG] 4 File - Request_ID: 0
+2013-07-10 10:57:12,455 [DEBUG] 4 File -  
+2013-07-10 10:57:12,799 [DEBUG] 4 File -  
+2013-07-10 11:03:02,671 [DEBUG] 9 File -  
+2013-07-10 11:03:02,968 [DEBUG] 9 File -  
+2013-07-10 11:03:03,264 [DEBUG] 9 File - -------------------VNM Mo Log DK1--------------------------
+2013-07-10 11:03:03,514 [DEBUG] 9 File - User_ID: 84987765522
+2013-07-10 11:03:03,780 [DEBUG] 9 File - Service_ID: 949
+2013-07-10 11:03:04,014 [DEBUG] 9 File - Command_Code: DK1
+2013-07-10 11:03:04,249 [DEBUG] 9 File - Message: DK1 SC XMB
+2013-07-10 11:03:04,468 [DEBUG] 9 File - Request_ID: 0
+2013-07-10 11:03:04,686 [DEBUG] 9 File -  
+2013-07-10 11:03:04,890 [DEBUG] 9 File -  
+2013-07-10 11:05:54,634 [DEBUG] 4 File -  
+2013-07-10 11:05:54,915 [DEBUG] 4 File -  
+2013-07-10 11:05:55,196 [DEBUG] 4 File - -------------------VNM Mo Log DK1--------------------------
+2013-07-10 11:05:55,462 [DEBUG] 4 File - User_ID: 84987765522
+2013-07-10 11:05:55,727 [DEBUG] 4 File - Service_ID: 949
+2013-07-10 11:05:55,961 [DEBUG] 4 File - Command_Code: DK1
+2013-07-10 11:05:56,165 [DEBUG] 4 File - Message: DK1 SC XMB
+2013-07-10 11:05:56,383 [DEBUG] 4 File - Request_ID: 0
+2013-07-10 11:05:56,649 [DEBUG] 4 File -  
+2013-07-10 11:05:56,993 [DEBUG] 4 File -  
+2013-07-10 11:10:38,372 [DEBUG] 9 File -  
+2013-07-10 11:10:38,762 [DEBUG] 9 File -  
+2013-07-10 11:10:39,403 [DEBUG] 9 File - -------------------VNM Mo Log DK1--------------------------
+2013-07-10 11:10:39,887 [DEBUG] 9 File - User_ID: 84987765522
+2013-07-10 11:10:40,294 [DEBUG] 9 File - Service_ID: 949
+2013-07-10 11:10:40,684 [DEBUG] 9 File - Command_Code: DK1
+2013-07-10 11:10:41,106 [DEBUG] 9 File - Message: DK1 XMB
+2013-07-10 11:10:42,450 [DEBUG] 9 File - Request_ID: 0
+2013-07-10 11:10:42,825 [DEBUG] 9 File -  
+2013-07-10 11:10:43,497 [DEBUG] 9 File -  
+2013-07-10 11:14:20,321 [DEBUG] 9 File -  
+2013-07-10 11:14:20,321 [DEBUG] 9 File -  
+2013-07-10 11:14:20,321 [DEBUG] 9 File - -------------------VNM Mo Log DK1--------------------------
+2013-07-10 11:14:20,321 [DEBUG] 9 File - User_ID: 84987765522
+2013-07-10 11:14:20,321 [DEBUG] 9 File - Service_ID: 949
+2013-07-10 11:14:20,321 [DEBUG] 9 File - Command_Code: DK1
+2013-07-10 11:14:20,321 [DEBUG] 9 File - Message: HUY1 XMB
+2013-07-10 11:14:20,321 [DEBUG] 9 File - Request_ID: 0
+2013-07-10 11:14:20,321 [DEBUG] 9 File -  
+2013-07-10 11:14:20,321 [DEBUG] 9 File -  
+2013-07-10 11:15:34,635 [DEBUG] 9 File -  
+2013-07-10 11:15:34,947 [DEBUG] 9 File -  
+2013-07-10 11:15:35,228 [DEBUG] 9 File - -------------------VNM Mo Log HUY1--------------------------
+2013-07-10 11:15:35,463 [DEBUG] 9 File - User_ID: 84987765522
+2013-07-10 11:15:35,697 [DEBUG] 9 File - Service_ID: 949
+2013-07-10 11:15:35,931 [DEBUG] 9 File - Command_Code: huy1
+2013-07-10 11:15:36,135 [DEBUG] 9 File - Message: HUY XMB
+2013-07-10 11:15:36,353 [DEBUG] 9 File - Request_ID: 0
+2013-07-10 11:15:36,635 [DEBUG] 9 File -  
+2013-07-10 11:15:36,947 [DEBUG] 9 File -  
+2013-07-10 11:17:57,701 [DEBUG] 9 File - ---------------Error sentMT HUY1----------------------
+2013-07-10 11:17:57,701 [DEBUG] 9 File - Get Error : Invalid object name 'VNM_Resgistered_Users'., returnValue: 0
+2013-07-10 11:18:22,123 [DEBUG] 4 File -  
+2013-07-10 11:18:22,514 [DEBUG] 4 File -  
+2013-07-10 11:18:22,873 [DEBUG] 4 File - -------------------VNM Mo Log HUY1--------------------------
+2013-07-10 11:18:23,154 [DEBUG] 4 File - User_ID: 84987765522
+2013-07-10 11:18:23,483 [DEBUG] 4 File - Service_ID: 949
+2013-07-10 11:18:23,780 [DEBUG] 4 File - Command_Code: huy1
+2013-07-10 11:18:24,061 [DEBUG] 4 File - Message: HUY XMB
+2013-07-10 11:18:24,358 [DEBUG] 4 File - Request_ID: 0
+2013-07-10 11:18:24,639 [DEBUG] 4 File -  
+2013-07-10 11:18:25,076 [DEBUG] 4 File -  
+2013-07-10 11:20:03,439 [DEBUG] 4 File -  
+2013-07-10 11:20:03,783 [DEBUG] 4 File -  
+2013-07-10 11:20:04,408 [DEBUG] 4 File - -------------------VNM Mo Log HUY1--------------------------
+2013-07-10 11:20:04,736 [DEBUG] 4 File - User_ID: 84987765522
+2013-07-10 11:20:05,001 [DEBUG] 4 File - Service_ID: 949
+2013-07-10 11:20:05,189 [DEBUG] 4 File - Command_Code: huy1
+2013-07-10 11:20:05,392 [DEBUG] 4 File - Message: HUY1 SC XMB
+2013-07-10 11:20:05,517 [DEBUG] 4 File - Request_ID: 0
+2013-07-10 11:20:05,720 [DEBUG] 4 File -  
+2013-07-10 11:20:05,923 [DEBUG] 4 File -  
+2013-07-10 11:22:38,858 [DEBUG] 9 File -  
+2013-07-10 11:22:39,124 [DEBUG] 9 File -  
+2013-07-10 11:22:39,343 [DEBUG] 9 File - -------------------VNM Mo Log HUY1--------------------------
+2013-07-10 11:22:39,514 [DEBUG] 9 File - User_ID: 84987765522
+2013-07-10 11:22:39,718 [DEBUG] 9 File - Service_ID: 949
+2013-07-10 11:22:39,905 [DEBUG] 9 File - Command_Code: huy1
+2013-07-10 11:22:40,077 [DEBUG] 9 File - Message: HUY1 SC XMB
+2013-07-10 11:22:40,593 [DEBUG] 9 File - Request_ID: 0
+2013-07-10 11:22:40,889 [DEBUG] 9 File -  
+2013-07-10 11:22:41,249 [DEBUG] 9 File -  
+2013-07-10 14:05:36,730 [DEBUG] 5 File -  
+2013-07-10 14:05:37,261 [DEBUG] 5 File -  
+2013-07-10 14:05:37,777 [DEBUG] 5 File - -------------------VNM Mo Log DK1--------------------------
+2013-07-10 14:05:38,308 [DEBUG] 5 File - User_ID: 84987765522
+2013-07-10 14:05:38,855 [DEBUG] 5 File - Service_ID: 949
+2013-07-10 14:05:39,371 [DEBUG] 5 File - Command_Code: DK1
+2013-07-10 14:05:39,808 [DEBUG] 5 File - Message: DK1
+2013-07-10 14:05:40,277 [DEBUG] 5 File - Request_ID: 0
+2013-07-10 14:05:40,683 [DEBUG] 5 File -  
+2013-07-10 14:05:41,168 [DEBUG] 5 File -  
+2013-07-10 14:11:43,666 [DEBUG] 4 File -  
+2013-07-10 14:11:44,322 [DEBUG] 4 File -  
+2013-07-10 14:11:44,775 [DEBUG] 4 File - -------------------VNM Mo Log DK1--------------------------
+2013-07-10 14:11:45,416 [DEBUG] 4 File - User_ID: 84987765522
+2013-07-10 14:11:45,838 [DEBUG] 4 File - Service_ID: 949
+2013-07-10 14:11:46,229 [DEBUG] 4 File - Command_Code: DK1
+2013-07-10 14:11:46,525 [DEBUG] 4 File - Message: DK1 BD
+2013-07-10 14:11:46,807 [DEBUG] 4 File - Request_ID: 0
+2013-07-10 14:11:47,182 [DEBUG] 4 File -  
+2013-07-10 14:11:47,541 [DEBUG] 4 File -  
+2013-07-10 14:14:18,322 [DEBUG] 5 File -  
+2013-07-10 14:14:18,682 [DEBUG] 5 File -  
+2013-07-10 14:14:19,041 [DEBUG] 5 File - -------------------VNM Mo Log DK1--------------------------
+2013-07-10 14:14:19,479 [DEBUG] 5 File - User_ID: 84987765522
+2013-07-10 14:14:19,885 [DEBUG] 5 File - Service_ID: 949
+2013-07-10 14:14:20,275 [DEBUG] 5 File - Command_Code: DK1
+2013-07-10 14:14:20,666 [DEBUG] 5 File - Message: DK1 BD
+2013-07-10 14:14:21,150 [DEBUG] 5 File - Request_ID: 0
+2013-07-10 14:14:21,604 [DEBUG] 5 File -  
+2013-07-10 14:14:21,994 [DEBUG] 5 File -  
+2013-07-10 14:18:31,183 [DEBUG] 4 File -  
+2013-07-10 14:18:31,667 [DEBUG] 4 File -  
+2013-07-10 14:18:32,199 [DEBUG] 4 File - -------------------VNM Mo Log HUY1--------------------------
+2013-07-10 14:18:32,667 [DEBUG] 4 File - User_ID: 84987765522
+2013-07-10 14:18:33,011 [DEBUG] 4 File - Service_ID: 949
+2013-07-10 14:18:33,355 [DEBUG] 4 File - Command_Code: huy1
+2013-07-10 14:18:33,683 [DEBUG] 4 File - Message: HUY1 BD
+2013-07-10 14:18:34,058 [DEBUG] 4 File - Request_ID: 0
+2013-07-10 14:18:34,339 [DEBUG] 4 File -  
+2013-07-10 14:18:34,683 [DEBUG] 4 File -  

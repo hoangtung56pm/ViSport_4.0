@@ -1,0 +1,427 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:http="http://schemas.xmlsoap.org/wsdl/http/" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:mime="http://schemas.xmlsoap.org/wsdl/mime/" xmlns:tns="http://tempuri.org/" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:tm="http://microsoft.com/wsdl/mime/textMatching/" xmlns:s="http://www.w3.org/2001/XMLSchema" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" targetNamespace="http://tempuri.org/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <s:schema elementFormDefault="qualified" targetNamespace="http://tempuri.org/">
+      <s:element name="ReceverMO">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="User_ID" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="Service_ID" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="Command_Code" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="Message" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="Request_ID" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ReceverMOResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="ReceverMOResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ReturnUrlForApp">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="appid" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ReturnUrlForAppResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="ReturnUrlForAppResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="VMG_ReturnUrlForGame">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="gameid" type="s:string" />
+            <s:element minOccurs="1" maxOccurs="1" name="ispartner" type="s:int" />
+            <s:element minOccurs="0" maxOccurs="1" name="msisdn" type="s:string" />
+            <s:element minOccurs="1" maxOccurs="1" name="partnerid" type="s:int" />
+            <s:element minOccurs="0" maxOccurs="1" name="department" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="servicetype" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="telco" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="description" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="serviceid" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="requestid" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="VMG_ReturnUrlForGameResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="VMG_ReturnUrlForGameResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="VMG_ReturnUrlForApplication">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="appid" type="s:string" />
+            <s:element minOccurs="1" maxOccurs="1" name="ispartner" type="s:int" />
+            <s:element minOccurs="0" maxOccurs="1" name="msisdn" type="s:string" />
+            <s:element minOccurs="1" maxOccurs="1" name="partnerid" type="s:int" />
+            <s:element minOccurs="0" maxOccurs="1" name="department" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="servicetype" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="telco" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="description" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="serviceid" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="requestid" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="VMG_ReturnUrlForApplicationResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="VMG_ReturnUrlForApplicationResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ReturnWapUrlForGame">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="gameid" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ReturnWapUrlForGameResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="ReturnWapUrlForGameResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ReturnUrlS2_ForGame">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="gameid" type="s:int" />
+            <s:element minOccurs="0" maxOccurs="1" name="msisdn" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ReturnUrlS2_ForGameResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="ReturnUrlS2_ForGameResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ProcessAll">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="src" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="desc" type="s:string" />
+            <s:element minOccurs="1" maxOccurs="1" name="type" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ProcessAllResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="ProcessAllResult" type="s:boolean" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ReturnWapUrlPackage">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="code" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ReturnWapUrlPackageResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="ReturnWapUrlPackageResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="XzoneReturnUrl">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="shortcode" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="type" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="XzoneReturnUrlResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="XzoneReturnUrlResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+    </s:schema>
+  </wsdl:types>
+  <wsdl:message name="ReceverMOSoapIn">
+    <wsdl:part name="parameters" element="tns:ReceverMO" />
+  </wsdl:message>
+  <wsdl:message name="ReceverMOSoapOut">
+    <wsdl:part name="parameters" element="tns:ReceverMOResponse" />
+  </wsdl:message>
+  <wsdl:message name="ReturnUrlForAppSoapIn">
+    <wsdl:part name="parameters" element="tns:ReturnUrlForApp" />
+  </wsdl:message>
+  <wsdl:message name="ReturnUrlForAppSoapOut">
+    <wsdl:part name="parameters" element="tns:ReturnUrlForAppResponse" />
+  </wsdl:message>
+  <wsdl:message name="VMG_ReturnUrlForGameSoapIn">
+    <wsdl:part name="parameters" element="tns:VMG_ReturnUrlForGame" />
+  </wsdl:message>
+  <wsdl:message name="VMG_ReturnUrlForGameSoapOut">
+    <wsdl:part name="parameters" element="tns:VMG_ReturnUrlForGameResponse" />
+  </wsdl:message>
+  <wsdl:message name="VMG_ReturnUrlForApplicationSoapIn">
+    <wsdl:part name="parameters" element="tns:VMG_ReturnUrlForApplication" />
+  </wsdl:message>
+  <wsdl:message name="VMG_ReturnUrlForApplicationSoapOut">
+    <wsdl:part name="parameters" element="tns:VMG_ReturnUrlForApplicationResponse" />
+  </wsdl:message>
+  <wsdl:message name="ReturnWapUrlForGameSoapIn">
+    <wsdl:part name="parameters" element="tns:ReturnWapUrlForGame" />
+  </wsdl:message>
+  <wsdl:message name="ReturnWapUrlForGameSoapOut">
+    <wsdl:part name="parameters" element="tns:ReturnWapUrlForGameResponse" />
+  </wsdl:message>
+  <wsdl:message name="ReturnUrlS2_ForGameSoapIn">
+    <wsdl:part name="parameters" element="tns:ReturnUrlS2_ForGame" />
+  </wsdl:message>
+  <wsdl:message name="ReturnUrlS2_ForGameSoapOut">
+    <wsdl:part name="parameters" element="tns:ReturnUrlS2_ForGameResponse" />
+  </wsdl:message>
+  <wsdl:message name="ProcessAllSoapIn">
+    <wsdl:part name="parameters" element="tns:ProcessAll" />
+  </wsdl:message>
+  <wsdl:message name="ProcessAllSoapOut">
+    <wsdl:part name="parameters" element="tns:ProcessAllResponse" />
+  </wsdl:message>
+  <wsdl:message name="ReturnWapUrlPackageSoapIn">
+    <wsdl:part name="parameters" element="tns:ReturnWapUrlPackage" />
+  </wsdl:message>
+  <wsdl:message name="ReturnWapUrlPackageSoapOut">
+    <wsdl:part name="parameters" element="tns:ReturnWapUrlPackageResponse" />
+  </wsdl:message>
+  <wsdl:message name="XzoneReturnUrlSoapIn">
+    <wsdl:part name="parameters" element="tns:XzoneReturnUrl" />
+  </wsdl:message>
+  <wsdl:message name="XzoneReturnUrlSoapOut">
+    <wsdl:part name="parameters" element="tns:XzoneReturnUrlResponse" />
+  </wsdl:message>
+  <wsdl:portType name="MOReceiverSoap">
+    <wsdl:operation name="ReceverMO">
+      <wsdl:input message="tns:ReceverMOSoapIn" />
+      <wsdl:output message="tns:ReceverMOSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="ReturnUrlForApp">
+      <wsdl:input message="tns:ReturnUrlForAppSoapIn" />
+      <wsdl:output message="tns:ReturnUrlForAppSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="VMG_ReturnUrlForGame">
+      <wsdl:input message="tns:VMG_ReturnUrlForGameSoapIn" />
+      <wsdl:output message="tns:VMG_ReturnUrlForGameSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="VMG_ReturnUrlForApplication">
+      <wsdl:input message="tns:VMG_ReturnUrlForApplicationSoapIn" />
+      <wsdl:output message="tns:VMG_ReturnUrlForApplicationSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="ReturnWapUrlForGame">
+      <wsdl:input message="tns:ReturnWapUrlForGameSoapIn" />
+      <wsdl:output message="tns:ReturnWapUrlForGameSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="ReturnUrlS2_ForGame">
+      <wsdl:input message="tns:ReturnUrlS2_ForGameSoapIn" />
+      <wsdl:output message="tns:ReturnUrlS2_ForGameSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="ProcessAll">
+      <wsdl:input message="tns:ProcessAllSoapIn" />
+      <wsdl:output message="tns:ProcessAllSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="ReturnWapUrlPackage">
+      <wsdl:input message="tns:ReturnWapUrlPackageSoapIn" />
+      <wsdl:output message="tns:ReturnWapUrlPackageSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="XzoneReturnUrl">
+      <wsdl:input message="tns:XzoneReturnUrlSoapIn" />
+      <wsdl:output message="tns:XzoneReturnUrlSoapOut" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="MOReceiverSoap" type="tns:MOReceiverSoap">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="ReceverMO">
+      <soap:operation soapAction="http://tempuri.org/ReceverMO" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ReturnUrlForApp">
+      <soap:operation soapAction="http://tempuri.org/ReturnUrlForApp" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="VMG_ReturnUrlForGame">
+      <soap:operation soapAction="http://tempuri.org/VMG_ReturnUrlForGame" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="VMG_ReturnUrlForApplication">
+      <soap:operation soapAction="http://tempuri.org/VMG_ReturnUrlForApplication" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ReturnWapUrlForGame">
+      <soap:operation soapAction="http://tempuri.org/ReturnWapUrlForGame" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ReturnUrlS2_ForGame">
+      <soap:operation soapAction="http://tempuri.org/ReturnUrlS2_ForGame" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ProcessAll">
+      <soap:operation soapAction="http://tempuri.org/ProcessAll" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ReturnWapUrlPackage">
+      <soap:operation soapAction="http://tempuri.org/ReturnWapUrlPackage" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="XzoneReturnUrl">
+      <soap:operation soapAction="http://tempuri.org/XzoneReturnUrl" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:binding name="MOReceiverSoap12" type="tns:MOReceiverSoap">
+    <soap12:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="ReceverMO">
+      <soap12:operation soapAction="http://tempuri.org/ReceverMO" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ReturnUrlForApp">
+      <soap12:operation soapAction="http://tempuri.org/ReturnUrlForApp" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="VMG_ReturnUrlForGame">
+      <soap12:operation soapAction="http://tempuri.org/VMG_ReturnUrlForGame" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="VMG_ReturnUrlForApplication">
+      <soap12:operation soapAction="http://tempuri.org/VMG_ReturnUrlForApplication" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ReturnWapUrlForGame">
+      <soap12:operation soapAction="http://tempuri.org/ReturnWapUrlForGame" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ReturnUrlS2_ForGame">
+      <soap12:operation soapAction="http://tempuri.org/ReturnUrlS2_ForGame" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ProcessAll">
+      <soap12:operation soapAction="http://tempuri.org/ProcessAll" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ReturnWapUrlPackage">
+      <soap12:operation soapAction="http://tempuri.org/ReturnWapUrlPackage" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="XzoneReturnUrl">
+      <soap12:operation soapAction="http://tempuri.org/XzoneReturnUrl" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="MOReceiver">
+    <wsdl:port name="MOReceiverSoap" binding="tns:MOReceiverSoap">
+      <soap:address location="http://media.xzone.vn:8094/MOReceiver.asmx" />
+    </wsdl:port>
+    <wsdl:port name="MOReceiverSoap12" binding="tns:MOReceiverSoap12">
+      <soap12:address location="http://media.xzone.vn:8094/MOReceiver.asmx" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

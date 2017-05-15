@@ -1,0 +1,67 @@
+2014-07-30 16:43:57,358 [ERROR] 5 JobsSubBigSendMt - BIG PROMOTION Loi lay tap User : System.NullReferenceException: Object reference not set to an instance of an object.
+   at ViSport_S2_Registered_UsersController.SmsMtInsertVmgPortal(VoteSmsMtInfo obj) in e:\Minh_Works\Wap\WIN_SERVICE\ViSport\WS_S2\App_Code\ViSport_S2_Registered\ViSport_S2_Registered_UsersController.cs:line 831
+   at AppEnv.SendMtVmgPortal(String userId, String serviceId, String commandCode, String message) in e:\Minh_Works\Wap\WIN_SERVICE\ViSport\WS_S2\App_Code\AppEnv.cs:line 185
+   at JobsSubBigSendMt.Execute(Int32 jobID) in e:\Minh_Works\Wap\WIN_SERVICE\ViSport\WS_S2\App_Code\JobsSubBigSendMt.cs:line 37
+2014-07-30 16:58:52,143 [ERROR] 5 JobsSubBigSendMt - BIG PROMOTION Loi lay tap User : System.Data.SqlClient.SqlException: A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   at System.Data.SqlClient.TdsParser.Connect(ServerInfo serverInfo, SqlInternalConnectionTds connHandler, Boolean ignoreSniOpenTimeout, Int64 timerExpire, Boolean encrypt, Boolean trustServerCert, Boolean integratedSecurity, SqlConnection owningObject)
+   at System.Data.SqlClient.SqlInternalConnectionTds.AttemptOneLogin(ServerInfo serverInfo, String newPassword, Boolean ignoreSniOpenTimeout, Int64 timerExpire, SqlConnection owningObject)
+   at System.Data.SqlClient.SqlInternalConnectionTds.LoginNoFailover(String host, String newPassword, Boolean redirectedUserInstance, SqlConnection owningObject, SqlConnectionString connectionOptions, Int64 timerStart)
+   at System.Data.SqlClient.SqlInternalConnectionTds.OpenLoginEnlist(SqlConnection owningObject, SqlConnectionString connectionOptions, String newPassword, Boolean redirectedUserInstance)
+   at System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, Object providerInfo, String newPassword, SqlConnection owningObject, Boolean redirectedUserInstance)
+   at System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection)
+   at System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnection owningConnection, DbConnectionPool pool, DbConnectionOptions options)
+   at System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject)
+   at System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject)
+   at System.Data.ProviderBase.DbConnectionPool.GetConnection(DbConnection owningObject)
+   at System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   at System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   at System.Data.SqlClient.SqlConnection.Open()
+   at Microsoft.ApplicationBlocks.Data.SqlHelperParameterCache.DiscoverSpParameterSet(SqlConnection connection, String spName, Boolean includeReturnValueParameter, Object[] parameterValues)
+   at Microsoft.ApplicationBlocks.Data.SqlHelperParameterCache.GetSpParameterSetInternal(SqlConnection connection, String spName, Boolean includeReturnValueParameter)
+   at Microsoft.ApplicationBlocks.Data.SqlHelperParameterCache.GetSpParameterSet(String connectionString, String spName, Boolean includeReturnValueParameter)
+   at Microsoft.ApplicationBlocks.Data.SqlHelperParameterCache.GetSpParameterSet(String connectionString, String spName)
+   at Microsoft.ApplicationBlocks.Data.SqlHelper.ExecuteScalar(String connectionString, String spName, Object[] parameterValues)
+   at ViSport_S2_Registered_UsersController.SmsMtInsertVmgPortal(VoteSmsMtInfo obj) in e:\Minh_Works\Wap\WIN_SERVICE\ViSport\WS_S2\App_Code\ViSport_S2_Registered\ViSport_S2_Registered_UsersController.cs:line 831
+   at AppEnv.SendMtVmgPortal(String userId, String serviceId, String commandCode, String message) in e:\Minh_Works\Wap\WIN_SERVICE\ViSport\WS_S2\App_Code\AppEnv.cs:line 188
+   at JobsSubBigSendMt.Execute(Int32 jobID) in e:\Minh_Works\Wap\WIN_SERVICE\ViSport\WS_S2\App_Code\JobsSubBigSendMt.cs:line 37
+2014-07-30 17:00:58,557 [ERROR] 6 JobsSubBigSendMt - BIG PROMOTION Loi lay tap User : System.Data.SqlClient.SqlException: A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   at System.Data.SqlClient.TdsParser.Connect(ServerInfo serverInfo, SqlInternalConnectionTds connHandler, Boolean ignoreSniOpenTimeout, Int64 timerExpire, Boolean encrypt, Boolean trustServerCert, Boolean integratedSecurity, SqlConnection owningObject)
+   at System.Data.SqlClient.SqlInternalConnectionTds.AttemptOneLogin(ServerInfo serverInfo, String newPassword, Boolean ignoreSniOpenTimeout, Int64 timerExpire, SqlConnection owningObject)
+   at System.Data.SqlClient.SqlInternalConnectionTds.LoginNoFailover(String host, String newPassword, Boolean redirectedUserInstance, SqlConnection owningObject, SqlConnectionString connectionOptions, Int64 timerStart)
+   at System.Data.SqlClient.SqlInternalConnectionTds.OpenLoginEnlist(SqlConnection owningObject, SqlConnectionString connectionOptions, String newPassword, Boolean redirectedUserInstance)
+   at System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, Object providerInfo, String newPassword, SqlConnection owningObject, Boolean redirectedUserInstance)
+   at System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection)
+   at System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnection owningConnection, DbConnectionPool pool, DbConnectionOptions options)
+   at System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject)
+   at System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject)
+   at System.Data.ProviderBase.DbConnectionPool.GetConnection(DbConnection owningObject)
+   at System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   at System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   at System.Data.SqlClient.SqlConnection.Open()
+   at Microsoft.ApplicationBlocks.Data.SqlHelperParameterCache.DiscoverSpParameterSet(SqlConnection connection, String spName, Boolean includeReturnValueParameter, Object[] parameterValues)
+   at Microsoft.ApplicationBlocks.Data.SqlHelperParameterCache.GetSpParameterSetInternal(SqlConnection connection, String spName, Boolean includeReturnValueParameter)
+   at Microsoft.ApplicationBlocks.Data.SqlHelperParameterCache.GetSpParameterSet(String connectionString, String spName, Boolean includeReturnValueParameter)
+   at Microsoft.ApplicationBlocks.Data.SqlHelperParameterCache.GetSpParameterSet(String connectionString, String spName)
+   at Microsoft.ApplicationBlocks.Data.SqlHelper.ExecuteScalar(String connectionString, String spName, Object[] parameterValues)
+   at ViSport_S2_Registered_UsersController.SmsMtInsertVmgPortal(VoteSmsMtInfo obj) in e:\Minh_Works\Wap\WIN_SERVICE\ViSport\WS_S2\App_Code\ViSport_S2_Registered\ViSport_S2_Registered_UsersController.cs:line 831
+   at AppEnv.SendMtVmgPortal(String userId, String serviceId, String commandCode, String message) in e:\Minh_Works\Wap\WIN_SERVICE\ViSport\WS_S2\App_Code\AppEnv.cs:line 188
+   at JobsSubBigSendMt.Execute(Int32 jobID) in e:\Minh_Works\Wap\WIN_SERVICE\ViSport\WS_S2\App_Code\JobsSubBigSendMt.cs:line 37
+2014-07-30 17:04:32,006 [ERROR] 6 JobsSubBigSendMt - BIG PROMOTION Loi lay tap User : System.NullReferenceException: Object reference not set to an instance of an object.
+   at ViSport_S2_Registered_UsersController.SmsMtInsertVmgPortal(VoteSmsMtInfo obj) in e:\Minh_Works\Wap\WIN_SERVICE\ViSport\WS_S2\App_Code\ViSport_S2_Registered\ViSport_S2_Registered_UsersController.cs:line 831
+   at AppEnv.SendMtVmgPortal(String userId, String serviceId, String commandCode, String message) in e:\Minh_Works\Wap\WIN_SERVICE\ViSport\WS_S2\App_Code\AppEnv.cs:line 188
+   at JobsSubBigSendMt.Execute(Int32 jobID) in e:\Minh_Works\Wap\WIN_SERVICE\ViSport\WS_S2\App_Code\JobsSubBigSendMt.cs:line 37
+2014-07-30 17:11:48,762 [ERROR] 10 JobsSubBigSendMt - BIG PROMOTION Loi lay tap User : System.NullReferenceException: Object reference not set to an instance of an object.
+   at ViSport_S2_Registered_UsersController.SmsMtInsertVmgPortal(MTInfo obj) in e:\Minh_Works\Wap\WIN_SERVICE\ViSport\WS_S2\App_Code\ViSport_S2_Registered\ViSport_S2_Registered_UsersController.cs:line 831
+   at AppEnv.SendMtVmgPortal(String userId, String serviceId, String commandCode, String message) in e:\Minh_Works\Wap\WIN_SERVICE\ViSport\WS_S2\App_Code\AppEnv.cs:line 188
+   at JobsSubBigSendMt.Execute(Int32 jobID) in e:\Minh_Works\Wap\WIN_SERVICE\ViSport\WS_S2\App_Code\JobsSubBigSendMt.cs:line 37
+2014-07-30 17:15:31,063 [DEBUG] 6 JobsSubBigSendMt -  
+2014-07-30 17:15:32,450 [DEBUG] 6 JobsSubBigSendMt -  
+2014-07-30 17:15:32,450 [DEBUG] 6 JobsSubBigSendMt - -------------------- BIG PROMOTION SendMt to VMG-Portal -------------------------
+2014-07-30 17:15:32,450 [DEBUG] 6 JobsSubBigSendMt - User_ID: 841865321958
+2014-07-30 17:15:32,450 [DEBUG] 6 JobsSubBigSendMt - Message: Ban da gia han thanh cong goi dich vu Big promotion cua Vietnamobile. Ban duoc them 2 MDT la: 67522989, 82343247
+2014-07-30 17:15:32,450 [DEBUG] 6 JobsSubBigSendMt -  
+2014-07-30 17:15:32,450 [DEBUG] 6 JobsSubBigSendMt -  

@@ -1,0 +1,400 @@
+2015-12-14 10:59:15,885 [DEBUG] 90 File -  
+2015-12-14 10:59:15,891 [DEBUG] 90 File -  
+2015-12-14 10:59:15,891 [DEBUG] 90 File - -------------------- CAP SO THAN TAI -------------------------
+2015-12-14 10:59:15,891 [DEBUG] 90 File - User_ID: 84983556703
+2015-12-14 10:59:15,891 [DEBUG] 90 File - Service_ID: 949
+2015-12-14 10:59:15,891 [DEBUG] 90 File - Command_Code: TT
+2015-12-14 10:59:15,891 [DEBUG] 90 File - Message: TT 88
+2015-12-14 10:59:15,891 [DEBUG] 90 File - Request_ID: 0
+2015-12-14 10:59:15,891 [DEBUG] 90 File -  
+2015-12-14 10:59:15,891 [DEBUG] 90 File -  
+2015-12-14 10:59:17,144 [DEBUG] 90 File - --------------- CAP SO THAN TAI ----------------------
+2015-12-14 10:59:17,144 [DEBUG] 90 File - Get Error : The stored procedure 'ThanTai_DemLuot' doesn't exist., returnValue: 0
+2015-12-14 11:08:41,486 [DEBUG] 87 File -  
+2015-12-14 11:08:41,492 [DEBUG] 87 File -  
+2015-12-14 11:08:41,492 [DEBUG] 87 File - -------------------- CAP SO THAN TAI -------------------------
+2015-12-14 11:08:41,492 [DEBUG] 87 File - User_ID: 84983556703
+2015-12-14 11:08:41,492 [DEBUG] 87 File - Service_ID: 949
+2015-12-14 11:08:41,492 [DEBUG] 87 File - Command_Code: TT
+2015-12-14 11:08:41,492 [DEBUG] 87 File - Message: TT 72
+2015-12-14 11:08:41,492 [DEBUG] 87 File - Request_ID: 0
+2015-12-14 11:08:41,492 [DEBUG] 87 File -  
+2015-12-14 11:08:41,492 [DEBUG] 87 File -  
+2015-12-14 11:08:45,413 [DEBUG] 87 File - --------------- CAP SO THAN TAI ----------------------
+2015-12-14 11:08:45,413 [DEBUG] 87 File - Get Error : The stored procedure 'ThanTai_DemLuot' doesn't exist., returnValue: 0
+2015-12-14 11:23:58,828 [DEBUG] 107 File -  
+2015-12-14 11:23:58,835 [DEBUG] 107 File -  
+2015-12-14 11:23:58,835 [DEBUG] 107 File - -------------------- CAP SO THAN TAI -------------------------
+2015-12-14 11:23:58,835 [DEBUG] 107 File - User_ID: 84983556703
+2015-12-14 11:23:58,835 [DEBUG] 107 File - Service_ID: 949
+2015-12-14 11:23:58,835 [DEBUG] 107 File - Command_Code: TT
+2015-12-14 11:23:58,835 [DEBUG] 107 File - Message: TT 88
+2015-12-14 11:23:58,835 [DEBUG] 107 File - Request_ID: 0
+2015-12-14 11:23:58,835 [DEBUG] 107 File -  
+2015-12-14 11:23:58,835 [DEBUG] 107 File -  
+2015-12-14 11:23:59,773 [DEBUG] 107 File - --------------- CAP SO THAN TAI ----------------------
+2015-12-14 11:23:59,773 [DEBUG] 107 File - Get Error : The stored procedure 'ThanTai_DemLuot' doesn't exist., returnValue: 0
+2015-12-14 11:25:06,950 [DEBUG] 107 File -  
+2015-12-14 11:25:06,950 [DEBUG] 107 File -  
+2015-12-14 11:25:06,950 [DEBUG] 107 File - -------------------- CAP SO THAN TAI -------------------------
+2015-12-14 11:25:06,950 [DEBUG] 107 File - User_ID: 84983556703
+2015-12-14 11:25:06,950 [DEBUG] 107 File - Service_ID: 949
+2015-12-14 11:25:06,950 [DEBUG] 107 File - Command_Code: TT
+2015-12-14 11:25:06,950 [DEBUG] 107 File - Message: TT 88
+2015-12-14 11:25:06,950 [DEBUG] 107 File - Request_ID: 0
+2015-12-14 11:25:06,950 [DEBUG] 107 File -  
+2015-12-14 11:25:06,950 [DEBUG] 107 File -  
+2015-12-14 11:25:37,723 [DEBUG] 107 File - --------------- CAP SO THAN TAI ----------------------
+2015-12-14 11:25:37,723 [DEBUG] 107 File - Get Error : The stored procedure 'ThanTai_DemLuot' doesn't exist., returnValue: 0
+2015-12-14 11:32:06,852 [DEBUG] 107 File -  
+2015-12-14 11:32:06,852 [DEBUG] 107 File -  
+2015-12-14 11:32:06,852 [DEBUG] 107 File - -------------------- CAP SO THAN TAI -------------------------
+2015-12-14 11:32:06,852 [DEBUG] 107 File - User_ID: 84983556703
+2015-12-14 11:32:06,852 [DEBUG] 107 File - Service_ID: 949
+2015-12-14 11:32:06,852 [DEBUG] 107 File - Command_Code: TT
+2015-12-14 11:32:06,852 [DEBUG] 107 File - Message: TT 88
+2015-12-14 11:32:06,852 [DEBUG] 107 File - Request_ID: 0
+2015-12-14 11:32:06,852 [DEBUG] 107 File -  
+2015-12-14 11:32:06,852 [DEBUG] 107 File -  
+2015-12-14 11:32:27,511 [DEBUG] 107 File - --------------- CAP SO THAN TAI ----------------------
+2015-12-14 11:32:27,511 [DEBUG] 107 File - Get Error : Parameter count does not match Parameter Value count., returnValue: 0
+2015-12-14 11:35:49,734 [DEBUG] 100 File -  
+2015-12-14 11:35:49,739 [DEBUG] 100 File -  
+2015-12-14 11:35:49,739 [DEBUG] 100 File - -------------------- CAP SO THAN TAI -------------------------
+2015-12-14 11:35:49,739 [DEBUG] 100 File - User_ID: 84983556703
+2015-12-14 11:35:49,739 [DEBUG] 100 File - Service_ID: 949
+2015-12-14 11:35:49,739 [DEBUG] 100 File - Command_Code: TT
+2015-12-14 11:35:49,739 [DEBUG] 100 File - Message: TT 88
+2015-12-14 11:35:49,739 [DEBUG] 100 File - Request_ID: 0
+2015-12-14 11:35:49,739 [DEBUG] 100 File -  
+2015-12-14 11:35:49,739 [DEBUG] 100 File -  
+2015-12-14 14:09:21,368 [ERROR] 430 ThanTaiProcess - ***** ThanTai Loi lay tap User : System.ArgumentOutOfRangeException: Index and length must refer to a location within the string.
+Parameter name: length
+   at System.String.InternalSubStringWithChecks(Int32 startIndex, Int32 length, Boolean fAlwaysCopy)
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at ThanTaiProcess.Execute(Int32 jobID) in e:\Project\ViSport_4.0\WS_S2\App_Code\ThanTaiProcess.cs:line 39
+2015-12-14 14:10:35,240 [ERROR] 431 ThanTaiProcess - ***** ThanTai Loi lay tap User : System.ArgumentOutOfRangeException: Index and length must refer to a location within the string.
+Parameter name: length
+   at System.String.InternalSubStringWithChecks(Int32 startIndex, Int32 length, Boolean fAlwaysCopy)
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at ThanTaiProcess.Execute(Int32 jobID) in e:\Project\ViSport_4.0\WS_S2\App_Code\ThanTaiProcess.cs:line 39
+2015-12-14 14:11:31,629 [ERROR] 433 ThanTaiProcess - ***** ThanTai Loi lay tap User : System.ArgumentOutOfRangeException: Index and length must refer to a location within the string.
+Parameter name: length
+   at System.String.InternalSubStringWithChecks(Int32 startIndex, Int32 length, Boolean fAlwaysCopy)
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at ThanTaiProcess.Execute(Int32 jobID) in e:\Project\ViSport_4.0\WS_S2\App_Code\ThanTaiProcess.cs:line 39
+2015-12-14 14:15:02,378 [DEBUG] 431 File -  
+2015-12-14 14:15:02,378 [DEBUG] 431 File -  
+2015-12-14 14:15:02,378 [DEBUG] 431 File - -------------------- CAP SO THAN TAI -------------------------
+2015-12-14 14:15:02,378 [DEBUG] 431 File - User_ID: 84983556703
+2015-12-14 14:15:02,378 [DEBUG] 431 File - Service_ID: 949
+2015-12-14 14:15:02,378 [DEBUG] 431 File - Command_Code: TT
+2015-12-14 14:15:02,378 [DEBUG] 431 File - Message: TT 88
+2015-12-14 14:15:02,378 [DEBUG] 431 File - Request_ID: 0
+2015-12-14 14:15:02,378 [DEBUG] 431 File -  
+2015-12-14 14:15:02,378 [DEBUG] 431 File -  
+2015-12-14 14:15:12,736 [DEBUG] 430 File -  
+2015-12-14 14:15:12,736 [DEBUG] 430 File -  
+2015-12-14 14:15:12,736 [DEBUG] 430 File - -------------------- CAP SO THAN TAI -------------------------
+2015-12-14 14:15:12,736 [DEBUG] 430 File - User_ID: 84983556703
+2015-12-14 14:15:12,736 [DEBUG] 430 File - Service_ID: 949
+2015-12-14 14:15:12,736 [DEBUG] 430 File - Command_Code: TT
+2015-12-14 14:15:12,737 [DEBUG] 430 File - Message: TT 23
+2015-12-14 14:15:12,737 [DEBUG] 430 File - Request_ID: 0
+2015-12-14 14:15:12,737 [DEBUG] 430 File -  
+2015-12-14 14:15:12,737 [DEBUG] 430 File -  
+2015-12-14 14:15:19,481 [DEBUG] 430 File -  
+2015-12-14 14:15:19,481 [DEBUG] 430 File -  
+2015-12-14 14:15:19,481 [DEBUG] 430 File - -------------------- CAP SO THAN TAI -------------------------
+2015-12-14 14:15:19,481 [DEBUG] 430 File - User_ID: 84983556703
+2015-12-14 14:15:19,481 [DEBUG] 430 File - Service_ID: 949
+2015-12-14 14:15:19,481 [DEBUG] 430 File - Command_Code: TT
+2015-12-14 14:15:19,481 [DEBUG] 430 File - Message: TT 66
+2015-12-14 14:15:19,481 [DEBUG] 430 File - Request_ID: 0
+2015-12-14 14:15:19,481 [DEBUG] 430 File -  
+2015-12-14 14:15:19,481 [DEBUG] 430 File -  
+2015-12-14 14:15:25,280 [DEBUG] 430 File -  
+2015-12-14 14:15:25,280 [DEBUG] 430 File -  
+2015-12-14 14:15:25,280 [DEBUG] 430 File - -------------------- CAP SO THAN TAI -------------------------
+2015-12-14 14:15:25,280 [DEBUG] 430 File - User_ID: 84983556703
+2015-12-14 14:15:25,280 [DEBUG] 430 File - Service_ID: 949
+2015-12-14 14:15:25,280 [DEBUG] 430 File - Command_Code: TT
+2015-12-14 14:15:25,280 [DEBUG] 430 File - Message: TT 45
+2015-12-14 14:15:25,285 [DEBUG] 430 File - Request_ID: 0
+2015-12-14 14:15:25,285 [DEBUG] 430 File -  
+2015-12-14 14:15:25,285 [DEBUG] 430 File -  
+2015-12-14 14:15:31,513 [DEBUG] 431 File -  
+2015-12-14 14:15:31,513 [DEBUG] 431 File -  
+2015-12-14 14:15:31,513 [DEBUG] 431 File - -------------------- CAP SO THAN TAI -------------------------
+2015-12-14 14:15:31,513 [DEBUG] 431 File - User_ID: 84983556703
+2015-12-14 14:15:31,513 [DEBUG] 431 File - Service_ID: 949
+2015-12-14 14:15:31,514 [DEBUG] 431 File - Command_Code: TT
+2015-12-14 14:15:31,514 [DEBUG] 431 File - Message: TT 345345
+2015-12-14 14:15:31,514 [DEBUG] 431 File - Request_ID: 0
+2015-12-14 14:15:31,514 [DEBUG] 431 File -  
+2015-12-14 14:15:31,514 [DEBUG] 431 File -  
+2015-12-14 14:16:21,587 [DEBUG] 433 File -  
+2015-12-14 14:16:21,587 [DEBUG] 433 File -  
+2015-12-14 14:16:21,587 [DEBUG] 433 File - -------------------- CAP SO THAN TAI -------------------------
+2015-12-14 14:16:21,587 [DEBUG] 433 File - User_ID: 84983556703
+2015-12-14 14:16:21,587 [DEBUG] 433 File - Service_ID: 949
+2015-12-14 14:16:21,587 [DEBUG] 433 File - Command_Code: TT
+2015-12-14 14:16:21,587 [DEBUG] 433 File - Message: TT 32
+2015-12-14 14:16:21,587 [DEBUG] 433 File - Request_ID: 0
+2015-12-14 14:16:21,587 [DEBUG] 433 File -  
+2015-12-14 14:16:21,587 [DEBUG] 433 File -  
+2015-12-14 14:20:20,054 [DEBUG] 433 File -  
+2015-12-14 14:20:20,054 [DEBUG] 433 File -  
+2015-12-14 14:20:20,054 [DEBUG] 433 File - -------------------- CAP SO THAN TAI -------------------------
+2015-12-14 14:20:20,054 [DEBUG] 433 File - User_ID: 84983556703
+2015-12-14 14:20:20,054 [DEBUG] 433 File - Service_ID: 949
+2015-12-14 14:20:20,054 [DEBUG] 433 File - Command_Code: TT
+2015-12-14 14:20:20,054 [DEBUG] 433 File - Message: TT 32
+2015-12-14 14:20:20,054 [DEBUG] 433 File - Request_ID: 0
+2015-12-14 14:20:20,054 [DEBUG] 433 File -  
+2015-12-14 14:20:20,054 [DEBUG] 433 File -  
+2015-12-14 14:21:09,183 [DEBUG] 434 File -  
+2015-12-14 14:21:09,183 [DEBUG] 434 File -  
+2015-12-14 14:21:09,183 [DEBUG] 434 File - -------------------- CAP SO THAN TAI -------------------------
+2015-12-14 14:21:09,183 [DEBUG] 434 File - User_ID: 84983556703
+2015-12-14 14:21:09,183 [DEBUG] 434 File - Service_ID: 949
+2015-12-14 14:21:09,183 [DEBUG] 434 File - Command_Code: TT
+2015-12-14 14:21:09,183 [DEBUG] 434 File - Message: TT ADADA32
+2015-12-14 14:21:09,183 [DEBUG] 434 File - Request_ID: 0
+2015-12-14 14:21:09,183 [DEBUG] 434 File -  
+2015-12-14 14:21:09,183 [DEBUG] 434 File -  
+2015-12-14 14:31:21,797 [DEBUG] 9 File -  
+2015-12-14 14:31:21,813 [DEBUG] 9 File -  
+2015-12-14 14:31:21,813 [DEBUG] 9 File - -------------------- CAP SO THAN TAI -------------------------
+2015-12-14 14:31:21,813 [DEBUG] 9 File - User_ID: 84983556703
+2015-12-14 14:31:21,813 [DEBUG] 9 File - Service_ID: 949
+2015-12-14 14:31:21,813 [DEBUG] 9 File - Command_Code: TT
+2015-12-14 14:31:21,813 [DEBUG] 9 File - Message: TT 88
+2015-12-14 14:31:21,813 [DEBUG] 9 File - Request_ID: 0
+2015-12-14 14:31:21,813 [DEBUG] 9 File -  
+2015-12-14 14:31:21,813 [DEBUG] 9 File -  
+2015-12-14 14:31:34,364 [DEBUG] 9 File -  
+2015-12-14 14:31:34,364 [DEBUG] 9 File -  
+2015-12-14 14:31:34,364 [DEBUG] 9 File - -------------------- CAP SO THAN TAI -------------------------
+2015-12-14 14:31:34,364 [DEBUG] 9 File - User_ID: 84983556703
+2015-12-14 14:31:34,364 [DEBUG] 9 File - Service_ID: 949
+2015-12-14 14:31:34,364 [DEBUG] 9 File - Command_Code: TT
+2015-12-14 14:31:34,364 [DEBUG] 9 File - Message: TT 88DFGS
+2015-12-14 14:31:34,364 [DEBUG] 9 File - Request_ID: 0
+2015-12-14 14:31:34,364 [DEBUG] 9 File -  
+2015-12-14 14:31:34,364 [DEBUG] 9 File -  
+2015-12-14 14:45:36,116 [DEBUG] 26 File -  
+2015-12-14 14:45:36,122 [DEBUG] 26 File -  
+2015-12-14 14:45:36,122 [DEBUG] 26 File - -------------------- CAP SO THAN TAI -------------------------
+2015-12-14 14:45:36,122 [DEBUG] 26 File - User_ID: 84983556703
+2015-12-14 14:45:36,122 [DEBUG] 26 File - Service_ID: 949
+2015-12-14 14:45:36,122 [DEBUG] 26 File - Command_Code: TT
+2015-12-14 14:45:36,122 [DEBUG] 26 File - Message: TT 88
+2015-12-14 14:45:36,122 [DEBUG] 26 File - Request_ID: 0
+2015-12-14 14:45:36,122 [DEBUG] 26 File -  
+2015-12-14 14:45:36,122 [DEBUG] 26 File -  
+2015-12-14 14:47:12,840 [DEBUG] 34 File -  
+2015-12-14 14:47:12,848 [DEBUG] 34 File -  
+2015-12-14 14:47:12,848 [DEBUG] 34 File - -------------------- CAP SO THAN TAI -------------------------
+2015-12-14 14:47:12,848 [DEBUG] 34 File - User_ID: 84983556703
+2015-12-14 14:47:12,848 [DEBUG] 34 File - Service_ID: 949
+2015-12-14 14:47:12,848 [DEBUG] 34 File - Command_Code: TT
+2015-12-14 14:47:12,848 [DEBUG] 34 File - Message: TT 88
+2015-12-14 14:47:12,848 [DEBUG] 34 File - Request_ID: 0
+2015-12-14 14:47:12,848 [DEBUG] 34 File -  
+2015-12-14 14:47:12,848 [DEBUG] 34 File -  
+2015-12-14 14:47:41,751 [DEBUG] 34 File -  
+2015-12-14 14:47:41,751 [DEBUG] 34 File -  
+2015-12-14 14:47:41,751 [DEBUG] 34 File - -------------------- CAP SO THAN TAI -------------------------
+2015-12-14 14:47:41,751 [DEBUG] 34 File - User_ID: 84983556703
+2015-12-14 14:47:41,751 [DEBUG] 34 File - Service_ID: 949
+2015-12-14 14:47:41,751 [DEBUG] 34 File - Command_Code: TT
+2015-12-14 14:47:41,751 [DEBUG] 34 File - Message: TT 88DFGS
+2015-12-14 14:47:41,751 [DEBUG] 34 File - Request_ID: 0
+2015-12-14 14:47:41,751 [DEBUG] 34 File -  
+2015-12-14 14:47:41,751 [DEBUG] 34 File -  
+2015-12-14 15:10:59,698 [ERROR] 34 ThanTaiProcess - ***** ThanTai Loi lay tap User : System.ArgumentOutOfRangeException: Index and length must refer to a location within the string.
+Parameter name: length
+   at System.String.InternalSubStringWithChecks(Int32 startIndex, Int32 length, Boolean fAlwaysCopy)
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at ThanTaiProcess.Execute(Int32 jobID) in e:\Project\ViSport_4.0\WS_S2\App_Code\ThanTaiProcess.cs:line 39
+2015-12-14 15:12:02,295 [ERROR] 43 ThanTaiProcess - ***** ThanTai Loi lay tap User : System.ArgumentOutOfRangeException: Index and length must refer to a location within the string.
+Parameter name: length
+   at System.String.InternalSubStringWithChecks(Int32 startIndex, Int32 length, Boolean fAlwaysCopy)
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at ThanTaiProcess.Execute(Int32 jobID) in e:\Project\ViSport_4.0\WS_S2\App_Code\ThanTaiProcess.cs:line 42
+2015-12-14 15:14:17,314 [ERROR] 43 ThanTaiProcess - ***** ThanTai Loi lay tap User : System.ArgumentOutOfRangeException: Index and length must refer to a location within the string.
+Parameter name: length
+   at System.String.InternalSubStringWithChecks(Int32 startIndex, Int32 length, Boolean fAlwaysCopy)
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at ThanTaiProcess.Execute(Int32 jobID) in e:\Project\ViSport_4.0\WS_S2\App_Code\ThanTaiProcess.cs:line 43
+2015-12-14 15:15:38,657 [ERROR] 10 ThanTaiProcess - ***** ThanTai Loi lay tap User : System.ArgumentOutOfRangeException: Index and length must refer to a location within the string.
+Parameter name: length
+   at System.String.InternalSubStringWithChecks(Int32 startIndex, Int32 length, Boolean fAlwaysCopy)
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at ThanTaiProcess.Execute(Int32 jobID) in e:\Project\ViSport_4.0\WS_S2\App_Code\ThanTaiProcess.cs:line 50
+2015-12-14 15:24:23,216 [DEBUG] 14 File -  
+2015-12-14 15:24:23,238 [DEBUG] 14 File -  
+2015-12-14 15:24:23,238 [DEBUG] 14 File - -------------------- CAP SO THAN TAI -------------------------
+2015-12-14 15:24:23,238 [DEBUG] 14 File - User_ID: 84983556703
+2015-12-14 15:24:23,238 [DEBUG] 14 File - Service_ID: 949
+2015-12-14 15:24:23,238 [DEBUG] 14 File - Command_Code: TT
+2015-12-14 15:24:23,238 [DEBUG] 14 File - Message: TT 69
+2015-12-14 15:24:23,238 [DEBUG] 14 File - Request_ID: 0
+2015-12-14 15:24:23,238 [DEBUG] 14 File -  
+2015-12-14 15:24:23,238 [DEBUG] 14 File -  
+2015-12-14 15:26:12,664 [ERROR] 19 ThanTaiProcess - ***** ThanTai Loi lay tap User : System.Threading.SemaphoreFullException: Adding the specified count to the semaphore would cause it to exceed its maximum count.
+   at System.Threading.Semaphore.Release(Int32 releaseCount)
+   at System.Data.ProviderBase.DbConnectionPool.PutNewObject(DbConnectionInternal obj)
+   at System.Data.ProviderBase.DbConnectionPool.DeactivateObject(DbConnectionInternal obj)
+   at System.Data.ProviderBase.DbConnectionPool.PutObject(DbConnectionInternal obj, Object owningObject)
+   at System.Data.ProviderBase.DbConnectionInternal.CloseConnection(DbConnection owningObject, DbConnectionFactory connectionFactory)
+   at System.Data.SqlClient.SqlConnection.CloseInnerConnection()
+   at System.Data.SqlClient.SqlConnection.Close()
+   at System.Data.SqlClient.SqlConnection.Dispose(Boolean disposing)
+   at System.ComponentModel.Component.Dispose()
+   at Microsoft.ApplicationBlocks.Data.SqlHelper.ExecuteDataset(String connectionString, CommandType commandType, String commandText, SqlParameter[] commandParameters)
+   at Microsoft.ApplicationBlocks.Data.SqlHelper.ExecuteDataset(String connectionString, CommandType commandType, String commandText)
+   at Microsoft.ApplicationBlocks.Data.SqlHelper.ExecuteDataset(String connectionString, String spName, Object[] parameterValues)
+   at ThanTaiProcess.GetLotteryResult() in e:\Project\ViSport_4.0\WS_S2\App_Code\ThanTaiProcess.cs:line 92
+   at ThanTaiProcess.Execute(Int32 jobID) in e:\Project\ViSport_4.0\WS_S2\App_Code\ThanTaiProcess.cs:line 33
+2015-12-14 15:26:58,064 [ERROR] 7 ThanTaiProcess - ***** ThanTai Loi lay tap User : System.Threading.SemaphoreFullException: Adding the specified count to the semaphore would cause it to exceed its maximum count.
+   at System.Threading.Semaphore.Release(Int32 releaseCount)
+   at System.Data.ProviderBase.DbConnectionPool.PutNewObject(DbConnectionInternal obj)
+   at System.Data.ProviderBase.DbConnectionPool.DeactivateObject(DbConnectionInternal obj)
+   at System.Data.ProviderBase.DbConnectionPool.PutObject(DbConnectionInternal obj, Object owningObject)
+   at System.Data.ProviderBase.DbConnectionInternal.CloseConnection(DbConnection owningObject, DbConnectionFactory connectionFactory)
+   at System.Data.SqlClient.SqlConnection.CloseInnerConnection()
+   at System.Data.SqlClient.SqlConnection.Close()
+   at System.Data.SqlClient.SqlConnection.Dispose(Boolean disposing)
+   at System.ComponentModel.Component.Dispose()
+   at Microsoft.ApplicationBlocks.Data.SqlHelper.ExecuteDataset(String connectionString, CommandType commandType, String commandText, SqlParameter[] commandParameters)
+   at Microsoft.ApplicationBlocks.Data.SqlHelper.ExecuteDataset(String connectionString, CommandType commandType, String commandText)
+   at Microsoft.ApplicationBlocks.Data.SqlHelper.ExecuteDataset(String connectionString, String spName, Object[] parameterValues)
+   at ThanTaiProcess.GetLotteryResult() in e:\Project\ViSport_4.0\WS_S2\App_Code\ThanTaiProcess.cs:line 92
+   at ThanTaiProcess.Execute(Int32 jobID) in e:\Project\ViSport_4.0\WS_S2\App_Code\ThanTaiProcess.cs:line 33
+2015-12-14 15:27:41,263 [ERROR] 14 ThanTaiProcess - ***** ThanTai Loi lay tap User : System.Threading.SemaphoreFullException: Adding the specified count to the semaphore would cause it to exceed its maximum count.
+   at System.Threading.Semaphore.Release(Int32 releaseCount)
+   at System.Data.ProviderBase.DbConnectionPool.PutNewObject(DbConnectionInternal obj)
+   at System.Data.ProviderBase.DbConnectionPool.DeactivateObject(DbConnectionInternal obj)
+   at System.Data.ProviderBase.DbConnectionPool.PutObject(DbConnectionInternal obj, Object owningObject)
+   at System.Data.ProviderBase.DbConnectionInternal.CloseConnection(DbConnection owningObject, DbConnectionFactory connectionFactory)
+   at System.Data.SqlClient.SqlConnection.CloseInnerConnection()
+   at System.Data.SqlClient.SqlConnection.Close()
+   at System.Data.SqlClient.SqlConnection.Dispose(Boolean disposing)
+   at System.ComponentModel.Component.Dispose()
+   at Microsoft.ApplicationBlocks.Data.SqlHelper.ExecuteDataset(String connectionString, CommandType commandType, String commandText, SqlParameter[] commandParameters)
+   at Microsoft.ApplicationBlocks.Data.SqlHelper.ExecuteDataset(String connectionString, CommandType commandType, String commandText)
+   at Microsoft.ApplicationBlocks.Data.SqlHelper.ExecuteDataset(String connectionString, String spName, Object[] parameterValues)
+   at ThanTaiProcess.GetLotteryResult() in e:\Project\ViSport_4.0\WS_S2\App_Code\ThanTaiProcess.cs:line 92
+   at ThanTaiProcess.Execute(Int32 jobID) in e:\Project\ViSport_4.0\WS_S2\App_Code\ThanTaiProcess.cs:line 33
+2015-12-14 15:29:13,398 [ERROR] 13 ThanTaiProcess - ***** ThanTai Loi lay tap User : System.Threading.SemaphoreFullException: Adding the specified count to the semaphore would cause it to exceed its maximum count.
+   at System.Threading.Semaphore.Release(Int32 releaseCount)
+   at System.Data.ProviderBase.DbConnectionPool.PutNewObject(DbConnectionInternal obj)
+   at System.Data.ProviderBase.DbConnectionPool.DeactivateObject(DbConnectionInternal obj)
+   at System.Data.ProviderBase.DbConnectionPool.PutObject(DbConnectionInternal obj, Object owningObject)
+   at System.Data.ProviderBase.DbConnectionInternal.CloseConnection(DbConnection owningObject, DbConnectionFactory connectionFactory)
+   at System.Data.SqlClient.SqlConnection.CloseInnerConnection()
+   at System.Data.SqlClient.SqlConnection.Close()
+   at System.Data.SqlClient.SqlConnection.Dispose(Boolean disposing)
+   at System.ComponentModel.Component.Dispose()
+   at Microsoft.ApplicationBlocks.Data.SqlHelper.ExecuteDataset(String connectionString, CommandType commandType, String commandText, SqlParameter[] commandParameters)
+   at Microsoft.ApplicationBlocks.Data.SqlHelper.ExecuteDataset(String connectionString, CommandType commandType, String commandText)
+   at Microsoft.ApplicationBlocks.Data.SqlHelper.ExecuteDataset(String connectionString, String spName, Object[] parameterValues)
+   at ThanTaiProcess.GetLotteryResult() in e:\Project\ViSport_4.0\WS_S2\App_Code\ThanTaiProcess.cs:line 92
+   at ThanTaiProcess.Execute(Int32 jobID) in e:\Project\ViSport_4.0\WS_S2\App_Code\ThanTaiProcess.cs:line 33
+2015-12-14 15:30:09,464 [ERROR] 22 ThanTaiProcess - ***** ThanTai Loi lay tap User : System.Threading.SemaphoreFullException: Adding the specified count to the semaphore would cause it to exceed its maximum count.
+   at System.Threading.Semaphore.Release(Int32 releaseCount)
+   at System.Data.ProviderBase.DbConnectionPool.PutNewObject(DbConnectionInternal obj)
+   at System.Data.ProviderBase.DbConnectionPool.DeactivateObject(DbConnectionInternal obj)
+   at System.Data.ProviderBase.DbConnectionPool.PutObject(DbConnectionInternal obj, Object owningObject)
+   at System.Data.ProviderBase.DbConnectionInternal.CloseConnection(DbConnection owningObject, DbConnectionFactory connectionFactory)
+   at System.Data.SqlClient.SqlConnection.CloseInnerConnection()
+   at System.Data.SqlClient.SqlConnection.Close()
+   at System.Data.SqlClient.SqlConnection.Dispose(Boolean disposing)
+   at System.ComponentModel.Component.Dispose()
+   at Microsoft.ApplicationBlocks.Data.SqlHelper.ExecuteDataset(String connectionString, CommandType commandType, String commandText, SqlParameter[] commandParameters)
+   at Microsoft.ApplicationBlocks.Data.SqlHelper.ExecuteDataset(String connectionString, CommandType commandType, String commandText)
+   at Microsoft.ApplicationBlocks.Data.SqlHelper.ExecuteDataset(String connectionString, String spName, Object[] parameterValues)
+   at ThanTaiProcess.GetLotteryResult() in e:\Project\ViSport_4.0\WS_S2\App_Code\ThanTaiProcess.cs:line 92
+   at ThanTaiProcess.Execute(Int32 jobID) in e:\Project\ViSport_4.0\WS_S2\App_Code\ThanTaiProcess.cs:line 33
+2015-12-14 16:06:42,193 [DEBUG] 17 File -  
+2015-12-14 16:06:42,224 [DEBUG] 17 File -  
+2015-12-14 16:06:42,224 [DEBUG] 17 File - -------------------- CAP SO THAN TAI -------------------------
+2015-12-14 16:06:42,224 [DEBUG] 17 File - User_ID: 84983556703
+2015-12-14 16:06:42,224 [DEBUG] 17 File - Service_ID: 949
+2015-12-14 16:06:42,224 [DEBUG] 17 File - Command_Code: TT
+2015-12-14 16:06:42,224 [DEBUG] 17 File - Message: TT 05
+2015-12-14 16:06:42,224 [DEBUG] 17 File - Request_ID: 0
+2015-12-14 16:06:42,224 [DEBUG] 17 File -  
+2015-12-14 16:06:42,224 [DEBUG] 17 File -  
+2015-12-14 16:17:33,748 [DEBUG] 18 File -  
+2015-12-14 16:17:33,748 [DEBUG] 18 File -  
+2015-12-14 16:17:33,748 [DEBUG] 18 File - -------------------- CAP SO THAN TAI -------------------------
+2015-12-14 16:17:33,748 [DEBUG] 18 File - User_ID: 84983556703
+2015-12-14 16:17:33,748 [DEBUG] 18 File - Service_ID: 949
+2015-12-14 16:17:33,748 [DEBUG] 18 File - Command_Code: TT
+2015-12-14 16:17:33,748 [DEBUG] 18 File - Message: TT 05
+2015-12-14 16:17:33,748 [DEBUG] 18 File - Request_ID: 0
+2015-12-14 16:17:33,748 [DEBUG] 18 File -  
+2015-12-14 16:17:33,748 [DEBUG] 18 File -  
+2015-12-14 16:17:44,739 [DEBUG] 11 File -  
+2015-12-14 16:17:44,739 [DEBUG] 11 File -  
+2015-12-14 16:17:44,739 [DEBUG] 11 File - -------------------- CAP SO THAN TAI -------------------------
+2015-12-14 16:17:44,739 [DEBUG] 11 File - User_ID: 84983556703
+2015-12-14 16:17:44,739 [DEBUG] 11 File - Service_ID: 949
+2015-12-14 16:17:44,739 [DEBUG] 11 File - Command_Code: TT
+2015-12-14 16:17:44,739 [DEBUG] 11 File - Message: TT 69
+2015-12-14 16:17:44,739 [DEBUG] 11 File - Request_ID: 0
+2015-12-14 16:17:44,739 [DEBUG] 11 File -  
+2015-12-14 16:17:44,739 [DEBUG] 11 File -  
+2015-12-14 16:20:57,044 [DEBUG] 26 File -  
+2015-12-14 16:20:57,044 [DEBUG] 26 File -  
+2015-12-14 16:20:57,044 [DEBUG] 26 File - -------------------- CAP SO THAN TAI -------------------------
+2015-12-14 16:20:57,044 [DEBUG] 26 File - User_ID: 84983556703
+2015-12-14 16:20:57,044 [DEBUG] 26 File - Service_ID: 949
+2015-12-14 16:20:57,044 [DEBUG] 26 File - Command_Code: TT
+2015-12-14 16:20:57,044 [DEBUG] 26 File - Message: TT 36
+2015-12-14 16:20:57,044 [DEBUG] 26 File - Request_ID: 0
+2015-12-14 16:20:57,044 [DEBUG] 26 File -  
+2015-12-14 16:20:57,044 [DEBUG] 26 File -  
+2015-12-14 16:21:03,852 [DEBUG] 7 File -  
+2015-12-14 16:21:03,852 [DEBUG] 7 File -  
+2015-12-14 16:21:03,852 [DEBUG] 7 File - -------------------- CAP SO THAN TAI -------------------------
+2015-12-14 16:21:03,852 [DEBUG] 7 File - User_ID: 84983556703
+2015-12-14 16:21:03,852 [DEBUG] 7 File - Service_ID: 949
+2015-12-14 16:21:03,852 [DEBUG] 7 File - Command_Code: TT
+2015-12-14 16:21:03,852 [DEBUG] 7 File - Message: TT 43
+2015-12-14 16:21:03,852 [DEBUG] 7 File - Request_ID: 0
+2015-12-14 16:21:03,852 [DEBUG] 7 File -  
+2015-12-14 16:21:03,852 [DEBUG] 7 File -  
+2015-12-14 16:21:16,576 [DEBUG] 28 File -  
+2015-12-14 16:21:16,576 [DEBUG] 28 File -  
+2015-12-14 16:21:16,576 [DEBUG] 28 File - -------------------- CAP SO THAN TAI -------------------------
+2015-12-14 16:21:16,576 [DEBUG] 28 File - User_ID: 84983556703
+2015-12-14 16:21:16,576 [DEBUG] 28 File - Service_ID: 949
+2015-12-14 16:21:16,576 [DEBUG] 28 File - Command_Code: TT
+2015-12-14 16:21:16,576 [DEBUG] 28 File - Message: TT 55
+2015-12-14 16:21:16,576 [DEBUG] 28 File - Request_ID: 0
+2015-12-14 16:21:16,576 [DEBUG] 28 File -  
+2015-12-14 16:21:16,576 [DEBUG] 28 File -  
+2015-12-14 16:21:43,781 [DEBUG] 7 File -  
+2015-12-14 16:21:43,781 [DEBUG] 7 File -  
+2015-12-14 16:21:43,781 [DEBUG] 7 File - -------------------- CAP SO THAN TAI -------------------------
+2015-12-14 16:21:43,781 [DEBUG] 7 File - User_ID: 84983556703
+2015-12-14 16:21:43,781 [DEBUG] 7 File - Service_ID: 949
+2015-12-14 16:21:43,781 [DEBUG] 7 File - Command_Code: TT
+2015-12-14 16:21:43,781 [DEBUG] 7 File - Message: TT 22
+2015-12-14 16:21:43,781 [DEBUG] 7 File - Request_ID: 0
+2015-12-14 16:21:43,781 [DEBUG] 7 File -  
+2015-12-14 16:21:43,781 [DEBUG] 7 File -  
+2015-12-14 17:34:40,264 [DEBUG] 106 File -  
+2015-12-14 17:34:40,288 [DEBUG] 106 File -  
+2015-12-14 17:34:40,288 [DEBUG] 106 File - -------------------- CAP SO THAN TAI -------------------------
+2015-12-14 17:34:40,288 [DEBUG] 106 File - User_ID: 84983556703
+2015-12-14 17:34:40,288 [DEBUG] 106 File - Service_ID: 949
+2015-12-14 17:34:40,288 [DEBUG] 106 File - Command_Code: TT
+2015-12-14 17:34:40,288 [DEBUG] 106 File - Message: TT 88DFGS
+2015-12-14 17:34:40,288 [DEBUG] 106 File - Request_ID: 0
+2015-12-14 17:34:40,288 [DEBUG] 106 File -  
+2015-12-14 17:34:40,288 [DEBUG] 106 File -  

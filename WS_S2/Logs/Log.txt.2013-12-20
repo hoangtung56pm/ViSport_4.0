@@ -1,0 +1,20 @@
+2013-12-20 14:07:29,272 [DEBUG] 9 File -  
+2013-12-20 14:07:29,287 [DEBUG] 9 File -  
+2013-12-20 14:07:29,287 [DEBUG] 9 File - --------------------VOTE MOBI FROM Mr.T-------------------------
+2013-12-20 14:07:29,287 [DEBUG] 9 File - User_ID: 
+2013-12-20 14:07:29,287 [DEBUG] 9 File - Command_Code: 
+2013-12-20 14:07:29,287 [DEBUG] 9 File - Type: 
+2013-12-20 14:07:29,287 [DEBUG] 9 File -  
+2013-12-20 14:07:29,287 [DEBUG] 9 File -  
+2013-12-20 15:09:29,406 [DEBUG] 10 File -  
+2013-12-20 15:09:29,781 [DEBUG] 10 File -  
+2013-12-20 15:09:30,156 [DEBUG] 10 File - --------------------MO 949 Log-------------------------
+2013-12-20 15:09:30,531 [DEBUG] 10 File - User_ID: 84926004803
+2013-12-20 15:09:30,906 [DEBUG] 10 File - Service_ID: 949
+2013-12-20 15:09:31,234 [DEBUG] 10 File - Command_Code: VIDEOHAY
+2013-12-20 15:09:31,562 [DEBUG] 10 File - Message: VIDEOHAY
+2013-12-20 15:09:31,968 [DEBUG] 10 File - Request_ID: 7413624608
+2013-12-20 15:09:32,437 [DEBUG] 10 File -  
+2013-12-20 15:09:33,625 [DEBUG] 10 File -  
+2013-12-20 15:18:14,618 [DEBUG] 10 File - ---------------Error sentMT----------------------
+2013-12-20 15:18:14,618 [DEBUG] 10 File - Get Error : Invalid object name 'Mo_Charged_Users_Log'., returnValue: 0

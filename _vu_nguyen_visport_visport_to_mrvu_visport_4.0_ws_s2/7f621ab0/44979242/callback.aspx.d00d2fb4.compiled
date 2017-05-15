@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/D:/VU_NGUYEN/ViSport/VISPORT_TO_MrVU/ViSport_4.0/WS_S2/Zalo/Callback.aspx" hash="fffffff72e514e86" filehash="8cb86a5bcf566456" flags="110000" assembly="App_Web_lo2u0iss" type="ASP.zalo_callback_aspx">
+    <filedeps>
+        <filedep name="/D:/VU_NGUYEN/ViSport/VISPORT_TO_MrVU/ViSport_4.0/WS_S2/Zalo/Callback.aspx" />
+        <filedep name="/D:/VU_NGUYEN/ViSport/VISPORT_TO_MrVU/ViSport_4.0/WS_S2/Zalo/Callback.aspx.cs" />
+    </filedeps>
+</preserve>

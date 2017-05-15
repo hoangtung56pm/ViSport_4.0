@@ -1,0 +1,62 @@
+2016-11-07 11:15:44,299 [DEBUG] 7 File -  
+2016-11-07 11:15:44,523 [DEBUG] 7 File -  
+2016-11-07 11:15:44,742 [DEBUG] 7 File - --------------------viSPORT-------------------------
+2016-11-07 11:15:45,383 [DEBUG] 7 File - User_ID: 841866728649
+2016-11-07 11:15:45,608 [DEBUG] 7 File - Service_ID: 979
+2016-11-07 11:15:45,821 [DEBUG] 7 File - Command_Code: dk
+2016-11-07 11:15:46,043 [DEBUG] 7 File - Message: DK TP
+2016-11-07 11:15:46,233 [DEBUG] 7 File - Request_ID: 1
+2016-11-07 11:15:46,432 [DEBUG] 7 File -  
+2016-11-07 11:15:46,926 [DEBUG] 7 File -  
+2016-11-07 11:17:13,196 [DEBUG] 6 File -  
+2016-11-07 11:17:13,397 [DEBUG] 6 File -  
+2016-11-07 11:17:13,636 [DEBUG] 6 File - --------------------viSPORT-------------------------
+2016-11-07 11:17:13,870 [DEBUG] 6 File - User_ID: 841866728649
+2016-11-07 11:17:14,080 [DEBUG] 6 File - Service_ID: 979
+2016-11-07 11:17:14,260 [DEBUG] 6 File - Command_Code: dk
+2016-11-07 11:17:14,459 [DEBUG] 6 File - Message: DK TP
+2016-11-07 11:17:14,654 [DEBUG] 6 File - Request_ID: 1
+2016-11-07 11:17:15,812 [DEBUG] 6 File -  
+2016-11-07 11:17:15,812 [DEBUG] 6 File -  
+2016-11-07 11:18:32,662 [DEBUG] 15 File -  
+2016-11-07 11:18:32,662 [DEBUG] 15 File -  
+2016-11-07 11:18:32,662 [DEBUG] 15 File - --------------------viSPORT-------------------------
+2016-11-07 11:18:32,662 [DEBUG] 15 File - User_ID: 841866728649
+2016-11-07 11:18:32,662 [DEBUG] 15 File - Service_ID: 979
+2016-11-07 11:18:32,662 [DEBUG] 15 File - Command_Code: dk
+2016-11-07 11:18:32,662 [DEBUG] 15 File - Message: DK TP
+2016-11-07 11:18:32,662 [DEBUG] 15 File - Request_ID: 1
+2016-11-07 11:18:32,662 [DEBUG] 15 File -  
+2016-11-07 11:18:32,662 [DEBUG] 15 File -  
+2016-11-07 11:19:04,843 [DEBUG] 16 File -  
+2016-11-07 11:19:05,082 [DEBUG] 16 File -  
+2016-11-07 11:19:05,284 [DEBUG] 16 File - --------------------viSPORT-------------------------
+2016-11-07 11:19:05,524 [DEBUG] 16 File - User_ID: 841866728649
+2016-11-07 11:19:05,718 [DEBUG] 16 File - Service_ID: 979
+2016-11-07 11:19:05,905 [DEBUG] 16 File - Command_Code: y
+2016-11-07 11:19:06,110 [DEBUG] 16 File - Message: Y
+2016-11-07 11:19:06,387 [DEBUG] 16 File - Request_ID: 1
+2016-11-07 11:19:06,595 [DEBUG] 16 File -  
+2016-11-07 11:19:06,914 [DEBUG] 16 File -  
+2016-11-07 11:19:22,671 [DEBUG] 16 File - ---------------Error sentMT----------------------
+2016-11-07 11:19:22,671 [DEBUG] 16 File - Get Error : The stored procedure 'Visport_GetUserRegister' doesn't exist., returnValue: 0
+2016-11-07 11:22:37,717 [DEBUG] 17 File -  
+2016-11-07 11:22:37,928 [DEBUG] 17 File -  
+2016-11-07 11:22:38,157 [DEBUG] 17 File - --------------------viSPORT-------------------------
+2016-11-07 11:22:38,390 [DEBUG] 17 File - User_ID: 841866728649
+2016-11-07 11:22:38,631 [DEBUG] 17 File - Service_ID: 979
+2016-11-07 11:22:38,876 [DEBUG] 17 File - Command_Code: y
+2016-11-07 11:22:39,622 [DEBUG] 17 File - Message: Y
+2016-11-07 11:22:39,839 [DEBUG] 17 File - Request_ID: 1
+2016-11-07 11:22:40,052 [DEBUG] 17 File -  
+2016-11-07 11:22:40,381 [DEBUG] 17 File -  
+2016-11-07 11:25:08,711 [DEBUG] 11 File -  
+2016-11-07 11:25:09,196 [DEBUG] 11 File -  
+2016-11-07 11:25:09,460 [DEBUG] 11 File - --------------------viSPORT-------------------------
+2016-11-07 11:25:09,758 [DEBUG] 11 File - User_ID: 841866728649
+2016-11-07 11:25:09,973 [DEBUG] 11 File - Service_ID: 979
+2016-11-07 11:25:10,170 [DEBUG] 11 File - Command_Code: y
+2016-11-07 11:25:10,366 [DEBUG] 11 File - Message: Y
+2016-11-07 11:25:11,184 [DEBUG] 11 File - Request_ID: 0
+2016-11-07 11:25:11,421 [DEBUG] 11 File -  
+2016-11-07 11:25:11,698 [DEBUG] 11 File -  

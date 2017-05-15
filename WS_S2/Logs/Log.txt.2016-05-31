@@ -1,0 +1,191 @@
+2016-05-31 11:46:06,832 [ERROR] 9 SamGpcCdrAdd - CDR Loi UPDATE Unique_Id SAM : System.Data.SqlClient.SqlException (0x80131904): Timeout expired.  The timeout period elapsed prior to completion of the operation or the server is not responding. ---> System.ComponentModel.Win32Exception (0x80004005): The wait operation timed out
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParserStateObject.ReadSniError(TdsParserStateObject stateObj, UInt32 error)
+   at System.Data.SqlClient.TdsParserStateObject.ReadSniSyncOverAsync()
+   at System.Data.SqlClient.TdsParserStateObject.TryReadNetworkPacket()
+   at System.Data.SqlClient.TdsParserStateObject.TryPrepareBuffer()
+   at System.Data.SqlClient.TdsParserStateObject.TryReadByte(Byte& value)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, SqlDataReader ds)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean asyncWrite)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean asyncWrite)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at Microsoft.ApplicationBlocks.Data.SqlHelper.ExecuteNonQuery(SqlConnection connection, CommandType commandType, String commandText, SqlParameter[] commandParameters)
+   at Microsoft.ApplicationBlocks.Data.SqlHelper.ExecuteNonQuery(String connectionString, CommandType commandType, String commandText, SqlParameter[] commandParameters)
+   at Microsoft.ApplicationBlocks.Data.SqlHelper.ExecuteNonQuery(String connectionString, CommandType commandType, String commandText)
+   at Microsoft.ApplicationBlocks.Data.SqlHelper.ExecuteNonQuery(String connectionString, String spName, Object[] parameterValues)
+   at ViSport_S2_Registered_UsersController.SamGpcCdrAdd() in e:\Project\ViSport_4.0\WS_S2\App_Code\ViSport_S2_Registered\ViSport_S2_Registered_UsersController.cs:line 1535
+   at SamGpcCdrAdd.Execute(Int32 jobID) in e:\Project\ViSport_4.0\WS_S2\App_Code\SamGpcCdrAdd.cs:line 29
+ClientConnectionId:db80e395-4697-4f85-9868-5163702791a1
+2016-05-31 11:48:21,008 [ERROR] 12 SamGpcCdrAdd - CDR Loi UPDATE Unique_Id SAM : System.Data.SqlClient.SqlException (0x80131904): Timeout expired.  The timeout period elapsed prior to completion of the operation or the server is not responding. ---> System.ComponentModel.Win32Exception (0x80004005): The wait operation timed out
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, SqlDataReader ds)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean asyncWrite)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean asyncWrite)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at Microsoft.ApplicationBlocks.Data.SqlHelper.ExecuteNonQuery(SqlConnection connection, CommandType commandType, String commandText, SqlParameter[] commandParameters)
+   at Microsoft.ApplicationBlocks.Data.SqlHelper.ExecuteNonQuery(String connectionString, CommandType commandType, String commandText, SqlParameter[] commandParameters)
+   at Microsoft.ApplicationBlocks.Data.SqlHelper.ExecuteNonQuery(String connectionString, CommandType commandType, String commandText)
+   at Microsoft.ApplicationBlocks.Data.SqlHelper.ExecuteNonQuery(String connectionString, String spName, Object[] parameterValues)
+   at ViSport_S2_Registered_UsersController.SamGpcCdrAdd() in e:\Project\ViSport_4.0\WS_S2\App_Code\ViSport_S2_Registered\ViSport_S2_Registered_UsersController.cs:line 1535
+   at SamGpcCdrAdd.Execute(Int32 jobID) in e:\Project\ViSport_4.0\WS_S2\App_Code\SamGpcCdrAdd.cs:line 29
+ClientConnectionId:f3248da4-7823-43b7-ae9b-88cc91ddb01e
+2016-05-31 12:00:12,526 [ERROR] 13 CdrGpc - CDR Loi lay Tap User : System.Data.SqlClient.SqlException (0x80131904): Timeout expired.  The timeout period elapsed prior to completion of the operation or the server is not responding. ---> System.ComponentModel.Win32Exception (0x80004005): The wait operation timed out
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, SqlDataReader ds)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean asyncWrite)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet)
+   at Microsoft.ApplicationBlocks.Data.SqlHelper.ExecuteDataset(SqlConnection connection, CommandType commandType, String commandText, SqlParameter[] commandParameters)
+   at Microsoft.ApplicationBlocks.Data.SqlHelper.ExecuteDataset(String connectionString, CommandType commandType, String commandText, SqlParameter[] commandParameters)
+   at Microsoft.ApplicationBlocks.Data.SqlHelper.ExecuteDataset(String connectionString, String spName, Object[] parameterValues)
+   at ViSport_S2_Registered_UsersController.CdrGpc(Int32 partnerId) in e:\Project\ViSport_4.0\WS_S2\App_Code\ViSport_S2_Registered\ViSport_S2_Registered_UsersController.cs:line 1396
+   at CdrGenerate.Execute(Int32 jobId) in e:\Project\ViSport_4.0\WS_S2\App_Code\CdrGenerate.cs:line 115
+ClientConnectionId:fdbd4a86-f27c-4256-bbe4-28f2fdac4cc1
+2016-05-31 12:39:09,816 [ERROR] 47 SamGpcCdrAdd - CDR Loi UPDATE Unique_Id SAM : System.Data.SqlClient.SqlException (0x80131904): Timeout expired.  The timeout period elapsed prior to completion of the operation or the server is not responding. ---> System.ComponentModel.Win32Exception (0x80004005): The wait operation timed out
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, SqlDataReader ds)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean asyncWrite)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean asyncWrite)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at Microsoft.ApplicationBlocks.Data.SqlHelper.ExecuteNonQuery(SqlConnection connection, CommandType commandType, String commandText, SqlParameter[] commandParameters)
+   at Microsoft.ApplicationBlocks.Data.SqlHelper.ExecuteNonQuery(String connectionString, CommandType commandType, String commandText, SqlParameter[] commandParameters)
+   at Microsoft.ApplicationBlocks.Data.SqlHelper.ExecuteNonQuery(String connectionString, CommandType commandType, String commandText)
+   at Microsoft.ApplicationBlocks.Data.SqlHelper.ExecuteNonQuery(String connectionString, String spName, Object[] parameterValues)
+   at ViSport_S2_Registered_UsersController.SamGpcCdrAdd() in e:\Project\ViSport_4.0\WS_S2\App_Code\ViSport_S2_Registered\ViSport_S2_Registered_UsersController.cs:line 1535
+   at SamGpcCdrAdd.Execute(Int32 jobID) in e:\Project\ViSport_4.0\WS_S2\App_Code\SamGpcCdrAdd.cs:line 29
+ClientConnectionId:a88f38be-a437-49f3-9e62-f84e6951c3fe
+2016-05-31 12:46:00,271 [ERROR] 37 CdrGpc - CDR Loi lay Tap User : System.Data.SqlClient.SqlException (0x80131904): Timeout expired.  The timeout period elapsed prior to completion of the operation or the server is not responding. ---> System.ComponentModel.Win32Exception (0x80004005): The wait operation timed out
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, SqlDataReader ds)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean asyncWrite)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet)
+   at Microsoft.ApplicationBlocks.Data.SqlHelper.ExecuteDataset(SqlConnection connection, CommandType commandType, String commandText, SqlParameter[] commandParameters)
+   at Microsoft.ApplicationBlocks.Data.SqlHelper.ExecuteDataset(String connectionString, CommandType commandType, String commandText, SqlParameter[] commandParameters)
+   at Microsoft.ApplicationBlocks.Data.SqlHelper.ExecuteDataset(String connectionString, String spName, Object[] parameterValues)
+   at ViSport_S2_Registered_UsersController.CdrGpc(Int32 partnerId) in e:\Project\ViSport_4.0\WS_S2\App_Code\ViSport_S2_Registered\ViSport_S2_Registered_UsersController.cs:line 1396
+   at CdrGenerate.Execute(Int32 jobId) in e:\Project\ViSport_4.0\WS_S2\App_Code\CdrGenerate.cs:line 115
+ClientConnectionId:4df7efa8-5758-4205-b779-8861cb95a122
+2016-05-31 14:21:10,059 [DEBUG] 38 File -  
+2016-05-31 14:21:10,761 [DEBUG] 38 File -  
+2016-05-31 14:21:11,230 [DEBUG] 38 File - -------------------- CHAY CUNG EURO 2016 -------------------------
+2016-05-31 14:21:11,736 [DEBUG] 38 File - User_ID: 841882406279
+2016-05-31 14:21:12,097 [DEBUG] 38 File - Service_ID: 979
+2016-05-31 14:21:12,514 [DEBUG] 38 File - Command_Code: EU
+2016-05-31 14:21:12,919 [DEBUG] 38 File - Message: EU
+2016-05-31 14:21:13,314 [DEBUG] 38 File - Request_ID: 1
+2016-05-31 14:21:13,688 [DEBUG] 38 File -  
+2016-05-31 14:21:14,066 [DEBUG] 38 File -  
+2016-05-31 14:46:09,442 [DEBUG] 9 File -  
+2016-05-31 14:46:09,910 [DEBUG] 9 File -  
+2016-05-31 14:46:10,361 [DEBUG] 9 File - -------------------- CHAY CUNG EURO 2016 -------------------------
+2016-05-31 14:46:10,804 [DEBUG] 9 File - User_ID: 841882406279
+2016-05-31 14:46:11,032 [DEBUG] 9 File - Service_ID: 979
+2016-05-31 14:46:11,287 [DEBUG] 9 File - Command_Code: EU
+2016-05-31 14:46:11,673 [DEBUG] 9 File - Message: EU
+2016-05-31 14:46:11,962 [DEBUG] 9 File - Request_ID: 1
+2016-05-31 14:46:12,279 [DEBUG] 9 File -  
+2016-05-31 14:46:12,597 [DEBUG] 9 File -  
+2016-05-31 14:47:20,533 [DEBUG] 11 File -  
+2016-05-31 14:47:20,533 [DEBUG] 11 File -  
+2016-05-31 14:47:20,534 [DEBUG] 11 File - -------------------- CHAY CUNG EURO 2016 -------------------------
+2016-05-31 14:47:20,534 [DEBUG] 11 File - User_ID: 841882406279
+2016-05-31 14:47:20,534 [DEBUG] 11 File - Service_ID: 979
+2016-05-31 14:47:20,534 [DEBUG] 11 File - Command_Code: A
+2016-05-31 14:47:20,534 [DEBUG] 11 File - Message: A
+2016-05-31 14:47:20,534 [DEBUG] 11 File - Request_ID: 1
+2016-05-31 14:47:20,534 [DEBUG] 11 File -  
+2016-05-31 14:47:20,534 [DEBUG] 11 File -  
+2016-05-31 14:49:54,114 [DEBUG] 17 File -  
+2016-05-31 14:49:54,115 [DEBUG] 17 File -  
+2016-05-31 14:49:54,115 [DEBUG] 17 File - -------------------- CHAY CUNG EURO 2016 -------------------------
+2016-05-31 14:49:54,115 [DEBUG] 17 File - User_ID: 841882406279
+2016-05-31 14:49:54,115 [DEBUG] 17 File - Service_ID: 979
+2016-05-31 14:49:54,115 [DEBUG] 17 File - Command_Code: A
+2016-05-31 14:49:54,115 [DEBUG] 17 File - Message: A
+2016-05-31 14:49:54,115 [DEBUG] 17 File - Request_ID: 1
+2016-05-31 14:49:54,115 [DEBUG] 17 File -  
+2016-05-31 14:49:54,115 [DEBUG] 17 File -  
+2016-05-31 14:56:15,743 [DEBUG] 21 File -  
+2016-05-31 14:56:15,748 [DEBUG] 21 File -  
+2016-05-31 14:56:15,748 [DEBUG] 21 File - -------------------- CHAY CUNG EURO 2016 -------------------------
+2016-05-31 14:56:15,748 [DEBUG] 21 File - User_ID: 841882406279
+2016-05-31 14:56:15,748 [DEBUG] 21 File - Service_ID: 979
+2016-05-31 14:56:15,748 [DEBUG] 21 File - Command_Code: A
+2016-05-31 14:56:15,748 [DEBUG] 21 File - Message: A
+2016-05-31 14:56:15,748 [DEBUG] 21 File - Request_ID: 1
+2016-05-31 14:56:15,748 [DEBUG] 21 File -  
+2016-05-31 14:56:15,748 [DEBUG] 21 File -  
+2016-05-31 14:58:00,634 [DEBUG] 21 File -  
+2016-05-31 14:58:00,634 [DEBUG] 21 File -  
+2016-05-31 14:58:00,634 [DEBUG] 21 File - -------------------- CHAY CUNG EURO 2016 -------------------------
+2016-05-31 14:58:00,634 [DEBUG] 21 File - User_ID: 841882406279
+2016-05-31 14:58:00,634 [DEBUG] 21 File - Service_ID: 979
+2016-05-31 14:58:00,634 [DEBUG] 21 File - Command_Code: A
+2016-05-31 14:58:00,634 [DEBUG] 21 File - Message: A
+2016-05-31 14:58:00,634 [DEBUG] 21 File - Request_ID: 1
+2016-05-31 14:58:00,634 [DEBUG] 21 File -  
+2016-05-31 14:58:00,634 [DEBUG] 21 File -  
+2016-05-31 14:58:22,004 [DEBUG] 19 File -  
+2016-05-31 14:58:22,004 [DEBUG] 19 File -  
+2016-05-31 14:58:22,004 [DEBUG] 19 File - -------------------- CHAY CUNG EURO 2016 -------------------------
+2016-05-31 14:58:22,004 [DEBUG] 19 File - User_ID: 841882406279
+2016-05-31 14:58:22,004 [DEBUG] 19 File - Service_ID: 979
+2016-05-31 14:58:22,004 [DEBUG] 19 File - Command_Code: B
+2016-05-31 14:58:22,004 [DEBUG] 19 File - Message: B
+2016-05-31 14:58:22,004 [DEBUG] 19 File - Request_ID: 1
+2016-05-31 14:58:22,004 [DEBUG] 19 File -  
+2016-05-31 14:58:22,004 [DEBUG] 19 File -  
+2016-05-31 15:08:02,355 [DEBUG] 21 File -  
+2016-05-31 15:08:02,355 [DEBUG] 21 File -  
+2016-05-31 15:08:02,355 [DEBUG] 21 File - -------------------- CHAY CUNG EURO 2016 -------------------------
+2016-05-31 15:08:02,355 [DEBUG] 21 File - User_ID: 841882406279
+2016-05-31 15:08:02,355 [DEBUG] 21 File - Service_ID: 979
+2016-05-31 15:08:02,355 [DEBUG] 21 File - Command_Code: DHF%^0
+2016-05-31 15:08:02,355 [DEBUG] 21 File - Message: DHF%^0
+2016-05-31 15:08:02,355 [DEBUG] 21 File - Request_ID: 1
+2016-05-31 15:08:02,355 [DEBUG] 21 File -  
+2016-05-31 15:08:02,355 [DEBUG] 21 File -  
+2016-05-31 15:09:04,274 [DEBUG] 20 File -  
+2016-05-31 15:09:04,274 [DEBUG] 20 File -  
+2016-05-31 15:09:04,274 [DEBUG] 20 File - -------------------- CHAY CUNG EURO 2016 -------------------------
+2016-05-31 15:09:04,274 [DEBUG] 20 File - User_ID: 841882406279
+2016-05-31 15:09:04,274 [DEBUG] 20 File - Service_ID: 979
+2016-05-31 15:09:04,274 [DEBUG] 20 File - Command_Code: A
+2016-05-31 15:09:04,274 [DEBUG] 20 File - Message: A
+2016-05-31 15:09:04,274 [DEBUG] 20 File - Request_ID: 1
+2016-05-31 15:09:04,274 [DEBUG] 20 File -  
+2016-05-31 15:09:04,274 [DEBUG] 20 File -  

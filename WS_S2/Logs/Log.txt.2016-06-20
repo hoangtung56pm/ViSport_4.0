@@ -1,0 +1,14 @@
+2016-06-20 14:50:09,745 [ERROR] 91 CdrGpc - Imobi CDR Error : System.IO.IOException: The process cannot access the file 'E:\Project\ViSport_4.0\WS_S2\Sam_Cdr\vmg_dn_vn_2016619.csv' because it is being used by another process.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamWriter.CreateFile(String path, Boolean append, Boolean checkHost)
+   at System.IO.StreamWriter..ctor(String path, Boolean append, Encoding encoding, Int32 bufferSize, Boolean checkHost)
+   at System.IO.File.InternalWriteAllText(String path, String contents, Encoding encoding, Boolean checkHost)
+   at System.IO.File.WriteAllText(String path, String contents)
+   at Imobi.Execute(Int32 jobId) in e:\Project\ViSport_4.0\WS_S2\App_Code\Imobi.cs:line 123
+2016-06-20 14:53:48,625 [ERROR] 91 CdrGpc - Imobi CDR Error : System.ArgumentException: Column 'User_Id' does not belong to table Table.
+   at System.Data.DataRow.GetDataColumn(String columnName)
+   at System.Data.DataRow.get_Item(String columnName)
+   at Imobi.Execute(Int32 jobId) in e:\Project\ViSport_4.0\WS_S2\App_Code\Imobi.cs:line 201
+2016-06-20 16:04:16,323 [DEBUG] 59 CdrGpc - Imobi CDR - jobID :1

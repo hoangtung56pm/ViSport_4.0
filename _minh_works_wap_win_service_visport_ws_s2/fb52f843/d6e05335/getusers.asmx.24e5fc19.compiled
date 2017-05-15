@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="2" virtualPath="/E:/Minh_Works/Wap/WIN_SERVICE/ViSport/WS_S2/JobSubs/Sport/GetUsers.asmx" hash="52337521" filehash="28717d3c847c" flags="130000" assembly="App_Code" type="GetUsers">
+    <filedeps>
+        <filedep name="/E:/Minh_Works/Wap/WIN_SERVICE/ViSport/WS_S2/JobSubs/Sport/GetUsers.asmx" />
+    </filedeps>
+</preserve>

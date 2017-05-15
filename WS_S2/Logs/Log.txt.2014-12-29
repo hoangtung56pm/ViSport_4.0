@@ -1,0 +1,40 @@
+2014-12-29 16:59:41,003 [ERROR] 9 CdrGpc - CDR_GPC Loi lay Tap User : System.InvalidOperationException: Failed to map the path '/Sam_Cdr/Cdr_Gpc_201412.txt'.
+   at System.Web.Hosting.HostingEnvironment.MapPathActual(VirtualPath virtualPath, Boolean permitNull)
+   at System.Web.Hosting.HostingEnvironment.MapPathInternal(VirtualPath virtualPath)
+   at System.Web.VirtualPath.MapPathInternal()
+   at System.Web.HttpRequest.MapPath(VirtualPath virtualPath, VirtualPath baseVirtualDir, Boolean allowCrossAppMapping)
+   at System.Web.HttpRequest.MapPath(VirtualPath virtualPath)
+   at System.Web.HttpServerUtility.MapPath(String path)
+   at CdrGpc.Execute(Int32 jobID) in e:\Minh_Works\Wap\WIN_SERVICE\ViSport\WS_S2\App_Code\CdrGpc.cs:line 39
+2014-12-29 17:00:45,414 [ERROR] 5 CdrGpc - CDR_GPC Loi lay Tap User : System.InvalidOperationException: Failed to map the path '/Sam_Cdr/Cdr_Gpc_201412.txt'.
+   at System.Web.Hosting.HostingEnvironment.MapPathActual(VirtualPath virtualPath, Boolean permitNull)
+   at System.Web.Hosting.HostingEnvironment.MapPathInternal(VirtualPath virtualPath)
+   at System.Web.VirtualPath.MapPathInternal()
+   at System.Web.HttpRequest.MapPath(VirtualPath virtualPath, VirtualPath baseVirtualDir, Boolean allowCrossAppMapping)
+   at System.Web.HttpRequest.MapPath(VirtualPath virtualPath)
+   at System.Web.HttpServerUtility.MapPath(String path)
+   at CdrGpc.Execute(Int32 jobID) in e:\Minh_Works\Wap\WIN_SERVICE\ViSport\WS_S2\App_Code\CdrGpc.cs:line 39
+2014-12-29 17:01:46,970 [ERROR] 11 CdrGpc - CDR_GPC Loi lay Tap User : System.InvalidOperationException: Failed to map the path '/Sam_Cdr/Cdr_Gpc_201412.txt'.
+   at System.Web.Hosting.HostingEnvironment.MapPathActual(VirtualPath virtualPath, Boolean permitNull)
+   at System.Web.Hosting.HostingEnvironment.MapPathInternal(VirtualPath virtualPath)
+   at System.Web.VirtualPath.MapPathInternal()
+   at System.Web.HttpRequest.MapPath(VirtualPath virtualPath, VirtualPath baseVirtualDir, Boolean allowCrossAppMapping)
+   at System.Web.HttpRequest.MapPath(VirtualPath virtualPath)
+   at System.Web.HttpServerUtility.MapPath(String path)
+   at CdrGpc.Execute(Int32 jobID) in e:\Minh_Works\Wap\WIN_SERVICE\ViSport\WS_S2\App_Code\CdrGpc.cs:line 39
+2014-12-29 17:05:18,127 [ERROR] 5 CdrGpc - CDR_GPC Loi lay Tap User : System.InvalidOperationException: Failed to map the path '/Sam_Cdr/Cdr.txt'.
+   at System.Web.Hosting.HostingEnvironment.MapPathActual(VirtualPath virtualPath, Boolean permitNull)
+   at System.Web.Hosting.HostingEnvironment.MapPathInternal(VirtualPath virtualPath)
+   at System.Web.VirtualPath.MapPathInternal()
+   at System.Web.HttpRequest.MapPath(VirtualPath virtualPath, VirtualPath baseVirtualDir, Boolean allowCrossAppMapping)
+   at System.Web.HttpRequest.MapPath(VirtualPath virtualPath)
+   at System.Web.HttpServerUtility.MapPath(String path)
+   at CdrGpc.Execute(Int32 jobID) in e:\Minh_Works\Wap\WIN_SERVICE\ViSport\WS_S2\App_Code\CdrGpc.cs:line 36
+2014-12-29 17:09:50,750 [ERROR] 5 CdrGpc - CDR_GPC Loi lay Tap User : System.InvalidOperationException: Failed to map the path '/Sam_Cdr'.
+   at System.Web.Hosting.HostingEnvironment.MapPathActual(VirtualPath virtualPath, Boolean permitNull)
+   at System.Web.Hosting.HostingEnvironment.MapPathInternal(VirtualPath virtualPath)
+   at System.Web.VirtualPath.MapPathInternal()
+   at System.Web.HttpRequest.MapPath(VirtualPath virtualPath, VirtualPath baseVirtualDir, Boolean allowCrossAppMapping)
+   at System.Web.HttpRequest.MapPath(VirtualPath virtualPath)
+   at System.Web.HttpServerUtility.MapPath(String path)
+   at CdrGpc.Execute(Int32 jobID) in e:\Minh_Works\Wap\WIN_SERVICE\ViSport\WS_S2\App_Code\CdrGpc.cs:line 36

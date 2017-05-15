@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:tm="http://microsoft.com/wsdl/mime/textMatching/" xmlns:mime="http://schemas.xmlsoap.org/wsdl/mime/" xmlns:tns="http://tempuri.org/" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:s="http://www.w3.org/2001/XMLSchema" xmlns:http="http://schemas.xmlsoap.org/wsdl/http/" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" targetNamespace="http://tempuri.org/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <s:schema elementFormDefault="qualified" targetNamespace="http://tempuri.org/">
+      <s:element name="SyncSubscriptionData">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="ShortCode" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="CommandCode" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="UserID" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="Message" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="RequestID" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="ServiceID" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="RefID" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="UpdateType" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="UpdateDescription" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="SyncSubscriptionDataResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="SyncSubscriptionDataResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+    </s:schema>
+  </wsdl:types>
+  <wsdl:message name="SyncSubscriptionDataSoapIn">
+    <wsdl:part name="parameters" element="tns:SyncSubscriptionData" />
+  </wsdl:message>
+  <wsdl:message name="SyncSubscriptionDataSoapOut">
+    <wsdl:part name="parameters" element="tns:SyncSubscriptionDataResponse" />
+  </wsdl:message>
+  <wsdl:portType name="ServiceHandlerSoap">
+    <wsdl:operation name="SyncSubscriptionData">
+      <wsdl:input message="tns:SyncSubscriptionDataSoapIn" />
+      <wsdl:output message="tns:SyncSubscriptionDataSoapOut" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="ServiceHandlerSoap" type="tns:ServiceHandlerSoap">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="SyncSubscriptionData">
+      <soap:operation soapAction="http://tempuri.org/SyncSubscriptionData" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:binding name="ServiceHandlerSoap1" type="tns:ServiceHandlerSoap">
+    <soap12:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="SyncSubscriptionData">
+      <soap12:operation soapAction="http://tempuri.org/SyncSubscriptionData" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="NC1_Handler">
+    <wsdl:port name="ServiceHandlerSoap" binding="tns:ServiceHandlerSoap">
+      <soap:address location="http://sv36.vmgmedia.vn:9005/ServiceHandlers/NC1_Handler.asmx" />
+    </wsdl:port>
+    <wsdl:port name="ServiceHandlerSoap1" binding="tns:ServiceHandlerSoap1">
+      <soap12:address location="http://sv36.vmgmedia.vn:9005/ServiceHandlers/NC1_Handler.asmx" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

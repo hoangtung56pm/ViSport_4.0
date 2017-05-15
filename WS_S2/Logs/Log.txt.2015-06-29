@@ -1,0 +1,122 @@
+2015-06-29 09:23:26,712 [DEBUG] 9 ZaloMoProcess -  
+2015-06-29 09:23:26,729 [DEBUG] 9 ZaloMoProcess -  
+2015-06-29 09:23:26,729 [DEBUG] 9 ZaloMoProcess - -------------------- Zalo Mo Process -------------------------
+2015-06-29 09:23:26,729 [DEBUG] 9 ZaloMoProcess - User_ID: 84988031353
+2015-06-29 09:23:26,729 [DEBUG] 9 ZaloMoProcess - Service_ID: 8179
+2015-06-29 09:23:26,730 [DEBUG] 9 ZaloMoProcess - Command_Code: ZALO
+2015-06-29 09:23:26,730 [DEBUG] 9 ZaloMoProcess - Message: ZALOBD
+2015-06-29 09:23:26,730 [DEBUG] 9 ZaloMoProcess - Request_ID: 4948712644
+2015-06-29 09:23:26,730 [DEBUG] 9 ZaloMoProcess -  
+2015-06-29 09:23:26,730 [DEBUG] 9 ZaloMoProcess -  
+2015-06-29 09:24:41,772 [DEBUG] 9 ZaloMoProcess -  
+2015-06-29 09:24:42,121 [DEBUG] 9 ZaloMoProcess -  
+2015-06-29 09:24:42,457 [DEBUG] 9 ZaloMoProcess - -------------------- Zalo Mo Process -------------------------
+2015-06-29 09:24:42,758 [DEBUG] 9 ZaloMoProcess - User_ID: 84988031353
+2015-06-29 09:24:43,081 [DEBUG] 9 ZaloMoProcess - Service_ID: 8179
+2015-06-29 09:24:43,353 [DEBUG] 9 ZaloMoProcess - Command_Code: ZALO
+2015-06-29 09:24:43,690 [DEBUG] 9 ZaloMoProcess - Message: ZALOBD
+2015-06-29 09:24:44,045 [DEBUG] 9 ZaloMoProcess - Request_ID: 4948712644
+2015-06-29 09:24:44,369 [DEBUG] 9 ZaloMoProcess -  
+2015-06-29 09:24:44,638 [DEBUG] 9 ZaloMoProcess -  
+2015-06-29 09:32:20,462 [DEBUG] 9 ZaloMoProcess -  
+2015-06-29 09:32:20,774 [DEBUG] 9 ZaloMoProcess -  
+2015-06-29 09:32:21,091 [DEBUG] 9 ZaloMoProcess - -------------------- Zalo Mo Process -------------------------
+2015-06-29 09:32:21,382 [DEBUG] 9 ZaloMoProcess - User_ID: 84988031353
+2015-06-29 09:32:21,694 [DEBUG] 9 ZaloMoProcess - Service_ID: 8179
+2015-06-29 09:32:21,945 [DEBUG] 9 ZaloMoProcess - Command_Code: ZALO
+2015-06-29 09:32:22,211 [DEBUG] 9 ZaloMoProcess - Message: ZALOBD
+2015-06-29 09:32:22,430 [DEBUG] 9 ZaloMoProcess - Request_ID: 4948712644
+2015-06-29 09:32:22,689 [DEBUG] 9 ZaloMoProcess -  
+2015-06-29 09:32:22,942 [DEBUG] 9 ZaloMoProcess -  
+2015-06-29 09:33:12,178 [DEBUG] 9 ZaloController -  
+2015-06-29 09:33:12,697 [DEBUG] 9 ZaloController -  
+2015-06-29 09:33:13,145 [DEBUG] 9 ZaloController - --------------- Zalo CALL API Error ----------------------
+2015-06-29 09:33:13,494 [DEBUG] 9 ZaloController - Zalo API Err : -246
+2015-06-29 09:33:13,825 [DEBUG] 9 ZaloController - Zalo API Mes : Phone number is not exist.
+2015-06-29 09:33:14,153 [DEBUG] 9 ZaloController -  
+2015-06-29 09:33:14,540 [DEBUG] 9 ZaloController -  
+2015-06-29 09:58:52,449 [DEBUG] 10 ZaloMoProcess -  
+2015-06-29 09:58:52,613 [DEBUG] 10 ZaloMoProcess -  
+2015-06-29 09:58:52,774 [DEBUG] 10 ZaloMoProcess - -------------------- Zalo Mo Process -------------------------
+2015-06-29 09:58:52,982 [DEBUG] 10 ZaloMoProcess - User_ID: 84987765522
+2015-06-29 09:58:53,166 [DEBUG] 10 ZaloMoProcess - Service_ID: 8179
+2015-06-29 09:58:53,375 [DEBUG] 10 ZaloMoProcess - Command_Code: ZALO
+2015-06-29 09:58:53,541 [DEBUG] 10 ZaloMoProcess - Message: ZALOBD
+2015-06-29 09:58:53,759 [DEBUG] 10 ZaloMoProcess - Request_ID: 4948712644
+2015-06-29 09:58:53,943 [DEBUG] 10 ZaloMoProcess -  
+2015-06-29 09:58:54,152 [DEBUG] 10 ZaloMoProcess -  
+2015-06-29 09:59:32,406 [DEBUG] 10 ZaloController -  
+2015-06-29 09:59:33,405 [DEBUG] 10 ZaloController -  
+2015-06-29 09:59:33,405 [DEBUG] 10 ZaloController - --------------- Zalo CALL API RESULT ----------------------
+2015-06-29 09:59:33,405 [DEBUG] 10 ZaloController - Zalo API RESULT Err : 0
+2015-06-29 09:59:33,405 [DEBUG] 10 ZaloController - Zalo API RESULT Id : 17c377756328ac76f539
+2015-06-29 09:59:33,405 [DEBUG] 10 ZaloController -  
+2015-06-29 09:59:33,405 [DEBUG] 10 ZaloController -  
+2015-06-29 11:14:48,583 [DEBUG] 10 ApiZaloCallForSendZms -  
+2015-06-29 11:14:49,002 [DEBUG] 10 ApiZaloCallForSendZms -  
+2015-06-29 11:14:49,555 [DEBUG] 10 ApiZaloCallForSendZms - --------------- Zalo CALL API Error ----------------------
+2015-06-29 11:14:49,996 [DEBUG] 10 ApiZaloCallForSendZms - Zalo API Err : -200
+2015-06-29 11:14:50,461 [DEBUG] 10 ApiZaloCallForSendZms - Zalo API Mes : Server internal exception
+2015-06-29 11:14:53,629 [DEBUG] 10 ApiZaloCallForSendZms -  
+2015-06-29 11:14:54,059 [DEBUG] 10 ApiZaloCallForSendZms -  
+2015-06-29 11:16:34,408 [DEBUG] 9 ApiZaloCallForSendZms -  
+2015-06-29 11:16:34,977 [DEBUG] 9 ApiZaloCallForSendZms -  
+2015-06-29 11:16:35,455 [DEBUG] 9 ApiZaloCallForSendZms - --------------- Zalo CALL API RESULT ----------------------
+2015-06-29 11:16:36,039 [DEBUG] 9 ApiZaloCallForSendZms - Zalo API RESULT Err : 0
+2015-06-29 11:16:36,640 [DEBUG] 9 ApiZaloCallForSendZms - Zalo API RESULT Id : 7c825753fc0f33516a1e
+2015-06-29 11:16:37,037 [DEBUG] 9 ApiZaloCallForSendZms -  
+2015-06-29 11:16:37,383 [DEBUG] 9 ApiZaloCallForSendZms -  
+2015-06-29 11:44:38,415 [DEBUG] 10 ApiZaloCallForSendZms -  
+2015-06-29 11:44:38,424 [DEBUG] 10 ApiZaloCallForSendZms -  
+2015-06-29 11:44:38,424 [DEBUG] 10 ApiZaloCallForSendZms - --------------- Zalo CALL API RESULT ----------------------
+2015-06-29 11:44:38,424 [DEBUG] 10 ApiZaloCallForSendZms - Zalo API RESULT Err : 0
+2015-06-29 11:44:38,424 [DEBUG] 10 ApiZaloCallForSendZms - Zalo API RESULT Id : 413a53f42dabe2f5bbba
+2015-06-29 11:44:38,424 [DEBUG] 10 ApiZaloCallForSendZms -  
+2015-06-29 11:44:38,424 [DEBUG] 10 ApiZaloCallForSendZms -  
+2015-06-29 11:45:02,956 [DEBUG] 9 ApiZaloCallForSendZms -  
+2015-06-29 11:45:02,956 [DEBUG] 9 ApiZaloCallForSendZms -  
+2015-06-29 11:45:02,956 [DEBUG] 9 ApiZaloCallForSendZms - --------------- Zalo CALL API RESULT ----------------------
+2015-06-29 11:45:02,956 [DEBUG] 9 ApiZaloCallForSendZms - Zalo API RESULT Err : 0
+2015-06-29 11:45:02,956 [DEBUG] 9 ApiZaloCallForSendZms - Zalo API RESULT Id : f23d5dc0209fefc1b68e
+2015-06-29 11:45:02,956 [DEBUG] 9 ApiZaloCallForSendZms -  
+2015-06-29 11:45:02,956 [DEBUG] 9 ApiZaloCallForSendZms -  
+2015-06-29 11:45:52,072 [DEBUG] 9 ApiZaloCallForSendZms -  
+2015-06-29 11:45:52,432 [DEBUG] 9 ApiZaloCallForSendZms -  
+2015-06-29 11:45:52,808 [DEBUG] 9 ApiZaloCallForSendZms - --------------- Zalo CALL API RESULT ----------------------
+2015-06-29 11:45:53,120 [DEBUG] 9 ApiZaloCallForSendZms - Zalo API RESULT Err : 0
+2015-06-29 11:45:54,199 [DEBUG] 9 ApiZaloCallForSendZms - Zalo API RESULT Id : fc73a517d3481c164559
+2015-06-29 11:45:54,199 [DEBUG] 9 ApiZaloCallForSendZms -  
+2015-06-29 11:45:54,199 [DEBUG] 9 ApiZaloCallForSendZms -  
+2015-06-29 14:20:30,763 [DEBUG] 9 ApiZaloCallForSendZms - Zalo API StackTrace :    at ZaloPageSDK.com.vng.zalosdk.common.ZaloSdkHelper.buildDataForTemplateParam(Dictionary`2 data)
+   at ZaloPageSDK.com.vng.zalosdk.service.ZaloMessageServiceImpl.sendTemplateTextMessageByPhoneNum(Int64 phone, String templateId, Dictionary`2 data, String smsMsg, Boolean isNotify)
+   at Zalo_Callback.ApiZaloCallForSendZms(String userId, String message) in e:\Minh_Works\Wap\WIN_SERVICE\ViSport\WS_S2\Zalo\Callback.aspx.cs:line 94
+2015-06-29 14:26:51,654 [DEBUG] 9 ApiZaloCallForSendZms - Zalo API StackTrace :    at ZaloPageSDK.com.vng.zalosdk.common.ZaloSdkHelper.buildDataForTemplateParam(Dictionary`2 data)
+   at ZaloPageSDK.com.vng.zalosdk.service.ZaloMessageServiceImpl.sendTemplateTextMessageByPhoneNum(Int64 phone, String templateId, Dictionary`2 data, String smsMsg, Boolean isNotify)
+   at Zalo_Callback.ApiZaloCallForSendZms(String userId, String message) in e:\Minh_Works\Wap\WIN_SERVICE\ViSport\WS_S2\Zalo\Callback.aspx.cs:line 94
+2015-06-29 14:28:46,990 [DEBUG] 9 ApiZaloCallForSendZms - Zalo API StackTrace :    at ZaloPageSDK.com.vng.zalosdk.common.ZaloSdkHelper.buildDataForTemplateParam(Dictionary`2 data)
+   at ZaloPageSDK.com.vng.zalosdk.service.ZaloMessageServiceImpl.sendTemplateTextMessageByPhoneNum(Int64 phone, String templateId, Dictionary`2 data, String smsMsg, Boolean isNotify)
+   at Zalo_Callback.ApiZaloCallForSendZms(String userId, String message) in e:\Minh_Works\Wap\WIN_SERVICE\ViSport\WS_S2\Zalo\Callback.aspx.cs:line 94
+2015-06-29 14:31:50,017 [DEBUG] 12 ApiZaloCallForSendZms - Zalo API StackTrace :    at ZaloPageSDK.com.vng.zalosdk.common.ZaloSdkHelper.buildDataForTemplateParam(Dictionary`2 data)
+   at ZaloPageSDK.com.vng.zalosdk.service.ZaloMessageServiceImpl.sendTemplateTextMessageByPhoneNum(Int64 phone, String templateId, Dictionary`2 data, String smsMsg, Boolean isNotify)
+   at Zalo_Callback.ApiZaloCallForSendZms(String userId, String message) in e:\Minh_Works\Wap\WIN_SERVICE\ViSport\WS_S2\Zalo\Callback.aspx.cs:line 94
+2015-06-29 14:40:37,223 [DEBUG] 10 ApiZaloCallForSendZms -  
+2015-06-29 14:40:37,682 [DEBUG] 10 ApiZaloCallForSendZms -  
+2015-06-29 14:40:38,083 [DEBUG] 10 ApiZaloCallForSendZms - --------------- Zalo CALL API RESULT ----------------------
+2015-06-29 14:40:38,443 [DEBUG] 10 ApiZaloCallForSendZms - Zalo API RESULT Err : 0
+2015-06-29 14:40:38,811 [DEBUG] 10 ApiZaloCallForSendZms - Zalo API RESULT Id : 028e1c36876d4833117c
+2015-06-29 14:40:39,155 [DEBUG] 10 ApiZaloCallForSendZms -  
+2015-06-29 14:40:40,082 [DEBUG] 10 ApiZaloCallForSendZms -  
+2015-06-29 14:55:27,357 [DEBUG] 9 ApiZaloCallForSendZms -  
+2015-06-29 14:55:27,707 [DEBUG] 9 ApiZaloCallForSendZms -  
+2015-06-29 14:55:28,079 [DEBUG] 9 ApiZaloCallForSendZms - --------------- Zalo CALL API RESULT ----------------------
+2015-06-29 14:55:28,452 [DEBUG] 9 ApiZaloCallForSendZms - Zalo API RESULT Err : 0
+2015-06-29 14:55:28,827 [DEBUG] 9 ApiZaloCallForSendZms - Zalo API RESULT Id : 44b3ab7e2625e97bb034
+2015-06-29 14:55:29,234 [DEBUG] 9 ApiZaloCallForSendZms -  
+2015-06-29 14:55:30,017 [DEBUG] 9 ApiZaloCallForSendZms -  
+2015-06-29 14:56:25,979 [DEBUG] 11 ApiZaloCallForSendZms -  
+2015-06-29 14:56:26,434 [DEBUG] 11 ApiZaloCallForSendZms -  
+2015-06-29 14:56:26,908 [DEBUG] 11 ApiZaloCallForSendZms - --------------- Zalo CALL API RESULT ----------------------
+2015-06-29 14:56:27,291 [DEBUG] 11 ApiZaloCallForSendZms - Zalo API RESULT Err : 0
+2015-06-29 14:56:27,651 [DEBUG] 11 ApiZaloCallForSendZms - Zalo API RESULT Id : 3982dd385f63903dc972
+2015-06-29 14:56:28,067 [DEBUG] 11 ApiZaloCallForSendZms -  
+2015-06-29 14:56:29,042 [DEBUG] 11 ApiZaloCallForSendZms -  

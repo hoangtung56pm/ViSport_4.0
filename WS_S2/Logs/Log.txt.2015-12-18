@@ -1,0 +1,62 @@
+2015-12-18 15:35:34,464 [DEBUG] 11 File -  
+2015-12-18 15:35:34,469 [DEBUG] 11 File -  
+2015-12-18 15:35:34,469 [DEBUG] 11 File - -------------------- CAP SO THAN TAI -------------------------
+2015-12-18 15:35:34,469 [DEBUG] 11 File - User_ID: 841864950697
+2015-12-18 15:35:34,469 [DEBUG] 11 File - Service_ID: 949
+2015-12-18 15:35:34,469 [DEBUG] 11 File - Command_Code: TT
+2015-12-18 15:35:34,469 [DEBUG] 11 File - Message: TT 88
+2015-12-18 15:35:34,469 [DEBUG] 11 File - Request_ID: 0
+2015-12-18 15:35:34,469 [DEBUG] 11 File -  
+2015-12-18 15:35:34,469 [DEBUG] 11 File -  
+2015-12-18 15:36:18,538 [DEBUG] 11 File - Send MT result : 1
+2015-12-18 15:36:18,538 [DEBUG] 11 File - userId : 841864950697
+2015-12-18 15:36:18,538 [DEBUG] 11 File - Noi dung MT : Ban da lua chon cap so 88. May man dang cho ban. TT <cap so> de lua chon cap so tiep theo nang cao co hoi trung thuong.
+2015-12-18 15:36:18,538 [DEBUG] 11 File - ServiceId : 949
+2015-12-18 15:36:18,538 [DEBUG] 11 File - commandCode : TT
+2015-12-18 15:36:18,538 [DEBUG] 11 File - requestId : 0
+2015-12-18 15:39:45,655 [DEBUG] 14 File -  
+2015-12-18 15:39:45,661 [DEBUG] 14 File -  
+2015-12-18 15:39:45,661 [DEBUG] 14 File - -------------------- CAP SO THAN TAI -------------------------
+2015-12-18 15:39:45,661 [DEBUG] 14 File - User_ID: 841864950697
+2015-12-18 15:39:45,661 [DEBUG] 14 File - Service_ID: 949
+2015-12-18 15:39:45,661 [DEBUG] 14 File - Command_Code: TT
+2015-12-18 15:39:45,661 [DEBUG] 14 File - Message: TT 60
+2015-12-18 15:39:45,661 [DEBUG] 14 File - Request_ID: 0
+2015-12-18 15:39:45,661 [DEBUG] 14 File -  
+2015-12-18 15:39:45,661 [DEBUG] 14 File -  
+2015-12-18 15:40:02,078 [DEBUG] 14 File - Send MT result : 1
+2015-12-18 15:40:02,078 [DEBUG] 14 File - userId : 841864950697
+2015-12-18 15:40:02,078 [DEBUG] 14 File - Noi dung MT : Thue bao khong du tien. Vui long nap tien de tiep tuc choi !
+2015-12-18 15:40:02,078 [DEBUG] 14 File - ServiceId : 949
+2015-12-18 15:40:02,078 [DEBUG] 14 File - commandCode : TT
+2015-12-18 15:40:02,078 [DEBUG] 14 File - requestId : 0
+2015-12-18 15:41:53,840 [DEBUG] 6 File -  
+2015-12-18 15:41:53,840 [DEBUG] 6 File -  
+2015-12-18 15:41:53,840 [DEBUG] 6 File - -------------------- CAP SO THAN TAI -------------------------
+2015-12-18 15:41:53,840 [DEBUG] 6 File - User_ID: 841864950687
+2015-12-18 15:41:53,840 [DEBUG] 6 File - Service_ID: 949
+2015-12-18 15:41:53,840 [DEBUG] 6 File - Command_Code: TT
+2015-12-18 15:41:53,840 [DEBUG] 6 File - Message: TT 88
+2015-12-18 15:41:53,840 [DEBUG] 6 File - Request_ID: 0
+2015-12-18 15:41:53,840 [DEBUG] 6 File -  
+2015-12-18 15:41:53,840 [DEBUG] 6 File -  
+2015-12-18 15:42:04,896 [DEBUG] 6 File - Send MT result : 1
+2015-12-18 15:42:04,896 [DEBUG] 6 File - userId : 841864950687
+2015-12-18 15:42:04,896 [DEBUG] 6 File - Noi dung MT : Ban da lua chon cap so 88. May man dang cho ban. TT <cap so> de lua chon cap so tiep theo nang cao co hoi trung thuong.
+2015-12-18 15:42:04,896 [DEBUG] 6 File - ServiceId : 949
+2015-12-18 15:42:04,896 [DEBUG] 6 File - commandCode : TT
+2015-12-18 15:42:04,896 [DEBUG] 6 File - requestId : 0
+2015-12-18 16:12:53,368 [DEBUG] 46 ZaloController -  
+2015-12-18 16:12:53,373 [DEBUG] 46 ZaloController -  
+2015-12-18 16:12:53,373 [DEBUG] 46 ZaloController - --------------- Zalo CALL API Error ----------------------
+2015-12-18 16:12:53,373 [DEBUG] 46 ZaloController - Zalo API Err : -275
+2015-12-18 16:12:53,373 [DEBUG] 46 ZaloController - Zalo API Mes : Missing key to generate message from template.
+2015-12-18 16:12:53,373 [DEBUG] 46 ZaloController -  
+2015-12-18 16:12:53,373 [DEBUG] 46 ZaloController -  
+2015-12-18 16:14:29,363 [DEBUG] 48 ZaloController -  
+2015-12-18 16:14:29,933 [DEBUG] 48 ZaloController -  
+2015-12-18 16:14:30,533 [DEBUG] 48 ZaloController - --------------- Zalo CALL API Error ----------------------
+2015-12-18 16:14:31,353 [DEBUG] 48 ZaloController - Zalo API Err : -275
+2015-12-18 16:15:11,587 [DEBUG] 48 ZaloController - Zalo API Mes : Missing key to generate message from template.
+2015-12-18 16:15:12,210 [DEBUG] 48 ZaloController -  
+2015-12-18 16:15:13,002 [DEBUG] 48 ZaloController -  

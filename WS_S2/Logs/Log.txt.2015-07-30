@@ -1,0 +1,51 @@
+2015-07-30 16:12:47,443 [DEBUG] 7 ZaloMoProcess -  
+2015-07-30 16:12:47,796 [DEBUG] 7 ZaloMoProcess -  
+2015-07-30 16:12:48,104 [DEBUG] 7 ZaloMoProcess - -------------------- Zalo Mo Process -------------------------
+2015-07-30 16:12:48,430 [DEBUG] 7 ZaloMoProcess - User_ID: 84987765522
+2015-07-30 16:12:48,688 [DEBUG] 7 ZaloMoProcess - Service_ID: 8779
+2015-07-30 16:12:48,947 [DEBUG] 7 ZaloMoProcess - Command_Code: ZALO
+2015-07-30 16:12:49,176 [DEBUG] 7 ZaloMoProcess - Message: ZALOMB
+2015-07-30 16:12:49,419 [DEBUG] 7 ZaloMoProcess - Request_ID: 0
+2015-07-30 16:12:49,648 [DEBUG] 7 ZaloMoProcess -  
+2015-07-30 16:12:49,982 [DEBUG] 7 ZaloMoProcess -  
+2015-07-30 16:14:13,967 [DEBUG] 7 ZaloMoProcess -  
+2015-07-30 16:14:13,967 [DEBUG] 7 ZaloMoProcess -  
+2015-07-30 16:14:13,967 [DEBUG] 7 ZaloMoProcess - -------------------- Zalo Mo Process -------------------------
+2015-07-30 16:14:13,967 [DEBUG] 7 ZaloMoProcess - User_ID: 84987765522
+2015-07-30 16:14:13,967 [DEBUG] 7 ZaloMoProcess - Service_ID: 8779
+2015-07-30 16:14:13,967 [DEBUG] 7 ZaloMoProcess - Command_Code: ZALO
+2015-07-30 16:14:13,967 [DEBUG] 7 ZaloMoProcess - Message: ZALOMN
+2015-07-30 16:14:13,967 [DEBUG] 7 ZaloMoProcess - Request_ID: 0
+2015-07-30 16:14:13,967 [DEBUG] 7 ZaloMoProcess -  
+2015-07-30 16:14:13,967 [DEBUG] 7 ZaloMoProcess -  
+2015-07-30 16:14:38,391 [DEBUG] 11 ZaloMoProcess -  
+2015-07-30 16:14:38,391 [DEBUG] 11 ZaloMoProcess -  
+2015-07-30 16:14:38,391 [DEBUG] 11 ZaloMoProcess - -------------------- Zalo Mo Process -------------------------
+2015-07-30 16:14:38,391 [DEBUG] 11 ZaloMoProcess - User_ID: 84987765522
+2015-07-30 16:14:38,391 [DEBUG] 11 ZaloMoProcess - Service_ID: 8779
+2015-07-30 16:14:38,391 [DEBUG] 11 ZaloMoProcess - Command_Code: ZALO
+2015-07-30 16:14:38,391 [DEBUG] 11 ZaloMoProcess - Message: ZALOMT
+2015-07-30 16:14:38,391 [DEBUG] 11 ZaloMoProcess - Request_ID: 0
+2015-07-30 16:14:38,391 [DEBUG] 11 ZaloMoProcess -  
+2015-07-30 16:14:38,391 [DEBUG] 11 ZaloMoProcess -  
+2015-07-30 17:04:46,831 [DEBUG] 16 ZaloController -  
+2015-07-30 17:04:46,840 [DEBUG] 16 ZaloController -  
+2015-07-30 17:04:46,840 [DEBUG] 16 ZaloController - --------------- Zalo CALL API RESULT ----------------------
+2015-07-30 17:04:46,840 [DEBUG] 16 ZaloController - Zalo API RESULT Err : 0
+2015-07-30 17:04:46,840 [DEBUG] 16 ZaloController - Zalo API RESULT Id : 90d8a2c0117ad124886b
+2015-07-30 17:04:46,840 [DEBUG] 16 ZaloController -  
+2015-07-30 17:04:46,840 [DEBUG] 16 ZaloController -  
+2015-07-30 17:04:46,914 [DEBUG] 16 ZaloController -  
+2015-07-30 17:04:46,914 [DEBUG] 16 ZaloController -  
+2015-07-30 17:04:46,914 [DEBUG] 16 ZaloController - --------------- Zalo CALL API RESULT ----------------------
+2015-07-30 17:04:46,914 [DEBUG] 16 ZaloController - Zalo API RESULT Err : 0
+2015-07-30 17:04:46,914 [DEBUG] 16 ZaloController - Zalo API RESULT Id : 17a0ccbb7f01bf5fe610
+2015-07-30 17:04:46,914 [DEBUG] 16 ZaloController -  
+2015-07-30 17:04:46,914 [DEBUG] 16 ZaloController -  
+2015-07-30 17:04:46,980 [DEBUG] 16 ZaloController -  
+2015-07-30 17:04:46,980 [DEBUG] 16 ZaloController -  
+2015-07-30 17:04:46,980 [DEBUG] 16 ZaloController - --------------- Zalo CALL API RESULT ----------------------
+2015-07-30 17:04:46,980 [DEBUG] 16 ZaloController - Zalo API RESULT Err : 0
+2015-07-30 17:04:46,980 [DEBUG] 16 ZaloController - Zalo API RESULT Id : 9c46dd426ef8aea6f7e9
+2015-07-30 17:04:46,980 [DEBUG] 16 ZaloController -  
+2015-07-30 17:04:46,980 [DEBUG] 16 ZaloController -  

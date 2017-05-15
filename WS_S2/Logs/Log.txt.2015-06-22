@@ -1,0 +1,109 @@
+2015-06-22 10:09:30,605 [DEBUG] 5 Zalo_Callback -  
+2015-06-22 10:09:30,638 [DEBUG] 5 Zalo_Callback -  
+2015-06-22 10:09:30,638 [DEBUG] 5 Zalo_Callback - --------------- Zalo Call Back URL ----------------------
+2015-06-22 10:09:30,638 [DEBUG] 5 Zalo_Callback - Zalo Callback ===> events:|status:|msgId:|Mac:
+2015-06-22 10:09:30,638 [DEBUG] 5 Zalo_Callback -  
+2015-06-22 10:09:30,638 [DEBUG] 5 Zalo_Callback -  
+2015-06-22 10:10:01,411 [DEBUG] 5 ApiZaloCallForSendZms -  
+2015-06-22 10:10:01,898 [DEBUG] 5 ApiZaloCallForSendZms -  
+2015-06-22 10:10:02,321 [DEBUG] 5 ApiZaloCallForSendZms - --------------- Zalo CALL API Error ----------------------
+2015-06-22 10:10:04,018 [DEBUG] 5 ApiZaloCallForSendZms - Zalo API Err : -20109
+2015-06-22 10:10:04,842 [DEBUG] 5 ApiZaloCallForSendZms - Zalo API Mes : User doesn't follow this page
+2015-06-22 10:10:06,232 [DEBUG] 5 ApiZaloCallForSendZms -  
+2015-06-22 10:10:06,232 [DEBUG] 5 ApiZaloCallForSendZms -  
+2015-06-22 10:12:01,646 [DEBUG] 5 Zalo_Callback -  
+2015-06-22 10:12:01,647 [DEBUG] 5 Zalo_Callback -  
+2015-06-22 10:12:01,647 [DEBUG] 5 Zalo_Callback - --------------- Zalo Call Back URL ----------------------
+2015-06-22 10:12:01,647 [DEBUG] 5 Zalo_Callback - Zalo Callback ===> events:|status:|msgId:|Mac:
+2015-06-22 10:12:01,647 [DEBUG] 5 Zalo_Callback -  
+2015-06-22 10:12:01,647 [DEBUG] 5 Zalo_Callback -  
+2015-06-22 10:12:21,513 [DEBUG] 9 ApiZaloCallForSendZms -  
+2015-06-22 10:12:22,053 [DEBUG] 9 ApiZaloCallForSendZms -  
+2015-06-22 10:12:22,554 [DEBUG] 9 ApiZaloCallForSendZms - --------------- Zalo CALL API Error ----------------------
+2015-06-22 10:12:23,198 [DEBUG] 9 ApiZaloCallForSendZms - Zalo API Err : -20109
+2015-06-22 10:12:23,698 [DEBUG] 9 ApiZaloCallForSendZms - Zalo API Mes : User doesn't follow this page
+2015-06-22 10:12:24,488 [DEBUG] 9 ApiZaloCallForSendZms -  
+2015-06-22 10:12:24,488 [DEBUG] 9 ApiZaloCallForSendZms -  
+2015-06-22 10:13:06,402 [DEBUG] 9 Zalo_Callback -  
+2015-06-22 10:13:06,402 [DEBUG] 9 Zalo_Callback -  
+2015-06-22 10:13:06,402 [DEBUG] 9 Zalo_Callback - --------------- Zalo Call Back URL ----------------------
+2015-06-22 10:13:06,402 [DEBUG] 9 Zalo_Callback - Zalo Callback ===> events:|status:|msgId:|Mac:
+2015-06-22 10:13:06,402 [DEBUG] 9 Zalo_Callback -  
+2015-06-22 10:13:06,402 [DEBUG] 9 Zalo_Callback -  
+2015-06-22 10:13:17,792 [DEBUG] 9 ApiZaloCallForSendZms -  
+2015-06-22 10:13:18,095 [DEBUG] 9 ApiZaloCallForSendZms -  
+2015-06-22 10:13:18,372 [DEBUG] 9 ApiZaloCallForSendZms - --------------- Zalo CALL API Error ----------------------
+2015-06-22 10:13:19,516 [DEBUG] 9 ApiZaloCallForSendZms - Zalo API Err : -20109
+2015-06-22 10:13:19,516 [DEBUG] 9 ApiZaloCallForSendZms - Zalo API Mes : User doesn't follow this page
+2015-06-22 10:13:19,516 [DEBUG] 9 ApiZaloCallForSendZms -  
+2015-06-22 10:13:19,516 [DEBUG] 9 ApiZaloCallForSendZms -  
+2015-06-22 10:15:41,983 [DEBUG] 9 ApiZaloCallForSendZms -  
+2015-06-22 10:15:42,306 [DEBUG] 9 ApiZaloCallForSendZms -  
+2015-06-22 10:15:42,624 [DEBUG] 9 ApiZaloCallForSendZms - --------------- Zalo CALL API Error ----------------------
+2015-06-22 10:15:45,680 [DEBUG] 9 ApiZaloCallForSendZms - Zalo API Err : -20109
+2015-06-22 10:15:45,680 [DEBUG] 9 ApiZaloCallForSendZms - Zalo API Mes : User doesn't follow this page
+2015-06-22 10:15:45,680 [DEBUG] 9 ApiZaloCallForSendZms -  
+2015-06-22 10:15:45,680 [DEBUG] 9 ApiZaloCallForSendZms -  
+2015-06-22 14:34:01,338 [DEBUG] 9 ApiZaloCallForSendZms -  
+2015-06-22 14:34:02,242 [DEBUG] 9 ApiZaloCallForSendZms -  
+2015-06-22 14:34:02,643 [DEBUG] 9 ApiZaloCallForSendZms - --------------- Zalo CALL API Error ----------------------
+2015-06-22 14:34:02,992 [DEBUG] 9 ApiZaloCallForSendZms - Zalo API Err : -275
+2015-06-22 14:34:03,306 [DEBUG] 9 ApiZaloCallForSendZms - Zalo API Mes : Missing key to generate message from template.
+2015-06-22 14:34:03,728 [DEBUG] 9 ApiZaloCallForSendZms -  
+2015-06-22 14:34:03,728 [DEBUG] 9 ApiZaloCallForSendZms -  
+2015-06-22 14:34:53,919 [DEBUG] 10 ApiZaloCallForSendZms -  
+2015-06-22 14:34:54,283 [DEBUG] 10 ApiZaloCallForSendZms -  
+2015-06-22 14:34:54,731 [DEBUG] 10 ApiZaloCallForSendZms - --------------- Zalo CALL API Error ----------------------
+2015-06-22 14:34:55,126 [DEBUG] 10 ApiZaloCallForSendZms - Zalo API Err : -275
+2015-06-22 14:34:55,897 [DEBUG] 10 ApiZaloCallForSendZms - Zalo API Mes : Missing key to generate message from template.
+2015-06-22 14:34:55,897 [DEBUG] 10 ApiZaloCallForSendZms -  
+2015-06-22 14:34:55,897 [DEBUG] 10 ApiZaloCallForSendZms -  
+2015-06-22 15:53:50,520 [DEBUG] 9 ApiZaloCallForSendZms -  
+2015-06-22 15:53:51,008 [DEBUG] 9 ApiZaloCallForSendZms -  
+2015-06-22 15:53:51,360 [DEBUG] 9 ApiZaloCallForSendZms - --------------- Zalo CALL API Error ----------------------
+2015-06-22 15:53:51,762 [DEBUG] 9 ApiZaloCallForSendZms - Zalo API Err : -275
+2015-06-22 15:53:52,830 [DEBUG] 9 ApiZaloCallForSendZms - Zalo API Mes : Missing key to generate message from template.
+2015-06-22 15:53:52,830 [DEBUG] 9 ApiZaloCallForSendZms -  
+2015-06-22 15:53:52,830 [DEBUG] 9 ApiZaloCallForSendZms -  
+2015-06-22 16:08:39,181 [DEBUG] 9 ApiZaloCallForSendZms -  
+2015-06-22 16:08:40,012 [DEBUG] 9 ApiZaloCallForSendZms -  
+2015-06-22 16:08:41,694 [DEBUG] 9 ApiZaloCallForSendZms - --------------- Zalo CALL API RESULT ----------------------
+2015-06-22 16:08:42,191 [DEBUG] 9 ApiZaloCallForSendZms - Zalo API RESULT Err : 0
+2015-06-22 16:08:42,607 [DEBUG] 9 ApiZaloCallForSendZms - Zalo API RESULT Id : cb757f7e58789426cd69
+2015-06-22 16:08:43,044 [DEBUG] 9 ApiZaloCallForSendZms -  
+2015-06-22 16:08:43,430 [DEBUG] 9 ApiZaloCallForSendZms -  
+2015-06-22 16:27:17,023 [DEBUG] 9 ApiZaloCallForSendZms -  
+2015-06-22 16:27:17,343 [DEBUG] 9 ApiZaloCallForSendZms -  
+2015-06-22 16:27:17,657 [DEBUG] 9 ApiZaloCallForSendZms - --------------- Zalo CALL API RESULT ----------------------
+2015-06-22 16:27:18,414 [DEBUG] 9 ApiZaloCallForSendZms - Zalo API RESULT Err : 0
+2015-06-22 16:27:18,414 [DEBUG] 9 ApiZaloCallForSendZms - Zalo API RESULT Id : 6b961ccd9ecb52950bda
+2015-06-22 16:27:18,415 [DEBUG] 9 ApiZaloCallForSendZms -  
+2015-06-22 16:27:18,415 [DEBUG] 9 ApiZaloCallForSendZms -  
+2015-06-22 16:35:19,933 [DEBUG] 5 ApiZaloCallForSendZms -  
+2015-06-22 16:35:19,933 [DEBUG] 5 ApiZaloCallForSendZms -  
+2015-06-22 16:35:19,933 [DEBUG] 5 ApiZaloCallForSendZms - --------------- Zalo CALL API RESULT ----------------------
+2015-06-22 16:35:19,933 [DEBUG] 5 ApiZaloCallForSendZms - Zalo API RESULT Err : 0
+2015-06-22 16:35:19,933 [DEBUG] 5 ApiZaloCallForSendZms - Zalo API RESULT Id : 5da853fe88f844a61de9
+2015-06-22 16:35:19,933 [DEBUG] 5 ApiZaloCallForSendZms -  
+2015-06-22 16:35:19,933 [DEBUG] 5 ApiZaloCallForSendZms -  
+2015-06-22 16:48:36,367 [DEBUG] 9 ApiZaloCallForSendZms -  
+2015-06-22 16:48:36,613 [DEBUG] 9 ApiZaloCallForSendZms -  
+2015-06-22 16:48:36,810 [DEBUG] 9 ApiZaloCallForSendZms - --------------- Zalo CALL API RESULT ----------------------
+2015-06-22 16:48:37,617 [DEBUG] 9 ApiZaloCallForSendZms - Zalo API RESULT Err : 0
+2015-06-22 16:48:37,617 [DEBUG] 9 ApiZaloCallForSendZms - Zalo API RESULT Id : 9eef17670a66c6389f77
+2015-06-22 16:48:37,617 [DEBUG] 9 ApiZaloCallForSendZms -  
+2015-06-22 16:48:37,617 [DEBUG] 9 ApiZaloCallForSendZms -  
+2015-06-22 16:51:52,616 [DEBUG] 9 ApiZaloCallForSendZms -  
+2015-06-22 16:51:52,616 [DEBUG] 9 ApiZaloCallForSendZms -  
+2015-06-22 16:51:52,616 [DEBUG] 9 ApiZaloCallForSendZms - --------------- Zalo CALL API RESULT ----------------------
+2015-06-22 16:51:52,616 [DEBUG] 9 ApiZaloCallForSendZms - Zalo API RESULT Err : 0
+2015-06-22 16:51:52,617 [DEBUG] 9 ApiZaloCallForSendZms - Zalo API RESULT Id : 3e8bac73a1726d2c3463
+2015-06-22 16:51:52,617 [DEBUG] 9 ApiZaloCallForSendZms -  
+2015-06-22 16:51:52,617 [DEBUG] 9 ApiZaloCallForSendZms -  
+2015-06-22 16:52:38,770 [DEBUG] 14 ApiZaloCallForSendZms -  
+2015-06-22 16:52:39,099 [DEBUG] 14 ApiZaloCallForSendZms -  
+2015-06-22 16:52:39,418 [DEBUG] 14 ApiZaloCallForSendZms - --------------- Zalo CALL API RESULT ----------------------
+2015-06-22 16:52:39,705 [DEBUG] 14 ApiZaloCallForSendZms - Zalo API RESULT Err : 0
+2015-06-22 16:52:39,977 [DEBUG] 14 ApiZaloCallForSendZms - Zalo API RESULT Id : f1615cda5ddb9185c8ca
+2015-06-22 16:52:40,267 [DEBUG] 14 ApiZaloCallForSendZms -  
+2015-06-22 16:52:40,544 [DEBUG] 14 ApiZaloCallForSendZms -  

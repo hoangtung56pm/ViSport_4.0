@@ -1,0 +1,4 @@
+2017-03-14 10:29:56,231 [ERROR] 6 GetUsers - Visport Loi lay tap User : System.ArgumentException: Column 'Service_ID' does not belong to table .
+   at System.Data.DataRow.GetDataColumn(String columnName)
+   at System.Data.DataRow.get_Item(String columnName)
+   at GetUsers.Execute(Int32 jobId) in i:\Project\ViSport_4.0\WS_S2\App_Code\GetUsers.cs:line 75

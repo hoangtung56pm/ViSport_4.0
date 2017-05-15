@@ -1,0 +1,20 @@
+2015-10-16 09:16:45,146 [DEBUG] 7 DoGetDownloadURL -  
+2015-10-16 09:16:45,156 [DEBUG] 7 DoGetDownloadURL -  
+2015-10-16 09:16:45,156 [DEBUG] 7 DoGetDownloadURL - ----- VMS API CALL DoGetDownloadURL ----- :msisdn :  |reqTime :  |shortCode :  |reqId :  |userName :  |password :  |GameId : 
+2015-10-16 09:16:45,157 [DEBUG] 7 DoGetDownloadURL -  
+2015-10-16 09:16:45,157 [DEBUG] 7 DoGetDownloadURL -  
+2015-10-16 09:17:30,476 [DEBUG] 5 DoGetDownloadURL -  
+2015-10-16 09:17:30,909 [DEBUG] 5 DoGetDownloadURL -  
+2015-10-16 09:17:31,376 [DEBUG] 5 DoGetDownloadURL - ----- VMS API CALL DoGetDownloadURL ----- :msisdn : 84932276804 |reqTime : 20151016084505 |shortCode : 9210 |reqId : 1444959905 |userName : appbox |password : AppBox20!%Centech!*% |GameId : 9759
+2015-10-16 09:17:31,875 [DEBUG] 5 DoGetDownloadURL -  
+2015-10-16 09:17:32,250 [DEBUG] 5 DoGetDownloadURL -  
+2015-10-16 09:19:28,462 [DEBUG] 10 DoGetDownloadURL -  
+2015-10-16 09:19:28,476 [DEBUG] 10 DoGetDownloadURL -  
+2015-10-16 09:19:28,476 [DEBUG] 10 DoGetDownloadURL - ----- VMS API CALL DoGetDownloadURL ----- :msisdn :  |reqTime :  |shortCode :  |reqId :  |userName :  |password :  |GameId : 
+2015-10-16 09:19:28,476 [DEBUG] 10 DoGetDownloadURL -  
+2015-10-16 09:19:28,476 [DEBUG] 10 DoGetDownloadURL -  
+2015-10-16 09:19:41,252 [DEBUG] 5 DoGetDownloadURL -  
+2015-10-16 09:19:41,489 [DEBUG] 5 DoGetDownloadURL -  
+2015-10-16 09:19:41,689 [DEBUG] 5 DoGetDownloadURL - ----- VMS API CALL DoGetDownloadURL ----- :msisdn : 84932276804 |reqTime : 20151016084505 |shortCode : 9210 |reqId : 1444959905 |userName : appbox |password : AppBox20!%Centech!*% |GameId : 9759
+2015-10-16 09:19:41,860 [DEBUG] 5 DoGetDownloadURL -  
+2015-10-16 09:19:42,044 [DEBUG] 5 DoGetDownloadURL -  

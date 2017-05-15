@@ -1,0 +1,135 @@
+2016-06-21 10:46:40,199 [ERROR] 299 CdrGpc - CDR Loi lay Tap User : System.Data.SqlClient.SqlException (0x80131904): Timeout expired.  The timeout period elapsed prior to completion of the operation or the server is not responding. ---> System.ComponentModel.Win32Exception (0x80004005): The wait operation timed out
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, SqlDataReader ds)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean asyncWrite)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet)
+   at Microsoft.ApplicationBlocks.Data.SqlHelper.ExecuteDataset(SqlConnection connection, CommandType commandType, String commandText, SqlParameter[] commandParameters)
+   at Microsoft.ApplicationBlocks.Data.SqlHelper.ExecuteDataset(String connectionString, CommandType commandType, String commandText, SqlParameter[] commandParameters)
+   at Microsoft.ApplicationBlocks.Data.SqlHelper.ExecuteDataset(String connectionString, String spName, Object[] parameterValues)
+   at ViSport_S2_Registered_UsersController.CdrGpc(Int32 partnerId) in e:\Project\ViSport_4.0\WS_S2\App_Code\ViSport_S2_Registered\ViSport_S2_Registered_UsersController.cs:line 1449
+   at CdrGenerate.Execute(Int32 jobId) in e:\Project\ViSport_4.0\WS_S2\App_Code\CdrGenerate.cs:line 115
+ClientConnectionId:8b3ce7ab-1c63-4878-affc-bf372a4a843a
+2016-06-21 11:23:45,193 [DEBUG] 296 GetCDR - CDR GPC update
+2016-06-21 11:23:50,612 [DEBUG] 296 GetCDR - CDR VMS update
+2016-06-21 11:25:17,404 [DEBUG] 292 GetCDR - CDR GPC update
+2016-06-21 11:25:36,595 [DEBUG] 292 GetCDR - CDR VMS update
+2016-06-21 11:27:07,932 [DEBUG] 296 GetCDR - CDR GPC update
+2016-06-21 11:27:13,329 [DEBUG] 296 GetCDR - CDR VMS update
+2016-06-21 11:28:14,249 [DEBUG] 287 GetCDR - CDR GPC update
+2016-06-21 11:28:19,433 [DEBUG] 287 GetCDR - CDR VMS update
+2016-06-21 11:28:32,867 [DEBUG] 292 GetCDR - CDR GPC update
+2016-06-21 11:28:39,808 [DEBUG] 292 GetCDR - CDR VMS update
+2016-06-21 11:28:54,260 [DEBUG] 287 GetCDR - CDR GPC update
+2016-06-21 11:29:02,151 [DEBUG] 287 GetCDR - CDR VMS update
+2016-06-21 11:29:30,505 [DEBUG] 296 GetCDR - CDR GPC update
+2016-06-21 11:29:35,401 [DEBUG] 296 GetCDR - CDR VMS update
+2016-06-21 11:29:44,621 [DEBUG] 287 GetCDR - CDR GPC update
+2016-06-21 11:29:46,119 [DEBUG] 287 GetCDR - CDR VMS update
+2016-06-21 11:30:05,796 [DEBUG] 290 GetCDR - CDR GPC update
+2016-06-21 11:30:16,893 [DEBUG] 290 GetCDR - CDR VMS update
+2016-06-21 11:30:29,436 [DEBUG] 287 GetCDR - CDR GPC update
+2016-06-21 11:30:38,108 [DEBUG] 287 GetCDR - CDR VMS update
+2016-06-21 11:31:01,270 [DEBUG] 287 GetCDR - CDR GPC update
+2016-06-21 11:31:05,424 [DEBUG] 287 GetCDR - CDR VMS update
+2016-06-21 11:31:30,934 [DEBUG] 287 GetCDR - CDR GPC update
+2016-06-21 11:31:35,260 [DEBUG] 287 GetCDR - CDR VMS update
+2016-06-21 11:31:46,682 [DEBUG] 287 GetCDR - CDR GPC update
+2016-06-21 11:31:51,011 [DEBUG] 287 GetCDR - CDR VMS update
+2016-06-21 11:32:08,691 [DEBUG] 290 GetCDR - CDR GPC update
+2016-06-21 11:32:16,575 [DEBUG] 290 GetCDR - CDR VMS update
+2016-06-21 11:32:45,240 [DEBUG] 287 GetCDR - CDR GPC update
+2016-06-21 11:32:51,637 [DEBUG] 287 GetCDR - CDR VMS update
+2016-06-21 11:33:42,905 [DEBUG] 287 GetCDR - CDR GPC update
+2016-06-21 11:33:48,819 [DEBUG] 287 GetCDR - CDR VMS update
+2016-06-21 11:34:00,182 [DEBUG] 290 GetCDR - CDR GPC update
+2016-06-21 11:34:04,343 [DEBUG] 290 GetCDR - CDR VMS update
+2016-06-21 11:34:16,280 [DEBUG] 287 GetCDR - CDR GPC update
+2016-06-21 11:34:20,357 [DEBUG] 287 GetCDR - CDR VMS update
+2016-06-21 11:34:36,594 [DEBUG] 287 GetCDR - CDR GPC update
+2016-06-21 11:34:40,749 [DEBUG] 287 GetCDR - CDR VMS update
+2016-06-21 11:34:52,332 [DEBUG] 296 GetCDR - CDR GPC update
+2016-06-21 11:35:00,644 [DEBUG] 296 GetCDR - CDR VMS update
+2016-06-21 11:36:00,581 [DEBUG] 289 GetCDR - CDR GPC update
+2016-06-21 11:36:05,978 [DEBUG] 289 GetCDR - CDR VMS update
+2016-06-21 11:36:36,206 [DEBUG] 287 GetCDR - CDR GPC update
+2016-06-21 11:36:41,908 [DEBUG] 287 GetCDR - CDR VMS update
+2016-06-21 11:36:50,313 [DEBUG] 289 GetCDR - CDR GPC update
+2016-06-21 11:37:00,184 [DEBUG] 289 GetCDR - CDR VMS update
+2016-06-21 11:37:07,646 [DEBUG] 289 GetCDR - CDR GPC update
+2016-06-21 11:37:13,142 [DEBUG] 289 GetCDR - CDR VMS update
+2016-06-21 11:37:47,988 [DEBUG] 289 GetCDR - CDR GPC update
+2016-06-21 11:37:58,231 [DEBUG] 289 GetCDR - CDR VMS update
+2016-06-21 11:38:20,331 [DEBUG] 289 GetCDR - CDR GPC update
+2016-06-21 11:38:26,888 [DEBUG] 289 GetCDR - CDR VMS update
+2016-06-21 11:38:40,987 [DEBUG] 289 GetCDR - CDR GPC update
+2016-06-21 11:38:47,939 [DEBUG] 289 GetCDR - CDR VMS update
+2016-06-21 11:39:10,230 [DEBUG] 289 GetCDR - CDR GPC update
+2016-06-21 11:39:19,235 [DEBUG] 289 GetCDR - CDR VMS update
+2016-06-21 14:33:35,054 [DEBUG] 294 GetCDR - CDR GPC update
+2016-06-21 14:34:05,846 [DEBUG] 294 GetCDR - CDR VMS update
+2016-06-21 14:39:46,286 [DEBUG] 291 GetCDR - CDR GPC update
+2016-06-21 14:40:50,500 [DEBUG] 291 GetCDR - CDR VMS update
+2016-06-21 14:47:40,225 [DEBUG] 296 GetCDR - CDR GPC update
+2016-06-21 14:48:16,352 [DEBUG] 296 GetCDR - CDR VMS update
+2016-06-21 14:52:40,173 [ERROR] 296 GetCDR - CDR Error : System.ArgumentException: Column 'msisdn' does not belong to table Table.
+   at System.Data.DataRow.GetDataColumn(String columnName)
+   at System.Data.DataRow.get_Item(String columnName)
+   at GetCDR.btnUpdate_Click(Object sender, EventArgs e) in e:\Project\ViSport_4.0\WS_S2\GetCDR.aspx.cs:line 279
+2016-06-21 15:31:40,386 [ERROR] 294 GetCDR - CDR Error : System.IO.IOException: The process cannot access the file 'E:\Project\ViSport_4.0\WS_S2\Sam_Cdr\vmg_dn_vn_201666.csv' because it is being used by another process.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamWriter.CreateFile(String path, Boolean append, Boolean checkHost)
+   at System.IO.StreamWriter..ctor(String path, Boolean append, Encoding encoding, Int32 bufferSize, Boolean checkHost)
+   at System.IO.File.InternalWriteAllText(String path, String contents, Encoding encoding, Boolean checkHost)
+   at System.IO.File.WriteAllText(String path, String contents)
+   at GetCDR.btnExport_Click(Object sender, EventArgs e) in e:\Project\ViSport_4.0\WS_S2\GetCDR.aspx.cs:line 546
+2016-06-21 15:34:28,300 [ERROR] 288 GetCDR - CDR Error : System.IO.IOException: The process cannot access the file 'E:\Project\ViSport_4.0\WS_S2\Sam_Cdr\vmg_dn_vn_201666.csv' because it is being used by another process.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamWriter.CreateFile(String path, Boolean append, Boolean checkHost)
+   at System.IO.StreamWriter..ctor(String path, Boolean append, Encoding encoding, Int32 bufferSize, Boolean checkHost)
+   at System.IO.File.InternalWriteAllText(String path, String contents, Encoding encoding, Boolean checkHost)
+   at System.IO.File.WriteAllText(String path, String contents)
+   at GetCDR.btnExport_Click(Object sender, EventArgs e) in e:\Project\ViSport_4.0\WS_S2\GetCDR.aspx.cs:line 546
+2016-06-21 15:37:29,094 [ERROR] 287 GetCDR - CDR Error : System.ArgumentException: Column 'msisdn' does not belong to table Table.
+   at System.Data.DataRow.GetDataColumn(String columnName)
+   at System.Data.DataRow.get_Item(String columnName)
+   at GetCDR.btnExport_Click(Object sender, EventArgs e) in e:\Project\ViSport_4.0\WS_S2\GetCDR.aspx.cs:line 589
+2016-06-21 15:42:54,415 [DEBUG] 292 GetCDR - CDR GPC update
+2016-06-21 15:43:41,981 [DEBUG] 292 GetCDR - CDR VMS update
+2016-06-21 15:47:32,244 [DEBUG] 296 GetCDR - CDR GPC update
+2016-06-21 15:48:20,313 [DEBUG] 296 GetCDR - CDR VMS update
+2016-06-21 17:19:10,089 [DEBUG] 287 File -  
+2016-06-21 17:19:11,780 [DEBUG] 287 File -  
+2016-06-21 17:19:15,168 [DEBUG] 287 File - --------------------viSPORT-------------------------
+2016-06-21 17:19:15,763 [DEBUG] 287 File - User_ID: 841882406279
+2016-06-21 17:19:16,209 [DEBUG] 287 File - Service_ID: 979
+2016-06-21 17:19:16,616 [DEBUG] 287 File - Command_Code: HUY
+2016-06-21 17:19:16,971 [DEBUG] 287 File - Message: HUY TP
+2016-06-21 17:19:17,398 [DEBUG] 287 File - Request_ID: 1
+2016-06-21 17:19:17,795 [DEBUG] 287 File -  
+2016-06-21 17:19:18,224 [DEBUG] 287 File -  
+2016-06-21 17:19:48,646 [DEBUG] 287 File -  
+2016-06-21 17:19:49,050 [DEBUG] 287 File -  
+2016-06-21 17:19:49,346 [DEBUG] 287 File - -------------------- TRIEU PHU BONG DA -------------------------
+2016-06-21 17:19:49,754 [DEBUG] 287 File - User_ID: 841882406279
+2016-06-21 17:19:50,050 [DEBUG] 287 File - Service_ID: 979
+2016-06-21 17:19:50,343 [DEBUG] 287 File - Command_Code: HUY
+2016-06-21 17:19:50,709 [DEBUG] 287 File - Message: HUY TP
+2016-06-21 17:19:51,014 [DEBUG] 287 File - Request_ID: 1
+2016-06-21 17:19:51,302 [DEBUG] 287 File -  
+2016-06-21 17:19:51,755 [DEBUG] 287 File -  

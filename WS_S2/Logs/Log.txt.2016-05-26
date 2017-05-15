@@ -1,0 +1,36 @@
+2016-05-26 01:29:58,918 [DEBUG] 7 File -  
+2016-05-26 01:29:59,728 [DEBUG] 7 File -  
+2016-05-26 01:30:00,549 [DEBUG] 7 File - -------------------- CAP SO THAN TAI -------------------------
+2016-05-26 01:30:00,986 [DEBUG] 7 File - User_ID: 841882406279
+2016-05-26 01:30:01,382 [DEBUG] 7 File - Service_ID: 949
+2016-05-26 01:30:01,752 [DEBUG] 7 File - Command_Code: tt
+2016-05-26 01:30:02,202 [DEBUG] 7 File - Message: TT 45
+2016-05-26 01:30:02,566 [DEBUG] 7 File - Request_ID: 0
+2016-05-26 01:30:02,943 [DEBUG] 7 File -  
+2016-05-26 01:30:03,401 [DEBUG] 7 File -  
+2016-05-26 01:30:32,448 [DEBUG] 7 File - Send MT result : 1
+2016-05-26 01:30:32,448 [DEBUG] 7 File - userId : 841882406279
+2016-05-26 01:30:32,448 [DEBUG] 7 File - Noi dung MT : Thue bao khong du tien. Vui long nap tien de tiep tuc choi !
+2016-05-26 01:30:32,448 [DEBUG] 7 File - ServiceId : 949
+2016-05-26 01:30:32,448 [DEBUG] 7 File - commandCode : tt
+2016-05-26 01:30:32,448 [DEBUG] 7 File - requestId : 0
+2016-05-26 01:48:06,946 [DEBUG] 30 File -  
+2016-05-26 01:48:06,953 [DEBUG] 30 File -  
+2016-05-26 01:48:06,953 [DEBUG] 30 File - --------------------viSPORT-------------------------
+2016-05-26 01:48:06,953 [DEBUG] 30 File - User_ID: 841882406279
+2016-05-26 01:48:06,953 [DEBUG] 30 File - Service_ID: 979
+2016-05-26 01:48:06,953 [DEBUG] 30 File - Command_Code: DK
+2016-05-26 01:48:06,953 [DEBUG] 30 File - Message: DK TP
+2016-05-26 01:48:06,953 [DEBUG] 30 File - Request_ID: 0
+2016-05-26 01:48:06,953 [DEBUG] 30 File -  
+2016-05-26 01:48:06,953 [DEBUG] 30 File -  
+2016-05-26 01:50:15,730 [DEBUG] 35 File -  
+2016-05-26 01:50:16,084 [DEBUG] 35 File -  
+2016-05-26 01:50:16,398 [DEBUG] 35 File - --------------------viSPORT-------------------------
+2016-05-26 01:50:16,712 [DEBUG] 35 File - User_ID: 841882406279
+2016-05-26 01:50:16,987 [DEBUG] 35 File - Service_ID: 979
+2016-05-26 01:50:17,243 [DEBUG] 35 File - Command_Code: DK
+2016-05-26 01:50:17,532 [DEBUG] 35 File - Message: DK TP
+2016-05-26 01:50:17,829 [DEBUG] 35 File - Request_ID: 0
+2016-05-26 01:50:18,142 [DEBUG] 35 File -  
+2016-05-26 01:50:18,620 [DEBUG] 35 File -  

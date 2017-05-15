@@ -1,0 +1,396 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:tm="http://microsoft.com/wsdl/mime/textMatching/" xmlns:mime="http://schemas.xmlsoap.org/wsdl/mime/" xmlns:tns="http://tempuri.org/" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:s="http://www.w3.org/2001/XMLSchema" xmlns:http="http://schemas.xmlsoap.org/wsdl/http/" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" targetNamespace="http://tempuri.org/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <s:schema elementFormDefault="qualified" targetNamespace="http://tempuri.org/">
+      <s:element name="RegisterService">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="Shortcode" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="RequestID" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="Msisdn" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="Commandcode" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="Message" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="RegisterServiceResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="RegisterServiceResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="RegisterS294xByServiceMaster">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="Shortcode" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="RequestID" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="Msisdn" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="Commandcode" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="Message" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="RegisterS294xByServiceMasterResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="RegisterS294xByServiceMasterResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="SynchronizeUser">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="Shortcode" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="RequestID" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="Msisdn" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="Commandcode" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="Message" type="s:string" />
+            <s:element minOccurs="1" maxOccurs="1" name="ServiceID" type="s:int" />
+            <s:element minOccurs="1" maxOccurs="1" name="SyncType" type="s:int" />
+            <s:element minOccurs="0" maxOccurs="1" name="content" type="s:string" />
+            <s:element minOccurs="1" maxOccurs="1" name="chargedDay" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="SynchronizeUserResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="SynchronizeUserResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="SyncSubWapVnmData">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="Shortcode" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="RequestID" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="Msisdn" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="Commandcode" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="Message" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="SyncSubWapVnmDataResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="SyncSubWapVnmDataResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="CheckRegistration">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="Shortcode" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="RequestID" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="Msisdn" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="Commandcode" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="Message" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="CheckRegistrationResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="CheckRegistrationResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetRegisteredServices">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="Msisdn" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetRegisteredServicesResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="GetRegisteredServicesResult" type="tns:ArrayOfString" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="ArrayOfString">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="unbounded" name="string" nillable="true" type="s:string" />
+        </s:sequence>
+      </s:complexType>
+      <s:element name="RegisterService_Voichat">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="Shortcode" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="RequestID" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="Msisdn" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="Commandcode" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="Message" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="RegisterService_VoichatResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="RegisterService_VoichatResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="RegisterServiceTrachamMT">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="Shortcode" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="RequestID" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="Msisdn" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="Commandcode" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="Message" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="RegisterServiceTrachamMTResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="RegisterServiceTrachamMTResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+    </s:schema>
+  </wsdl:types>
+  <wsdl:message name="RegisterServiceSoapIn">
+    <wsdl:part name="parameters" element="tns:RegisterService" />
+  </wsdl:message>
+  <wsdl:message name="RegisterServiceSoapOut">
+    <wsdl:part name="parameters" element="tns:RegisterServiceResponse" />
+  </wsdl:message>
+  <wsdl:message name="RegisterS294xByServiceMasterSoapIn">
+    <wsdl:part name="parameters" element="tns:RegisterS294xByServiceMaster" />
+  </wsdl:message>
+  <wsdl:message name="RegisterS294xByServiceMasterSoapOut">
+    <wsdl:part name="parameters" element="tns:RegisterS294xByServiceMasterResponse" />
+  </wsdl:message>
+  <wsdl:message name="SynchronizeUserSoapIn">
+    <wsdl:part name="parameters" element="tns:SynchronizeUser" />
+  </wsdl:message>
+  <wsdl:message name="SynchronizeUserSoapOut">
+    <wsdl:part name="parameters" element="tns:SynchronizeUserResponse" />
+  </wsdl:message>
+  <wsdl:message name="SyncSubWapVnmDataSoapIn">
+    <wsdl:part name="parameters" element="tns:SyncSubWapVnmData" />
+  </wsdl:message>
+  <wsdl:message name="SyncSubWapVnmDataSoapOut">
+    <wsdl:part name="parameters" element="tns:SyncSubWapVnmDataResponse" />
+  </wsdl:message>
+  <wsdl:message name="CheckRegistrationSoapIn">
+    <wsdl:part name="parameters" element="tns:CheckRegistration" />
+  </wsdl:message>
+  <wsdl:message name="CheckRegistrationSoapOut">
+    <wsdl:part name="parameters" element="tns:CheckRegistrationResponse" />
+  </wsdl:message>
+  <wsdl:message name="GetRegisteredServicesSoapIn">
+    <wsdl:part name="parameters" element="tns:GetRegisteredServices" />
+  </wsdl:message>
+  <wsdl:message name="GetRegisteredServicesSoapOut">
+    <wsdl:part name="parameters" element="tns:GetRegisteredServicesResponse" />
+  </wsdl:message>
+  <wsdl:message name="RegisterService_VoichatSoapIn">
+    <wsdl:part name="parameters" element="tns:RegisterService_Voichat" />
+  </wsdl:message>
+  <wsdl:message name="RegisterService_VoichatSoapOut">
+    <wsdl:part name="parameters" element="tns:RegisterService_VoichatResponse" />
+  </wsdl:message>
+  <wsdl:message name="RegisterServiceTrachamMTSoapIn">
+    <wsdl:part name="parameters" element="tns:RegisterServiceTrachamMT" />
+  </wsdl:message>
+  <wsdl:message name="RegisterServiceTrachamMTSoapOut">
+    <wsdl:part name="parameters" element="tns:RegisterServiceTrachamMTResponse" />
+  </wsdl:message>
+  <wsdl:portType name="S2VnmSoap">
+    <wsdl:operation name="RegisterService">
+      <wsdl:input message="tns:RegisterServiceSoapIn" />
+      <wsdl:output message="tns:RegisterServiceSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="RegisterS294xByServiceMaster">
+      <wsdl:input message="tns:RegisterS294xByServiceMasterSoapIn" />
+      <wsdl:output message="tns:RegisterS294xByServiceMasterSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="SynchronizeUser">
+      <wsdl:input message="tns:SynchronizeUserSoapIn" />
+      <wsdl:output message="tns:SynchronizeUserSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="SyncSubWapVnmData">
+      <wsdl:input message="tns:SyncSubWapVnmDataSoapIn" />
+      <wsdl:output message="tns:SyncSubWapVnmDataSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="CheckRegistration">
+      <wsdl:input message="tns:CheckRegistrationSoapIn" />
+      <wsdl:output message="tns:CheckRegistrationSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="GetRegisteredServices">
+      <wsdl:input message="tns:GetRegisteredServicesSoapIn" />
+      <wsdl:output message="tns:GetRegisteredServicesSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="RegisterService_Voichat">
+      <wsdl:input message="tns:RegisterService_VoichatSoapIn" />
+      <wsdl:output message="tns:RegisterService_VoichatSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="RegisterServiceTrachamMT">
+      <wsdl:input message="tns:RegisterServiceTrachamMTSoapIn" />
+      <wsdl:output message="tns:RegisterServiceTrachamMTSoapOut" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="S2VnmSoap" type="tns:S2VnmSoap">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="RegisterService">
+      <soap:operation soapAction="http://tempuri.org/RegisterService" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="RegisterS294xByServiceMaster">
+      <soap:operation soapAction="http://tempuri.org/RegisterS294xByServiceMaster" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="SynchronizeUser">
+      <soap:operation soapAction="http://tempuri.org/SynchronizeUser" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="SyncSubWapVnmData">
+      <soap:operation soapAction="http://tempuri.org/SyncSubWapVnmData" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="CheckRegistration">
+      <soap:operation soapAction="http://tempuri.org/CheckRegistration" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetRegisteredServices">
+      <soap:operation soapAction="http://tempuri.org/GetRegisteredServices" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="RegisterService_Voichat">
+      <soap:operation soapAction="http://tempuri.org/RegisterService_Voichat" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="RegisterServiceTrachamMT">
+      <soap:operation soapAction="http://tempuri.org/RegisterServiceTrachamMT" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:binding name="S2VnmSoap12" type="tns:S2VnmSoap">
+    <soap12:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="RegisterService">
+      <soap12:operation soapAction="http://tempuri.org/RegisterService" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="RegisterS294xByServiceMaster">
+      <soap12:operation soapAction="http://tempuri.org/RegisterS294xByServiceMaster" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="SynchronizeUser">
+      <soap12:operation soapAction="http://tempuri.org/SynchronizeUser" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="SyncSubWapVnmData">
+      <soap12:operation soapAction="http://tempuri.org/SyncSubWapVnmData" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="CheckRegistration">
+      <soap12:operation soapAction="http://tempuri.org/CheckRegistration" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetRegisteredServices">
+      <soap12:operation soapAction="http://tempuri.org/GetRegisteredServices" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="RegisterService_Voichat">
+      <soap12:operation soapAction="http://tempuri.org/RegisterService_Voichat" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="RegisterServiceTrachamMT">
+      <soap12:operation soapAction="http://tempuri.org/RegisterServiceTrachamMT" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="S2Vnm">
+    <wsdl:port name="S2VnmSoap" binding="tns:S2VnmSoap">
+      <soap:address location="http://sv36.vmgmedia.vn:9005/S2Vnm.asmx" />
+    </wsdl:port>
+    <wsdl:port name="S2VnmSoap12" binding="tns:S2VnmSoap12">
+      <soap12:address location="http://sv36.vmgmedia.vn:9005/S2Vnm.asmx" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

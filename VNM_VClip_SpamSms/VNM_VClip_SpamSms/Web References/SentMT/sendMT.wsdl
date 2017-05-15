@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:intf="http://127.0.0.1:8080/api/services/sendMT" xmlns:apachesoap="http://xml.apache.org/xml-soap" xmlns:wsdlsoap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:impl="http://127.0.0.1:8080/api/services/sendMT" targetNamespace="http://127.0.0.1:8080/api/services/sendMT" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types />
+  <wsdl:message name="sendMTResponse">
+    <wsdl:part name="sendMTReturn" type="xsd:int" />
+  </wsdl:message>
+  <wsdl:message name="sendMTRequest">
+    <wsdl:part name="userID" type="soapenc:string" />
+    <wsdl:part name="message" type="soapenc:string" />
+    <wsdl:part name="serviceID" type="soapenc:string" />
+    <wsdl:part name="commandCode" type="soapenc:string" />
+    <wsdl:part name="messageType" type="soapenc:string" />
+    <wsdl:part name="requestID" type="soapenc:string" />
+    <wsdl:part name="totalMessage" type="soapenc:string" />
+    <wsdl:part name="messageIndex" type="soapenc:string" />
+    <wsdl:part name="isMore" type="soapenc:string" />
+    <wsdl:part name="contentType" type="soapenc:string" />
+  </wsdl:message>
+  <wsdl:message name="sendMTEx2Request">
+    <wsdl:part name="userID" type="soapenc:string" />
+    <wsdl:part name="message" type="soapenc:string" />
+    <wsdl:part name="serviceID" type="soapenc:string" />
+    <wsdl:part name="commandCode" type="soapenc:string" />
+    <wsdl:part name="messageType" type="soapenc:string" />
+    <wsdl:part name="requestID" type="soapenc:string" />
+    <wsdl:part name="totalMessage" type="soapenc:string" />
+    <wsdl:part name="messageIndex" type="soapenc:string" />
+    <wsdl:part name="isMore" type="soapenc:string" />
+    <wsdl:part name="contentType" type="soapenc:string" />
+    <wsdl:part name="messageClass" type="xsd:int" />
+    <wsdl:part name="mwi" type="xsd:int" />
+    <wsdl:part name="dataCoding" type="xsd:int" />
+  </wsdl:message>
+  <wsdl:message name="sendMTExRequest">
+    <wsdl:part name="userID" type="soapenc:string" />
+    <wsdl:part name="message" type="soapenc:string" />
+    <wsdl:part name="serviceID" type="soapenc:string" />
+    <wsdl:part name="commandCode" type="soapenc:string" />
+    <wsdl:part name="messageType" type="soapenc:string" />
+    <wsdl:part name="requestID" type="soapenc:string" />
+    <wsdl:part name="totalMessage" type="soapenc:string" />
+    <wsdl:part name="messageIndex" type="soapenc:string" />
+    <wsdl:part name="isMore" type="soapenc:string" />
+    <wsdl:part name="contentType" type="soapenc:string" />
+  </wsdl:message>
+  <wsdl:message name="sendMTExResponse">
+    <wsdl:part name="sendMTExReturn" type="xsd:int" />
+  </wsdl:message>
+  <wsdl:message name="sendMTPushRequest">
+    <wsdl:part name="userID" type="soapenc:string" />
+    <wsdl:part name="message" type="soapenc:string" />
+    <wsdl:part name="serviceID" type="soapenc:string" />
+    <wsdl:part name="commandCode" type="soapenc:string" />
+    <wsdl:part name="messageType" type="soapenc:string" />
+    <wsdl:part name="requestID" type="soapenc:string" />
+    <wsdl:part name="totalMessage" type="soapenc:string" />
+    <wsdl:part name="messageIndex" type="soapenc:string" />
+    <wsdl:part name="isMore" type="soapenc:string" />
+    <wsdl:part name="contentType" type="soapenc:string" />
+  </wsdl:message>
+  <wsdl:message name="sendMTEx2Response">
+    <wsdl:part name="sendMTEx2Return" type="xsd:int" />
+  </wsdl:message>
+  <wsdl:message name="sendMTPushResponse">
+    <wsdl:part name="sendMTPushReturn" type="xsd:int" />
+  </wsdl:message>
+  <wsdl:portType name="ServiceProvider">
+    <wsdl:operation name="sendMT" parameterOrder="userID message serviceID commandCode messageType requestID totalMessage messageIndex isMore contentType">
+      <wsdl:input name="sendMTRequest" message="impl:sendMTRequest" />
+      <wsdl:output name="sendMTResponse" message="impl:sendMTResponse" />
+    </wsdl:operation>
+    <wsdl:operation name="sendMTEx" parameterOrder="userID message serviceID commandCode messageType requestID totalMessage messageIndex isMore contentType">
+      <wsdl:input name="sendMTExRequest" message="impl:sendMTExRequest" />
+      <wsdl:output name="sendMTExResponse" message="impl:sendMTExResponse" />
+    </wsdl:operation>
+    <wsdl:operation name="sendMTEx2" parameterOrder="userID message serviceID commandCode messageType requestID totalMessage messageIndex isMore contentType messageClass mwi dataCoding">
+      <wsdl:input name="sendMTEx2Request" message="impl:sendMTEx2Request" />
+      <wsdl:output name="sendMTEx2Response" message="impl:sendMTEx2Response" />
+    </wsdl:operation>
+    <wsdl:operation name="sendMTPush" parameterOrder="userID message serviceID commandCode messageType requestID totalMessage messageIndex isMore contentType">
+      <wsdl:input name="sendMTPushRequest" message="impl:sendMTPushRequest" />
+      <wsdl:output name="sendMTPushResponse" message="impl:sendMTPushResponse" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="sendMTSoapBinding" type="impl:ServiceProvider">
+    <wsdlsoap:binding transport="http://schemas.xmlsoap.org/soap/http" style="rpc" />
+    <wsdl:operation name="sendMT">
+      <wsdlsoap:operation soapAction="" />
+      <wsdl:input name="sendMTRequest">
+        <wsdlsoap:body use="encoded" namespace="http://mt.webservice.ems.vmg.com" encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" />
+      </wsdl:input>
+      <wsdl:output name="sendMTResponse">
+        <wsdlsoap:body use="encoded" namespace="http://127.0.0.1:8080/api/services/sendMT" encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="sendMTEx">
+      <wsdlsoap:operation soapAction="" />
+      <wsdl:input name="sendMTExRequest">
+        <wsdlsoap:body use="encoded" namespace="http://mt.webservice.ems.vmg.com" encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" />
+      </wsdl:input>
+      <wsdl:output name="sendMTExResponse">
+        <wsdlsoap:body use="encoded" namespace="http://127.0.0.1:8080/api/services/sendMT" encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="sendMTEx2">
+      <wsdlsoap:operation soapAction="" />
+      <wsdl:input name="sendMTEx2Request">
+        <wsdlsoap:body use="encoded" namespace="http://mt.webservice.ems.vmg.com" encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" />
+      </wsdl:input>
+      <wsdl:output name="sendMTEx2Response">
+        <wsdlsoap:body use="encoded" namespace="http://127.0.0.1:8080/api/services/sendMT" encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="sendMTPush">
+      <wsdlsoap:operation soapAction="" />
+      <wsdl:input name="sendMTPushRequest">
+        <wsdlsoap:body use="encoded" namespace="http://mt.webservice.ems.vmg.com" encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" />
+      </wsdl:input>
+      <wsdl:output name="sendMTPushResponse">
+        <wsdlsoap:body use="encoded" namespace="http://127.0.0.1:8080/api/services/sendMT" encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="ServiceProviderService">
+    <wsdl:port name="sendMT" binding="impl:sendMTSoapBinding">
+      <wsdlsoap:address location="http://192.168.168.33:8080/api/services/sendMT" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

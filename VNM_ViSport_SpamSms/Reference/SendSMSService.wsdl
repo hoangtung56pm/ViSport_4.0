@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<definitions xmlns:wsu="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-utility-1.0.xsd" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:tns="http://ws.smsb.vivas.vn/" xmlns:xsd="http://www.w3.org/2001/XMLSchema" name="SendSMSService" targetNamespace="http://ws.smsb.vivas.vn/" xmlns="http://schemas.xmlsoap.org/wsdl/">
+  <types>
+    <xsd:schema>
+      <xsd:import schemaLocation="http://123.30.23.179:8080/SMS_BN_Core_Server/SendSMSPort?xsd=1" namespace="http://ws.smsb.vivas.vn/" />
+    </xsd:schema>
+  </types>
+  <message name="sendSMSAPI2">
+    <part name="parameters" element="tns:sendSMSAPI2" />
+  </message>
+  <message name="sendSMSAPI2Response">
+    <part name="parameters" element="tns:sendSMSAPI2Response" />
+  </message>
+  <message name="sendSMSAPI">
+    <part name="parameters" element="tns:sendSMSAPI" />
+  </message>
+  <message name="sendSMSAPIResponse">
+    <part name="parameters" element="tns:sendSMSAPIResponse" />
+  </message>
+  <message name="verifySMSAPI">
+    <part name="parameters" element="tns:verifySMSAPI" />
+  </message>
+  <message name="verifySMSAPIResponse">
+    <part name="parameters" element="tns:verifySMSAPIResponse" />
+  </message>
+  <portType name="SendSMSDelegate">
+    <operation name="sendSMSAPI">
+      <input message="tns:sendSMSAPI" />
+      <output message="tns:sendSMSAPIResponse" />
+    </operation>
+    <operation name="verifySMSAPI">
+      <input message="tns:verifySMSAPI" />
+      <output message="tns:verifySMSAPIResponse" />
+    </operation>
+  </portType>
+  <binding name="SendSMSPortBinding" type="tns:SendSMSDelegate">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <operation name="sendSMSAPI">
+      <soap:operation soapAction="" />
+      <input>
+        <soap:body use="literal" />
+      </input>
+      <output>
+        <soap:body use="literal" />
+      </output>
+    </operation>
+    <operation name="verifySMSAPI">
+      <soap:operation soapAction="" />
+      <input>
+        <soap:body use="literal" />
+      </input>
+      <output>
+        <soap:body use="literal" />
+      </output>
+    </operation>
+  </binding>
+  <service name="SendSMSService">
+    <port name="SendSMSPort" binding="tns:SendSMSPortBinding">
+      <soap:address location="http://123.30.23.179:8080/SMS_BN_Core_Server/SendSMSPort" />
+    </port>
+  </service>
+</definitions>

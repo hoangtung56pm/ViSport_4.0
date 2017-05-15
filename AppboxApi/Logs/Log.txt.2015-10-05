@@ -1,0 +1,22 @@
+2015-10-05 16:50:42,830 [DEBUG] 6 Subrequest -  
+2015-10-05 16:50:42,845 [DEBUG] 6 Subrequest -  
+2015-10-05 16:50:42,845 [DEBUG] 6 Subrequest - ----- VMS API CALL Subrequest ----- :UserName :  |Pass :  |ServiceId :  |Msisdn :  |Substime :  |Param :  |Mo: 
+2015-10-05 16:50:42,845 [DEBUG] 6 Subrequest -  
+2015-10-05 16:50:42,845 [DEBUG] 6 Subrequest -  
+2015-10-05 17:01:33,596 [DEBUG] 16 Subrequest -  
+2015-10-05 17:01:33,596 [DEBUG] 16 Subrequest -  
+2015-10-05 17:01:33,596 [DEBUG] 16 Subrequest - ----- VMS API CALL Subrequest ----- :UserName : Vmg |Pass : Vmg123 |ServiceId : 26 |Msisdn : 84932276804 |Substime : 2015-10-05 04:07:23 |Param : 3 |Mo: MONFEE AG
+2015-10-05 17:01:33,596 [DEBUG] 16 Subrequest -  
+2015-10-05 17:01:33,596 [DEBUG] 16 Subrequest -  
+2015-10-05 17:49:02,655 [DEBUG] 36 MoRequest -  
+2015-10-05 17:49:03,107 [DEBUG] 36 MoRequest -  
+2015-10-05 17:49:03,592 [DEBUG] 36 MoRequest - ----- VMS API CALL MoRequest ----- :UserName : vmg |Pass : vmg123 |src : 84902201287 |dest : 9210 |moseq : 1023635997 |cmdcode : HD |msgbody: HD
+2015-10-05 17:49:03,979 [DEBUG] 36 MoRequest -  
+2015-10-05 17:49:04,355 [DEBUG] 36 MoRequest -  
+2015-10-05 17:50:38,577 [DEBUG] 28 MoRequest -  
+2015-10-05 17:50:38,971 [DEBUG] 28 MoRequest -  
+2015-10-05 17:50:39,497 [DEBUG] 28 MoRequest - ----- VMS API CALL MoRequest ----- :UserName : Vmg |Pass : Vmg123 |src : 84902201287 |dest : 9210 |moseq : 1023635997 |cmdcode : HD |msgbody: HD
+2015-10-05 17:50:39,867 [DEBUG] 28 MoRequest -  
+2015-10-05 17:50:40,185 [DEBUG] 28 MoRequest -  
+2015-10-05 17:51:23,129 [DEBUG] 28 ApiController - ----- VMG SEND MT URL : http://m.mgame.vn/paymentgw/index.php?r=pDefault/index&src=9210&dest=84902201287&mtseq=794302&msgtype=Text&msgtitle=Huong%2bdan&msgbody=Chao%2bmung%2bQuy%2bkhach%2bden%2bvoi%2bsu%2btro%2bgiup%2bcua%2bdich%2bvu%2bAPPBOX%2bcua%2bMobiFone.%2bDe%2bdang%2bky%2bgoi%2bngay%2bsoan%253a%2bDK%2bAG%252c%2bde%2bdang%2bky%2bgoi%2btuan%2bsoan%253a%2bDK%2bAG7%2bgui%2b9210.%2bDe%2bkiem%2btra%2bgoi%2bcuoc%2bdang%2bsu%2bdung%2bsoan%2bKT%2bgui%2b9210.%2bDe%2bbiet%2bgia%2bcuoc%2bsoan%2bGIA%2bgui%2b9210.%2bDe%2bhuy%2bsoan%2bHUY%2bTengoi%2bgui%2b9210.%2bDe%2bsu%2bdung%2bdich%2bvu%2bAppbox%252c%2bQuy%2bkhach%2btruy%2bcap%2bdia%2bchi%2bhttp%253a%252f%252fappbox.vn.%2bLien%2bhe%2bho%2btro%2b19001255.%2bTran%2btrong%2bcam%2bon!&moseq=1023635997&procresult=0&cpid=054&serviceid=26&contentid=26&price=0&channel=SMS&username=appbox&password=AppBox20!%Centech!*%
+2015-10-05 17:51:39,157 [DEBUG] 28 ApiController - ----- STATUS_CODE FROM MGAME : 200

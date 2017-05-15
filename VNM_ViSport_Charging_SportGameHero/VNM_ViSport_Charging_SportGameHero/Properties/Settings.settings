@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="VNM_ViSport_Charging.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="VNM_ViSport_Charging_SentMT_ServiceProviderService" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://123.29.69.168/api/services/sendMT</Value>
+    </Setting>
+    <Setting Name="VNM_ViSport_Charging_ChargingGateway_WebServiceCharging3g" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://123.29.67.36:9203/WebServiceCharging3g.asmx</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

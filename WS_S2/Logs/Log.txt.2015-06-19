@@ -1,0 +1,53 @@
+2015-06-19 17:12:23,730 [DEBUG] 5 Zalo_Callback -  
+2015-06-19 17:12:23,750 [DEBUG] 5 Zalo_Callback -  
+2015-06-19 17:12:23,750 [DEBUG] 5 Zalo_Callback - --------------- Zalo Call Back URL ----------------------
+2015-06-19 17:12:23,750 [DEBUG] 5 Zalo_Callback - Zalo Callback ===> events:|status:|msgId:|Mac:
+2015-06-19 17:12:23,751 [DEBUG] 5 Zalo_Callback -  
+2015-06-19 17:12:23,751 [DEBUG] 5 Zalo_Callback -  
+2015-06-19 17:13:09,919 [DEBUG] 5 ApiZaloCallForSendZms -  
+2015-06-19 17:13:10,488 [DEBUG] 5 ApiZaloCallForSendZms -  
+2015-06-19 17:13:10,945 [DEBUG] 5 ApiZaloCallForSendZms - --------------- Zalo CALL API Error ----------------------
+2015-06-19 17:13:11,688 [DEBUG] 5 ApiZaloCallForSendZms - Zalo API Err : -20109
+2015-06-19 17:13:16,707 [DEBUG] 5 ApiZaloCallForSendZms - Zalo API Mes : User doesn't follow this page
+2015-06-19 17:13:42,753 [DEBUG] 5 ApiZaloCallForSendZms -  
+2015-06-19 17:13:42,753 [DEBUG] 5 ApiZaloCallForSendZms -  
+2015-06-19 17:14:34,283 [DEBUG] 5 ApiZaloCallForSendZms -  
+2015-06-19 17:14:35,035 [DEBUG] 5 ApiZaloCallForSendZms -  
+2015-06-19 17:14:36,843 [DEBUG] 5 ApiZaloCallForSendZms - --------------- Zalo CALL API Error ----------------------
+2015-06-19 17:14:46,382 [DEBUG] 5 ApiZaloCallForSendZms - Zalo API Err : -20109
+2015-06-19 17:14:46,382 [DEBUG] 5 ApiZaloCallForSendZms - Zalo API Mes : User doesn't follow this page
+2015-06-19 17:14:46,382 [DEBUG] 5 ApiZaloCallForSendZms -  
+2015-06-19 17:14:46,382 [DEBUG] 5 ApiZaloCallForSendZms -  
+2015-06-19 17:15:14,051 [DEBUG] 5 Zalo_Callback -  
+2015-06-19 17:15:14,052 [DEBUG] 5 Zalo_Callback -  
+2015-06-19 17:15:14,052 [DEBUG] 5 Zalo_Callback - --------------- Zalo Call Back URL ----------------------
+2015-06-19 17:15:14,052 [DEBUG] 5 Zalo_Callback - Zalo Callback ===> events:|status:|msgId:|Mac:
+2015-06-19 17:15:14,052 [DEBUG] 5 Zalo_Callback -  
+2015-06-19 17:15:14,052 [DEBUG] 5 Zalo_Callback -  
+2015-06-19 17:16:10,745 [DEBUG] 5 ApiZaloCallForSendZms -  
+2015-06-19 17:16:11,297 [DEBUG] 5 ApiZaloCallForSendZms -  
+2015-06-19 17:16:11,976 [DEBUG] 5 ApiZaloCallForSendZms - --------------- Zalo CALL API Error ----------------------
+2015-06-19 17:16:44,778 [DEBUG] 5 ApiZaloCallForSendZms - Zalo API Err : -20109
+2015-06-19 17:16:46,907 [DEBUG] 5 ApiZaloCallForSendZms - Zalo API Mes : User doesn't follow this page
+2015-06-19 17:16:48,083 [DEBUG] 5 ApiZaloCallForSendZms -  
+2015-06-19 17:16:48,892 [DEBUG] 5 ApiZaloCallForSendZms -  
+2015-06-19 17:17:37,083 [DEBUG] 5 ApiZaloCallForSendZms -  
+2015-06-19 17:17:37,083 [DEBUG] 5 ApiZaloCallForSendZms -  
+2015-06-19 17:17:37,083 [DEBUG] 5 ApiZaloCallForSendZms - --------------- Zalo CALL API Error ----------------------
+2015-06-19 17:17:37,083 [DEBUG] 5 ApiZaloCallForSendZms - Zalo API Err : -20109
+2015-06-19 17:17:37,083 [DEBUG] 5 ApiZaloCallForSendZms - Zalo API Mes : User doesn't follow this page
+2015-06-19 17:17:37,083 [DEBUG] 5 ApiZaloCallForSendZms -  
+2015-06-19 17:17:37,083 [DEBUG] 5 ApiZaloCallForSendZms -  
+2015-06-19 17:19:47,203 [DEBUG] 5 Zalo_Callback -  
+2015-06-19 17:19:47,203 [DEBUG] 5 Zalo_Callback -  
+2015-06-19 17:19:47,203 [DEBUG] 5 Zalo_Callback - --------------- Zalo Call Back URL ----------------------
+2015-06-19 17:19:47,203 [DEBUG] 5 Zalo_Callback - Zalo Callback ===> events:|status:|msgId:|Mac:
+2015-06-19 17:19:47,203 [DEBUG] 5 Zalo_Callback -  
+2015-06-19 17:19:47,203 [DEBUG] 5 Zalo_Callback -  
+2015-06-19 17:20:04,065 [DEBUG] 12 ApiZaloCallForSendZms -  
+2015-06-19 17:20:07,051 [DEBUG] 12 ApiZaloCallForSendZms -  
+2015-06-19 17:20:07,516 [DEBUG] 12 ApiZaloCallForSendZms - --------------- Zalo CALL API Error ----------------------
+2015-06-19 17:20:08,020 [DEBUG] 12 ApiZaloCallForSendZms - Zalo API Err : -20109
+2015-06-19 17:20:09,602 [DEBUG] 12 ApiZaloCallForSendZms - Zalo API Mes : User doesn't follow this page
+2015-06-19 17:20:09,602 [DEBUG] 12 ApiZaloCallForSendZms -  
+2015-06-19 17:20:09,602 [DEBUG] 12 ApiZaloCallForSendZms -  

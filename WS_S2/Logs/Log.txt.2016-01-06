@@ -1,0 +1,16 @@
+2016-01-06 15:31:42,922 [DEBUG] 70 File -  
+2016-01-06 15:31:42,928 [DEBUG] 70 File -  
+2016-01-06 15:31:42,928 [DEBUG] 70 File - -------------------- CAP SO THAN TAI -------------------------
+2016-01-06 15:31:42,928 [DEBUG] 70 File - User_ID: 841864950687
+2016-01-06 15:31:42,928 [DEBUG] 70 File - Service_ID: 949
+2016-01-06 15:31:42,928 [DEBUG] 70 File - Command_Code: DIEM
+2016-01-06 15:31:42,928 [DEBUG] 70 File - Message: DIEM
+2016-01-06 15:31:42,928 [DEBUG] 70 File - Request_ID: 0
+2016-01-06 15:31:42,928 [DEBUG] 70 File -  
+2016-01-06 15:31:42,928 [DEBUG] 70 File -  
+2016-01-06 15:31:45,799 [DEBUG] 70 File - Send MT result : 1
+2016-01-06 15:31:45,799 [DEBUG] 70 File - userId : 841864950687
+2016-01-06 15:31:45,799 [DEBUG] 70 File - Noi dung MT : Ket qua xo so se duoc cap nhat vao toi nay. Ban hay theo doi de biet so diem cua minh. Soan tin DK XS MB de theo doi ket qua xo so
+2016-01-06 15:31:45,799 [DEBUG] 70 File - ServiceId : 949
+2016-01-06 15:31:45,799 [DEBUG] 70 File - commandCode : DIEM
+2016-01-06 15:31:45,799 [DEBUG] 70 File - requestId : 0

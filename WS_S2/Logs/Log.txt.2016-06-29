@@ -1,0 +1,87 @@
+2016-06-29 08:54:51,717 [DEBUG] 221 GetCDR - CDR GPC update
+2016-06-29 08:54:56,418 [DEBUG] 221 GetCDR - CDR VMS update
+2016-06-29 08:59:06,450 [DEBUG] 222 GetCDR - CDR GPC update
+2016-06-29 08:59:09,331 [DEBUG] 222 GetCDR - CDR VMS update
+2016-06-29 08:59:29,606 [DEBUG] 106 GetCDR - CDR GPC update
+2016-06-29 09:00:37,766 [DEBUG] 106 GetCDR - CDR VMS update
+2016-06-29 09:03:46,312 [DEBUG] 152 GetCDR - CDR GPC update
+2016-06-29 09:03:48,414 [DEBUG] 152 GetCDR - CDR VMS update
+2016-06-29 09:08:46,555 [DEBUG] 206 GetCDR - CDR GPC update
+2016-06-29 09:09:27,184 [DEBUG] 206 GetCDR - CDR VMS update
+2016-06-29 09:10:53,641 [DEBUG] 148 GetCDR - CDR GPC update
+2016-06-29 09:10:56,381 [DEBUG] 148 GetCDR - CDR VMS update
+2016-06-29 09:23:36,877 [DEBUG] 173 GetCDR - CDR GPC update
+2016-06-29 09:23:39,562 [DEBUG] 173 GetCDR - CDR VMS update
+2016-06-29 09:28:47,552 [DEBUG] 128 GetCDR - CDR GPC update
+2016-06-29 09:28:49,608 [DEBUG] 128 GetCDR - CDR VMS update
+2016-06-29 09:30:55,881 [DEBUG] 222 GetCDR - CDR GPC update
+2016-06-29 09:31:01,305 [DEBUG] 222 GetCDR - CDR VMS update
+2016-06-29 09:41:33,401 [DEBUG] 165 GetCDR - CDR GPC update
+2016-06-29 09:41:35,606 [DEBUG] 165 GetCDR - CDR VMS update
+2016-06-29 09:41:48,064 [ERROR] 165 GetCDR - CDR Error : System.IO.IOException: The process cannot access the file 'E:\Project\ViSport_4.0\WS_S2\Sam_Cdr\vmg_dn_vn_2016629.csv' because it is being used by another process.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamWriter.CreateFile(String path, Boolean append, Boolean checkHost)
+   at System.IO.StreamWriter..ctor(String path, Boolean append, Encoding encoding, Int32 bufferSize, Boolean checkHost)
+   at System.IO.File.InternalWriteAllText(String path, String contents, Encoding encoding, Boolean checkHost)
+   at System.IO.File.WriteAllText(String path, String contents)
+   at GetCDR.btnUpdate_Click(Object sender, EventArgs e) in e:\Project\ViSport_4.0\WS_S2\GetCDR.aspx.cs:line 267
+2016-06-29 09:41:59,047 [DEBUG] 161 GetCDR - CDR GPC update
+2016-06-29 09:41:59,502 [DEBUG] 161 GetCDR - CDR VMS update
+2016-06-29 09:50:50,117 [DEBUG] 131 GetCDR - CDR GPC update
+2016-06-29 09:50:50,834 [DEBUG] 131 GetCDR - CDR VMS update
+2016-06-29 10:32:53,124 [DEBUG] 126 GetCDR - CDR GPC update
+2016-06-29 10:32:54,307 [DEBUG] 126 GetCDR - CDR VMS update
+2016-06-29 10:47:19,374 [DEBUG] 214 GetCDR - CDR GPC update
+2016-06-29 10:47:20,059 [DEBUG] 214 GetCDR - CDR VMS update
+2016-06-29 10:48:38,877 [DEBUG] 33 GetCDR - CDR GPC update
+2016-06-29 10:48:39,114 [DEBUG] 33 GetCDR - CDR VMS update
+2016-06-29 10:48:51,633 [DEBUG] 95 GetCDR - CDR GPC update
+2016-06-29 10:48:51,706 [DEBUG] 95 GetCDR - CDR VMS update
+2016-06-29 11:10:49,728 [DEBUG] 146 GetCDR - CDR GPC update
+2016-06-29 11:10:51,720 [DEBUG] 146 GetCDR - CDR VMS update
+2016-06-29 11:12:12,750 [DEBUG] 108 GetCDR - CDR GPC update
+2016-06-29 11:12:13,877 [DEBUG] 108 GetCDR - CDR VMS update
+2016-06-29 11:17:17,633 [DEBUG] 131 GetCDR - CDR GPC update
+2016-06-29 11:17:18,718 [DEBUG] 131 GetCDR - CDR VMS update
+2016-06-29 12:26:56,005 [DEBUG] 10 GetCDR - CDR GPC update
+2016-06-29 12:26:58,218 [DEBUG] 10 GetCDR - CDR VMS update
+2016-06-29 12:30:12,357 [DEBUG] 10 GetCDR - CDR GPC update
+2016-06-29 12:30:16,468 [DEBUG] 10 GetCDR - CDR VMS update
+2016-06-29 13:22:54,390 [DEBUG] 130 GetCDR - CDR GPC update
+2016-06-29 13:22:56,608 [DEBUG] 130 GetCDR - CDR VMS update
+2016-06-29 13:29:07,567 [DEBUG] 59 GetCDR - CDR GPC update
+2016-06-29 13:29:09,689 [DEBUG] 59 GetCDR - CDR VMS update
+2016-06-29 13:29:24,446 [DEBUG] 59 GetCDR - CDR GPC update
+2016-06-29 13:29:24,494 [DEBUG] 59 GetCDR - CDR VMS update
+2016-06-29 13:45:53,249 [DEBUG] 126 GetCDR - CDR GPC update
+2016-06-29 13:46:45,299 [DEBUG] 126 GetCDR - CDR VMS update
+2016-06-29 13:53:16,933 [ERROR] 127 GetCDR - CDR Loi UPDATE GPC : System.Data.SqlClient.SqlException (0x80131904): Timeout expired.  The timeout period elapsed prior to completion of the operation or the server is not responding. ---> System.ComponentModel.Win32Exception (0x80004005): The wait operation timed out
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, SqlDataReader ds)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean asyncWrite)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet)
+   at Microsoft.ApplicationBlocks.Data.SqlHelper.ExecuteDataset(SqlConnection connection, CommandType commandType, String commandText, SqlParameter[] commandParameters)
+   at Microsoft.ApplicationBlocks.Data.SqlHelper.ExecuteDataset(String connectionString, CommandType commandType, String commandText, SqlParameter[] commandParameters)
+   at Microsoft.ApplicationBlocks.Data.SqlHelper.ExecuteDataset(String connectionString, String spName, Object[] parameterValues)
+   at ViSport_S2_Registered_UsersController.GPCGetCdrByServiceId_ByDate(String serviceId, DateTime day) in e:\Project\ViSport_4.0\WS_S2\App_Code\ViSport_S2_Registered\ViSport_S2_Registered_UsersController.cs:line 1654
+   at GetCDR.btnUpdate_Click(Object sender, EventArgs e) in e:\Project\ViSport_4.0\WS_S2\GetCDR.aspx.cs:line 58
+ClientConnectionId:92cb91cb-86bc-4d08-b4f2-21bb3093fd28
+2016-06-29 13:54:23,205 [DEBUG] 127 GetCDR - CDR VMS update
+2016-06-29 14:07:04,709 [DEBUG] 129 GetCDR - CDR GPC update
+2016-06-29 14:07:40,173 [DEBUG] 129 GetCDR - CDR VMS update
+2016-06-29 14:13:37,719 [DEBUG] 57 GetCDR - CDR GPC update
+2016-06-29 14:14:23,010 [DEBUG] 57 GetCDR - CDR VMS update

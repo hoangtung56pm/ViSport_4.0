@@ -1,0 +1,162 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    
+    <meta content="width=320; initial-scale=1.0; maximum-scale=1.0; user-scalable=0;" name="viewport" />
+
+</head>
+<body>
+    
+    <script type="text/javascript">
+        
+        function run(input) {
+            
+            var a = document.getElementById("lnkSms");
+
+            var iOs = false;
+            var p = navigator.platform;
+
+            if (p == 'iPad' || p == 'iPhone' || p == 'iPod') {
+                iOs = true;
+            }
+            
+            if(iOs) {
+                a.setAttribute("href", "sms:8179&body=ZALO" + input);
+            } else {
+                a.setAttribute("href", "sms:8179?body=ZALO" + input);
+            }
+
+            var name = '';
+            if (input == 'BDH') {
+                name = 'Bình Ðịnh';
+            } else if (input == 'DLK') {
+                name = 'Ðak lak';
+            }
+            else if (input == 'DNG') {
+                name = 'Ðà Nẵng';
+            }
+            else if (input == 'DNO') {
+                name = 'Ðak Nông';
+            }
+            else if (input == 'GL') {
+                name = 'Gia Lai';
+            }
+            else if (input == 'KH') {
+                name = 'Khánh Hòa';
+            }
+            else if (input == 'KT') {
+                name = 'Kon Tum';
+            }
+            else if (input == 'NT') {
+                name = 'Ninh Thuận';
+            }
+            else if (input == 'PY') {
+                name = 'Phú Yên';
+            }
+            else if (input == 'QB') {
+                name = 'Quang Bình';
+            }
+            else if (input == 'QNI') {
+                name = 'Quảng Ngãi';
+            }
+            else if (input == 'QNM') {
+                name = 'Quảng Nam';
+            }
+            else if (input == 'QT') {
+                name = 'Quảng Trị';
+            }
+            else if (input == 'TTH') {
+                name = 'Thua Thiên Huê';
+            }
+            
+            document.getElementById('lblTinh').innerHTML = name;
+
+        }
+
+        function Check() {
+            var a = document.getElementById('drgTinh').value;
+            if (a == '0') {
+                alert('Xin vui lòng chọn Tỉnh !');
+                return false;
+            }
+
+            return true;
+        }
+
+    </script>
+
+<table align="center">
+
+    <tr>
+        <td align="center" style="background: #6d84a2; font-size: 14px; font-weight: bold">
+            KẾT QUẢ XỔ SỐ ZALO
+        </td>
+    </tr>
+
+    <tr>
+        <td><b>Chọn tỉnh</b></td>
+    </tr>
+    <tr>
+        <td></td>
+    </tr>
+    <tr>
+        <td>
+            <select class="a" name="drgTinh" onchange=" run(document.getElementById('drgTinh').value); " id="drgTinh" style="width: 180px !important; min-width: 50px; max-width: 180px; height: 30px;">
+                <option value="0">- Chọn tỉnh -</option>
+                <option value="BDH">Bình Ðịnh</option>
+                <option value="DLK">Ðak lak</option>
+                <option value="DNG">Ðà Nẵng</option>
+                <option value="DNO">Ðak Nông</option>
+                <option value="GL">Gia Lai</option>
+                <option value="KH">Khánh Hòa</option>
+                <option value="KT">Kon Tum</option>
+                <option value="NT">Ninh Thuận</option>
+                <option value="PY">Phú Yên</option>
+                <option value="QB">Quang Bình</option>
+                <option value="QNI">Quảng Ngãi</option>
+                <option value="QNM">Quảng Nam</option>
+                <option value="QT">Quảng Trị</option>
+                <option value="TTH">Thua Thiên Huê</option>
+            </select>
+        </td>
+    </tr>
+
+    <tr>
+        <td></td>
+    </tr>
+
+    <tr>
+        <td>
+            <b>Quyền lợi</b>
+        </td>
+    </tr>
+
+    <tr>
+        <td></td>
+    </tr>
+
+    <tr>
+        <td>
+            <legend>
+                <fieldset>
+                    Bạn nhận được kết quả xổ số mới nhất từ tỉnh <b><label id="lblTinh"> XXX </label></b>. <br/>
+                    Tin nhắn tính phí 1000 VNĐ
+                </fieldset>
+            </legend>
+        </td>
+    </tr>
+
+    <tr>
+        <td></td>
+    </tr>
+
+    <tr align="center">
+        <td>
+            <a onclick=" return Check(); " style="text-decoration: none" id="lnkSms" href="sms:8179?body=ZALOAG">Đăng ký</a>
+        </td>
+    </tr>
+</table>    
+
+</body>
+</html>

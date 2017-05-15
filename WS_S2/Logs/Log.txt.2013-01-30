@@ -1,0 +1,63 @@
+2013-01-30 09:32:02,611 [DEBUG] 9 File - ---------------------------------------------
+2013-01-30 09:32:02,611 [DEBUG] 9 File - User_ID: 841888888888
+2013-01-30 09:32:02,611 [DEBUG] 9 File - Service_ID: 940
+2013-01-30 09:32:02,611 [DEBUG] 9 File - Command_Code: SM
+2013-01-30 09:32:02,611 [DEBUG] 9 File - Message: SM
+2013-01-30 09:32:02,611 [DEBUG] 9 File - Request_ID: 841868085899
+2013-01-30 09:35:00,076 [DEBUG] 9 File - ---------------------------------------------
+2013-01-30 09:35:00,076 [DEBUG] 9 File - User_ID: 841888888888
+2013-01-30 09:35:00,076 [DEBUG] 9 File - Service_ID: 940
+2013-01-30 09:35:00,076 [DEBUG] 9 File - Command_Code: SM
+2013-01-30 09:35:19,291 [DEBUG] 9 File - Message: SM
+2013-01-30 09:35:19,869 [DEBUG] 9 File - Request_ID: 841868085899
+2013-01-30 09:38:05,177 [DEBUG] 5 File - ---------------------------------------------
+2013-01-30 09:38:05,192 [DEBUG] 5 File - User_ID: 841888888888
+2013-01-30 09:38:05,192 [DEBUG] 5 File - Service_ID: 940
+2013-01-30 09:38:05,192 [DEBUG] 5 File - Command_Code: SM
+2013-01-30 09:38:09,143 [DEBUG] 5 File - Message: SM
+2013-01-30 09:38:11,720 [DEBUG] 5 File - Request_ID: 841868085899
+2013-01-30 09:38:57,617 [DEBUG] 5 File - Reg return value: 0
+2013-01-30 09:40:43,545 [DEBUG] 9 File - ---------------------------------------------
+2013-01-30 09:40:43,545 [DEBUG] 9 File - User_ID: 841888888888
+2013-01-30 09:40:43,545 [DEBUG] 9 File - Service_ID: 940
+2013-01-30 09:40:43,545 [DEBUG] 9 File - Command_Code: SM OFF
+2013-01-30 09:40:45,747 [DEBUG] 9 File - Message: SM OFF
+2013-01-30 09:40:46,622 [DEBUG] 9 File - Request_ID: 841868085899
+2013-01-30 09:43:33,663 [DEBUG] 9 File - ---------------------------------------------
+2013-01-30 09:43:33,678 [DEBUG] 9 File - User_ID: 841888888888
+2013-01-30 09:43:33,678 [DEBUG] 9 File - Service_ID: 940
+2013-01-30 09:43:33,678 [DEBUG] 9 File - Command_Code: SM OFF
+2013-01-30 09:43:35,834 [DEBUG] 9 File - Message: SM OFF
+2013-01-30 09:43:36,334 [DEBUG] 9 File - Request_ID: 841868085899
+2013-01-30 09:43:56,861 [DEBUG] 9 File - Reg return value: 0
+2013-01-30 09:47:50,214 [DEBUG] 5 File - ---------------------------------------------
+2013-01-30 09:47:50,214 [DEBUG] 5 File - User_ID: 841888888888
+2013-01-30 09:47:50,214 [DEBUG] 5 File - Service_ID: 940
+2013-01-30 09:47:50,214 [DEBUG] 5 File - Command_Code: SM
+2013-01-30 09:47:52,433 [DEBUG] 5 File - Message: SM OFF
+2013-01-30 09:47:52,917 [DEBUG] 5 File - Request_ID: 841868085899
+2013-01-30 09:50:20,963 [DEBUG] 5 File - ---------------------------------------------
+2013-01-30 09:50:20,963 [DEBUG] 5 File - User_ID: 841888888888
+2013-01-30 09:50:20,963 [DEBUG] 5 File - Service_ID: 940
+2013-01-30 09:50:20,963 [DEBUG] 5 File - Command_Code: SM
+2013-01-30 09:50:23,760 [DEBUG] 5 File - Message: SM
+2013-01-30 09:50:24,197 [DEBUG] 5 File - Request_ID: 841868085899
+2013-01-30 09:53:45,079 [DEBUG] 4 File - ---------------------------------------------
+2013-01-30 09:53:45,079 [DEBUG] 4 File - User_ID: 841888888888
+2013-01-30 09:53:45,079 [DEBUG] 4 File - Service_ID: 940
+2013-01-30 09:53:45,079 [DEBUG] 4 File - Command_Code: SC
+2013-01-30 09:53:47,219 [DEBUG] 4 File - Message: SC
+2013-01-30 09:53:47,719 [DEBUG] 4 File - Request_ID: 841868085899
+2013-01-30 09:54:13,688 [DEBUG] 4 File - Reg return value: 0
+2013-01-30 09:54:59,938 [DEBUG] 5 File - ---------------------------------------------
+2013-01-30 09:54:59,938 [DEBUG] 5 File - User_ID: 841888888888
+2013-01-30 09:54:59,938 [DEBUG] 5 File - Service_ID: 940
+2013-01-30 09:54:59,938 [DEBUG] 5 File - Command_Code: SC
+2013-01-30 09:55:02,500 [DEBUG] 5 File - Message: SC OFF
+2013-01-30 09:55:02,954 [DEBUG] 5 File - Request_ID: 841868085899
+2013-01-30 09:56:33,907 [DEBUG] 4 File - ---------------------------------------------
+2013-01-30 09:56:33,907 [DEBUG] 4 File - User_ID: 841888888888
+2013-01-30 09:56:33,907 [DEBUG] 4 File - Service_ID: 940
+2013-01-30 09:56:33,907 [DEBUG] 4 File - Command_Code: SC
+2013-01-30 09:56:36,375 [DEBUG] 4 File - Message: SC
+2013-01-30 09:56:37,016 [DEBUG] 4 File - Request_ID: 841868085899

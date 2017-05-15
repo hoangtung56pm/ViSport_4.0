@@ -1,0 +1,12 @@
+2015-07-22 09:29:00,603 [DEBUG] 6 File -  
+2015-07-22 09:29:00,935 [DEBUG] 6 File -  
+2015-07-22 09:29:01,242 [DEBUG] 6 File - -------------------- TRIEU PHU BONG DA -------------------------
+2015-07-22 09:29:01,416 [DEBUG] 6 File - User_ID: 84987765522
+2015-07-22 09:29:01,616 [DEBUG] 6 File - Service_ID: 979
+2015-07-22 09:29:01,874 [DEBUG] 6 File - Command_Code: TP
+2015-07-22 09:29:02,168 [DEBUG] 6 File - Message: TP
+2015-07-22 09:29:02,438 [DEBUG] 6 File - Request_ID: 0
+2015-07-22 09:29:02,686 [DEBUG] 6 File -  
+2015-07-22 09:29:02,982 [DEBUG] 6 File -  
+2015-07-22 09:29:43,250 [DEBUG] 6 File - ---------------Error sentMT----------------------
+2015-07-22 09:29:43,250 [DEBUG] 6 File - Get Error : Parameter count does not match Parameter Value count., returnValue: 0

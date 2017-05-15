@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:tns="http://api.mtv.vmg.vs.vasc.com/" targetNamespace="http://api.mtv.vmg.vs.vasc.com/" version="1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="cancelService" type="tns:cancelService" />
+  <xs:element name="cancelServiceResponse" type="tns:cancelServiceResponse" />
+  <xs:element name="getPassOtp" type="tns:getPassOtp" />
+  <xs:element name="getPassOtpResponse" type="tns:getPassOtpResponse" />
+  <xs:element name="hello" type="tns:hello" />
+  <xs:element name="helloResponse" type="tns:helloResponse" />
+  <xs:element name="register" type="tns:register" />
+  <xs:element name="registerResponse" type="tns:registerResponse" />
+  <xs:complexType name="cancelService">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="requestid" type="xs:string" />
+      <xs:element minOccurs="0" name="msisdn" type="xs:string" />
+      <xs:element minOccurs="0" name="packagename" type="xs:string" />
+      <xs:element minOccurs="0" name="policy" type="xs:string" />
+      <xs:element minOccurs="0" name="promotion" type="xs:string" />
+      <xs:element minOccurs="0" name="note" type="xs:string" />
+      <xs:element minOccurs="0" name="application" type="xs:string" />
+      <xs:element minOccurs="0" name="channel" type="xs:string" />
+      <xs:element minOccurs="0" name="username" type="xs:string" />
+      <xs:element minOccurs="0" name="userip" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="cancelServiceResponse">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="return" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="hello">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="name" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="helloResponse">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="return" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="register">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="requestid" type="xs:string" />
+      <xs:element minOccurs="0" name="msisdn" type="xs:string" />
+      <xs:element minOccurs="0" name="packagename" type="xs:string" />
+      <xs:element minOccurs="0" name="promotion" type="xs:string" />
+      <xs:element minOccurs="0" name="trial" type="xs:string" />
+      <xs:element minOccurs="0" name="bundle" type="xs:string" />
+      <xs:element minOccurs="0" name="note" type="xs:string" />
+      <xs:element minOccurs="0" name="application" type="xs:string" />
+      <xs:element minOccurs="0" name="channel" type="xs:string" />
+      <xs:element minOccurs="0" name="username" type="xs:string" />
+      <xs:element minOccurs="0" name="userip" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="registerResponse">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="return" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="getPassOtp">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="msisdn" type="xs:string" />
+      <xs:element minOccurs="0" name="note" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="getPassOtpResponse">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="return" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+</xs:schema>

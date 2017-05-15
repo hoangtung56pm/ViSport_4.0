@@ -1,0 +1,88 @@
+2015-04-17 14:48:29,466 [ERROR] 5 CdrGpc - CDR_GPC Loi lay Tap User : System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.End()
+   at CdrGpc.Execute(Int32 jobID) in e:\Minh_Works\Wap\WIN_SERVICE\ViSport\WS_S2\App_Code\CdrGpc.cs:line 79
+2015-04-17 14:55:58,595 [ERROR] 10 CdrGpc - CDR_GPC Loi lay Tap User : System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.End()
+   at CdrGpc.Execute(Int32 jobID) in e:\Minh_Works\Wap\WIN_SERVICE\ViSport\WS_S2\App_Code\CdrGpc.cs:line 83
+2015-04-17 15:01:43,573 [ERROR] 10 CdrGpc - CDR_GPC Loi lay Tap User : System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.End()
+   at CdrGpc.Execute(Int32 jobID) in e:\Minh_Works\Wap\WIN_SERVICE\ViSport\WS_S2\App_Code\CdrGpc.cs:line 83
+2015-04-17 15:21:03,718 [ERROR] 5 CdrGpc - CDR_GPC Loi lay Tap User : System.IO.FileNotFoundException: Could not find file 'E:\Minh_Works\Wap\WIN_SERVICE\ViSport\WS_S2\Sam_Cdr\SqlExport.csv'.
+File name: 'E:\Minh_Works\Wap\WIN_SERVICE\ViSport\WS_S2\Sam_Cdr\SqlExport.csv'
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   at System.Web.HttpResponse.TransmitFile(String filename, Int64 offset, Int64 length)
+   at System.Web.HttpResponse.TransmitFile(String filename)
+   at CdrGpc.Execute(Int32 jobID) in e:\Minh_Works\Wap\WIN_SERVICE\ViSport\WS_S2\App_Code\CdrGpc.cs:line 87
+2015-04-17 15:23:13,685 [ERROR] 9 CdrGpc - CDR_GPC Loi lay Tap User : System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.End()
+   at CdrGpc.Execute(Int32 jobID) in e:\Minh_Works\Wap\WIN_SERVICE\ViSport\WS_S2\App_Code\CdrGpc.cs:line 93
+2015-04-17 15:41:52,089 [ERROR] 9 CdrGpc - CDR_GPC Loi lay Tap User : System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.End()
+   at CdrGpc.Execute(Int32 jobID) in e:\Minh_Works\Wap\WIN_SERVICE\ViSport\WS_S2\App_Code\CdrGpc.cs:line 97
+2015-04-17 15:45:41,556 [ERROR] 5 CdrGpc - CDR_GPC Loi lay Tap User : System.IO.IOException: The process cannot access the file 'E:\Minh_Works\Wap\WIN_SERVICE\ViSport\WS_S2\Sam_Cdr\SqlExport.csv' because it is being used by another process.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   at System.Web.HttpResponse.WriteFile(String filename, Boolean readIntoMemory)
+   at System.Web.HttpResponse.WriteFile(String filename)
+   at CdrGpc.Execute(Int32 jobID) in e:\Minh_Works\Wap\WIN_SERVICE\ViSport\WS_S2\App_Code\CdrGpc.cs:line 91
+2015-04-17 15:58:10,753 [ERROR] 9 CdrGpc - CDR_GPC Loi lay Tap User : System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.End()
+   at CdrGpc.Execute(Int32 jobID) in e:\Minh_Works\Wap\WIN_SERVICE\ViSport\WS_S2\App_Code\CdrGpc.cs:line 98
+2015-04-17 15:58:56,756 [ERROR] 9 CdrGpc - CDR_GPC Loi lay Tap User : System.IO.FileNotFoundException: Could not find file 'E:\Minh_Works\Wap\WIN_SERVICE\ViSport\WS_S2\Sam_Cdr\SqlExport.csv'.
+File name: 'E:\Minh_Works\Wap\WIN_SERVICE\ViSport\WS_S2\Sam_Cdr\SqlExport.csv'
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   at System.Web.HttpResponse.TransmitFile(String filename, Int64 offset, Int64 length)
+   at System.Web.HttpResponse.TransmitFile(String filename)
+   at CdrGpc.Execute(Int32 jobID) in e:\Minh_Works\Wap\WIN_SERVICE\ViSport\WS_S2\App_Code\CdrGpc.cs:line 90
+2015-04-17 16:02:49,691 [ERROR] 7 CdrGpc - CDR_GPC Loi lay Tap User : System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.End()
+   at CdrGpc.Execute(Int32 jobID) in e:\Minh_Works\Wap\WIN_SERVICE\ViSport\WS_S2\App_Code\CdrGpc.cs:line 98
+2015-04-17 16:03:36,502 [ERROR] 9 CdrGpc - CDR_GPC Loi lay Tap User : System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.End()
+   at CdrGpc.Execute(Int32 jobID) in e:\Minh_Works\Wap\WIN_SERVICE\ViSport\WS_S2\App_Code\CdrGpc.cs:line 98
+2015-04-17 16:04:41,614 [ERROR] 7 CdrGpc - CDR_GPC Loi lay Tap User : System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.End()
+   at CdrGpc.Execute(Int32 jobID) in e:\Minh_Works\Wap\WIN_SERVICE\ViSport\WS_S2\App_Code\CdrGpc.cs:line 115
+2015-04-17 16:34:10,934 [ERROR] 7 CdrGpc - CDR_GPC Loi lay Tap User : System.IO.IOException: The process cannot access the file 'E:\Minh_Works\Wap\WIN_SERVICE\ViSport\WS_S2\Sam_Cdr\vmg_dn_vn_2015416.csv' because it is being used by another process.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options)
+   at System.IO.StreamWriter.CreateFile(String path, Boolean append)
+   at System.IO.StreamWriter..ctor(String path, Boolean append, Encoding encoding, Int32 bufferSize)
+   at System.IO.StreamWriter..ctor(String path, Boolean append, Encoding encoding)
+   at System.IO.File.WriteAllText(String path, String contents, Encoding encoding)
+   at System.IO.File.WriteAllText(String path, String contents)
+   at CdrGenerate.Execute(Int32 jobID) in e:\Minh_Works\Wap\WIN_SERVICE\ViSport\WS_S2\App_Code\CdrGenerate.cs:line 74
+2015-04-17 17:32:25,022 [ERROR] 9 CdrGpc - CDR Loi lay Tap User : System.IO.IOException: The process cannot access the file 'E:\Minh_Works\Wap\WIN_SERVICE\ViSport\WS_S2\Sam_Cdr\vmg_dn_vn_2015416.csv' because it is being used by another process.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options)
+   at System.IO.StreamWriter.CreateFile(String path, Boolean append)
+   at System.IO.StreamWriter..ctor(String path, Boolean append, Encoding encoding, Int32 bufferSize)
+   at System.IO.StreamWriter..ctor(String path, Boolean append, Encoding encoding)
+   at System.IO.File.WriteAllText(String path, String contents, Encoding encoding)
+   at System.IO.File.WriteAllText(String path, String contents)
+   at CdrGenerate.Execute(Int32 jobID) in e:\Minh_Works\Wap\WIN_SERVICE\ViSport\WS_S2\App_Code\CdrGenerate.cs:line 101

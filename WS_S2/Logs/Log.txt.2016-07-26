@@ -1,0 +1,940 @@
+2016-07-26 08:23:06,374 [DEBUG] 10 GetCDR - GPC Service_NameVMG_tiendoanvanmenhVM_sam--Count user :10
+2016-07-26 08:23:26,646 [DEBUG] 10 GetCDR - GPC Service_NameVMG_gametrongngay_SAM--Count user :740
+2016-07-26 08:23:55,021 [DEBUG] 10 GetCDR - GPC Service_NameVMG_taigameget_2m_sam--Count user :1734
+2016-07-26 08:24:20,679 [DEBUG] 10 GetCDR - GPC Service_NameVMG_taiclipfun_2m_sam--Count user :620
+2016-07-26 08:24:21,587 [DEBUG] 10 GetCDR - GPC Service_NameVMG_taigamelap_2m_sam--Count user :16
+2016-07-26 08:24:31,307 [DEBUG] 10 GetCDR - GPC Service_NameVMG_taigamemini1_2m_sam--Count user :454
+2016-07-26 08:24:31,709 [DEBUG] 10 GetCDR - GPC Service_NameVMG_cliphotgs_2m_sam--Count user :8
+2016-07-26 08:25:02,158 [DEBUG] 10 GetCDR - GPC Service_NameVMG_taihinhnenscan_2m_sam--Count user :1436
+2016-07-26 08:25:15,635 [DEBUG] 10 GetCDR - GPC Service_NameVMG_taigamepad_2m_sam--Count user :326
+2016-07-26 08:25:25,281 [DEBUG] 10 GetCDR - GPC Service_NameVMG_taigamephone_2m_sam--Count user :328
+2016-07-26 08:25:26,234 [DEBUG] 10 GetCDR - GPC Service_NameVMG_taigamemini_2m_sam--Count user :18
+2016-07-26 08:25:32,316 [DEBUG] 10 GetCDR - GPC Service_NameVMG_Taigametrungipad_Sam--Count user :4
+2016-07-26 08:25:32,326 [DEBUG] 10 GetCDR - GPC Service_NameVMG_UDhinhnenWIFI_SAM--Count user :0
+2016-07-26 08:25:32,335 [DEBUG] 10 GetCDR - GPC Service_NameVMG_UngdunghinhnenNET_Sam--Count user :0
+2016-07-26 08:25:34,129 [DEBUG] 10 GetCDR - GPC Service_NameVMG_UngdunghinhnenFS_Sam--Count user :0
+2016-07-26 08:25:34,139 [DEBUG] 10 GetCDR - GPC Service_NameVMG_TaigamePAD1_Sam  --Count user :0
+2016-07-26 08:25:34,936 [DEBUG] 10 GetCDR - GPC Service_NameVMG_HinhnenFREE_sam--Count user :0
+2016-07-26 08:25:35,350 [DEBUG] 10 GetCDR - GPC Service_NameVMG_Hoctructuyen_Sam--Count user :0
+2016-07-26 08:25:35,350 [DEBUG] 10 GetCDR - CDR GPC update
+2016-07-26 08:25:47,634 [DEBUG] 10 GetCDR - VMS Service_NameSAM LAPTOP_sam--Count user :280
+2016-07-26 08:25:47,860 [DEBUG] 10 GetCDR - VMS Service_NameSAM BOI_sam--Count user :6
+2016-07-26 08:25:48,188 [DEBUG] 10 GetCDR - VMS Service_NameCLIP SAM_sam--Count user :10
+2016-07-26 08:25:53,212 [DEBUG] 10 GetCDR - VMS Service_NameSAM iPAD MINI_sam--Count user :645
+2016-07-26 08:25:53,219 [DEBUG] 10 GetCDR - VMS Service_NameSAM OPS--Count user :0
+2016-07-26 08:26:08,618 [DEBUG] 10 GetCDR - VMS Service_NameSAM SCAN_sam--Count user :2964
+2016-07-26 08:26:08,687 [DEBUG] 10 GetCDR - VMS Service_NameSAM GAME_sam--Count user :2
+2016-07-26 08:26:16,306 [DEBUG] 10 GetCDR - VMS Service_NameSAM PAD_sam--Count user :803
+2016-07-26 08:26:18,230 [DEBUG] 10 GetCDR - VMS Service_NameSAM PHONE_sam--Count user :427
+2016-07-26 08:26:18,491 [DEBUG] 10 GetCDR - VMS Service_NameSAM MINI_sam--Count user :10
+2016-07-26 08:26:18,499 [DEBUG] 10 GetCDR - VMS Service_NameSAM PAD1_sam--Count user :0
+2016-07-26 08:26:28,335 [DEBUG] 10 GetCDR - VMS Service_NameSAM GET_sam--Count user :2638
+2016-07-26 08:26:32,933 [DEBUG] 10 GetCDR - VMS Service_NameSAM FUN_sam--Count user :1134
+2016-07-26 08:26:32,941 [DEBUG] 10 GetCDR - VMS Service_NameSAM FREE_sam--Count user :0
+2016-07-26 08:26:42,670 [DEBUG] 10 GetCDR - VMS Service_NameVMG Tai game_SAM--Count user :1966
+2016-07-26 08:26:42,686 [DEBUG] 10 GetCDR - VMS Service_NameSAM Ung dung va hinh nen WIFI--Count user :0
+2016-07-26 08:26:42,694 [DEBUG] 10 GetCDR - VMS Service_NameSAM Ung dung va hinh nen NET--Count user :0
+2016-07-26 08:26:42,702 [DEBUG] 10 GetCDR - VMS Service_NameSAM Ung dung va hinh nen FS--Count user :0
+2016-07-26 08:26:42,712 [DEBUG] 10 GetCDR - VMS Service_NameSam Hoc truc tuyen--Count user :0
+2016-07-26 08:26:42,712 [DEBUG] 10 GetCDR - CDR VMS update
+2016-07-26 08:33:10,712 [DEBUG] 9 GetCDR - GPC Service_NameVMG_tiendoanvanmenhVM_sam--Count user :5
+2016-07-26 08:33:43,413 [DEBUG] 9 GetCDR - GPC Service_NameVMG_gametrongngay_SAM--Count user :374
+2016-07-26 08:34:11,232 [DEBUG] 9 GetCDR - GPC Service_NameVMG_taigameget_2m_sam--Count user :887
+2016-07-26 08:34:26,943 [DEBUG] 9 GetCDR - GPC Service_NameVMG_taiclipfun_2m_sam--Count user :328
+2016-07-26 08:34:27,758 [DEBUG] 9 GetCDR - GPC Service_NameVMG_taigamelap_2m_sam--Count user :5
+2016-07-26 08:34:35,865 [DEBUG] 9 GetCDR - GPC Service_NameVMG_taigamemini1_2m_sam--Count user :212
+2016-07-26 08:34:36,555 [DEBUG] 9 GetCDR - GPC Service_NameVMG_cliphotgs_2m_sam--Count user :4
+2016-07-26 08:35:01,428 [DEBUG] 9 GetCDR - GPC Service_NameVMG_taihinhnenscan_2m_sam--Count user :723
+2016-07-26 08:35:17,259 [DEBUG] 9 GetCDR - GPC Service_NameVMG_taigamepad_2m_sam--Count user :153
+2016-07-26 08:35:26,835 [DEBUG] 9 GetCDR - GPC Service_NameVMG_taigamephone_2m_sam--Count user :160
+2016-07-26 08:35:27,670 [DEBUG] 9 GetCDR - GPC Service_NameVMG_taigamemini_2m_sam--Count user :9
+2016-07-26 08:35:28,031 [DEBUG] 9 GetCDR - GPC Service_NameVMG_Taigametrungipad_Sam--Count user :2
+2016-07-26 08:35:28,040 [DEBUG] 9 GetCDR - GPC Service_NameVMG_UDhinhnenWIFI_SAM--Count user :0
+2016-07-26 08:35:28,051 [DEBUG] 9 GetCDR - GPC Service_NameVMG_UngdunghinhnenNET_Sam--Count user :0
+2016-07-26 08:35:28,075 [DEBUG] 9 GetCDR - GPC Service_NameVMG_UngdunghinhnenFS_Sam--Count user :0
+2016-07-26 08:35:28,084 [DEBUG] 9 GetCDR - GPC Service_NameVMG_TaigamePAD1_Sam  --Count user :0
+2016-07-26 08:35:28,116 [DEBUG] 9 GetCDR - GPC Service_NameVMG_HinhnenFREE_sam--Count user :0
+2016-07-26 08:35:28,146 [DEBUG] 9 GetCDR - GPC Service_NameVMG_Hoctructuyen_Sam--Count user :0
+2016-07-26 08:35:28,146 [DEBUG] 9 GetCDR - CDR GPC update
+2016-07-26 08:35:31,833 [DEBUG] 9 GetCDR - VMS Service_NameSAM LAPTOP_sam--Count user :280
+2016-07-26 08:35:32,099 [DEBUG] 9 GetCDR - VMS Service_NameSAM BOI_sam--Count user :4
+2016-07-26 08:35:32,488 [DEBUG] 9 GetCDR - VMS Service_NameCLIP SAM_sam--Count user :10
+2016-07-26 08:35:38,447 [DEBUG] 9 GetCDR - VMS Service_NameSAM iPAD MINI_sam--Count user :650
+2016-07-26 08:35:38,454 [DEBUG] 9 GetCDR - VMS Service_NameSAM OPS--Count user :0
+2016-07-26 08:36:07,750 [DEBUG] 9 GetCDR - VMS Service_NameSAM SCAN_sam--Count user :3125
+2016-07-26 08:36:07,851 [DEBUG] 9 GetCDR - VMS Service_NameSAM GAME_sam--Count user :3
+2016-07-26 08:36:18,983 [DEBUG] 9 GetCDR - VMS Service_NameSAM PAD_sam--Count user :807
+2016-07-26 08:36:26,275 [DEBUG] 9 GetCDR - VMS Service_NameSAM PHONE_sam--Count user :423
+2016-07-26 08:36:26,629 [DEBUG] 9 GetCDR - VMS Service_NameSAM MINI_sam--Count user :10
+2016-07-26 08:36:26,637 [DEBUG] 9 GetCDR - VMS Service_NameSAM PAD1_sam--Count user :0
+2016-07-26 08:36:59,384 [DEBUG] 9 GetCDR - VMS Service_NameSAM GET_sam--Count user :2771
+2016-07-26 08:37:06,393 [DEBUG] 9 GetCDR - VMS Service_NameSAM FUN_sam--Count user :1278
+2016-07-26 08:37:06,420 [DEBUG] 9 GetCDR - VMS Service_NameSAM FREE_sam--Count user :0
+2016-07-26 08:37:18,499 [DEBUG] 9 GetCDR - VMS Service_NameVMG Tai game_SAM--Count user :2045
+2016-07-26 08:37:18,519 [DEBUG] 9 GetCDR - VMS Service_NameSAM Ung dung va hinh nen WIFI--Count user :0
+2016-07-26 08:37:18,527 [DEBUG] 9 GetCDR - VMS Service_NameSAM Ung dung va hinh nen NET--Count user :0
+2016-07-26 08:37:18,534 [DEBUG] 9 GetCDR - VMS Service_NameSAM Ung dung va hinh nen FS--Count user :0
+2016-07-26 08:37:18,545 [DEBUG] 9 GetCDR - VMS Service_NameSam Hoc truc tuyen--Count user :0
+2016-07-26 08:37:18,545 [DEBUG] 9 GetCDR - CDR VMS update
+2016-07-26 08:47:50,522 [DEBUG] 23 GetCDR - GPC Service_NameVMG_tiendoanvanmenhVM_sam--Count user :5
+2016-07-26 08:48:08,731 [DEBUG] 23 GetCDR - GPC Service_NameVMG_gametrongngay_SAM--Count user :392
+2016-07-26 08:48:33,183 [DEBUG] 23 GetCDR - GPC Service_NameVMG_taigameget_2m_sam--Count user :874
+2016-07-26 08:48:50,175 [DEBUG] 23 GetCDR - GPC Service_NameVMG_taiclipfun_2m_sam--Count user :351
+2016-07-26 08:48:51,149 [DEBUG] 23 GetCDR - GPC Service_NameVMG_taigamelap_2m_sam--Count user :6
+2016-07-26 08:49:00,335 [DEBUG] 23 GetCDR - GPC Service_NameVMG_taigamemini1_2m_sam--Count user :219
+2016-07-26 08:49:00,795 [DEBUG] 23 GetCDR - GPC Service_NameVMG_cliphotgs_2m_sam--Count user :4
+2016-07-26 08:49:22,738 [DEBUG] 23 GetCDR - GPC Service_NameVMG_taihinhnenscan_2m_sam--Count user :735
+2016-07-26 08:49:53,004 [ERROR] 23 GetCDR - CDR Loi UPDATE GPC : System.Data.SqlClient.SqlException (0x80131904): Timeout expired.  The timeout period elapsed prior to completion of the operation or the server is not responding. ---> System.ComponentModel.Win32Exception (0x80004005): The wait operation timed out
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, SqlDataReader ds)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean asyncWrite)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet)
+   at Microsoft.ApplicationBlocks.Data.SqlHelper.ExecuteDataset(SqlConnection connection, CommandType commandType, String commandText, SqlParameter[] commandParameters)
+   at Microsoft.ApplicationBlocks.Data.SqlHelper.ExecuteDataset(String connectionString, CommandType commandType, String commandText, SqlParameter[] commandParameters)
+   at Microsoft.ApplicationBlocks.Data.SqlHelper.ExecuteDataset(String connectionString, String spName, Object[] parameterValues)
+   at ViSport_S2_Registered_UsersController.GPCGetCdrByServiceId_ByDate(String serviceId, DateTime day) in e:\Project\ViSport_4.0\WS_S2\App_Code\ViSport_S2_Registered\ViSport_S2_Registered_UsersController.cs:line 1683
+   at GetCDR.btnUpdate_Click(Object sender, EventArgs e) in e:\Project\ViSport_4.0\WS_S2\GetCDR.aspx.cs:line 58
+ClientConnectionId:032581ca-639d-4f94-b1f6-7be4052faf8d
+2016-07-26 08:50:01,423 [DEBUG] 23 GetCDR - VMS Service_NameSAM LAPTOP_sam--Count user :278
+2016-07-26 08:50:01,573 [DEBUG] 23 GetCDR - VMS Service_NameSAM BOI_sam--Count user :6
+2016-07-26 08:50:01,823 [DEBUG] 23 GetCDR - VMS Service_NameCLIP SAM_sam--Count user :11
+2016-07-26 08:50:09,577 [DEBUG] 23 GetCDR - VMS Service_NameSAM iPAD MINI_sam--Count user :652
+2016-07-26 08:50:09,585 [DEBUG] 23 GetCDR - VMS Service_NameSAM OPS--Count user :0
+2016-07-26 08:50:30,124 [DEBUG] 23 GetCDR - VMS Service_NameSAM SCAN_sam--Count user :3193
+2016-07-26 08:50:30,179 [DEBUG] 23 GetCDR - VMS Service_NameSAM GAME_sam--Count user :2
+2016-07-26 08:50:35,111 [DEBUG] 23 GetCDR - VMS Service_NameSAM PAD_sam--Count user :818
+2016-07-26 08:50:39,045 [DEBUG] 23 GetCDR - VMS Service_NameSAM PHONE_sam--Count user :875
+2016-07-26 08:50:39,177 [DEBUG] 23 GetCDR - VMS Service_NameSAM MINI_sam--Count user :10
+2016-07-26 08:50:39,183 [DEBUG] 23 GetCDR - VMS Service_NameSAM PAD1_sam--Count user :0
+2016-07-26 08:50:51,432 [DEBUG] 23 GetCDR - VMS Service_NameSAM GET_sam--Count user :2904
+2016-07-26 08:51:07,165 [DEBUG] 23 GetCDR - VMS Service_NameSAM FUN_sam--Count user :1328
+2016-07-26 08:51:07,175 [DEBUG] 23 GetCDR - VMS Service_NameSAM FREE_sam--Count user :0
+2016-07-26 08:51:18,590 [DEBUG] 23 GetCDR - VMS Service_NameVMG Tai game_SAM--Count user :2052
+2016-07-26 08:51:18,620 [DEBUG] 23 GetCDR - VMS Service_NameSAM Ung dung va hinh nen WIFI--Count user :0
+2016-07-26 08:51:18,628 [DEBUG] 23 GetCDR - VMS Service_NameSAM Ung dung va hinh nen NET--Count user :0
+2016-07-26 08:51:18,635 [DEBUG] 23 GetCDR - VMS Service_NameSAM Ung dung va hinh nen FS--Count user :0
+2016-07-26 08:51:18,647 [DEBUG] 23 GetCDR - VMS Service_NameSam Hoc truc tuyen--Count user :0
+2016-07-26 08:51:18,647 [DEBUG] 23 GetCDR - CDR VMS update
+2016-07-26 08:58:35,161 [DEBUG] 23 GetCDR - GPC Service_NameVMG_tiendoanvanmenhVM_sam--Count user :5
+2016-07-26 08:58:50,199 [DEBUG] 23 GetCDR - GPC Service_NameVMG_gametrongngay_SAM--Count user :383
+2016-07-26 08:59:13,636 [DEBUG] 23 GetCDR - GPC Service_NameVMG_taigameget_2m_sam--Count user :939
+2016-07-26 08:59:30,150 [DEBUG] 23 GetCDR - GPC Service_NameVMG_taiclipfun_2m_sam--Count user :362
+2016-07-26 08:59:30,972 [DEBUG] 23 GetCDR - GPC Service_NameVMG_taigamelap_2m_sam--Count user :5
+2016-07-26 08:59:43,647 [DEBUG] 23 GetCDR - GPC Service_NameVMG_taigamemini1_2m_sam--Count user :215
+2016-07-26 08:59:44,506 [DEBUG] 23 GetCDR - GPC Service_NameVMG_cliphotgs_2m_sam--Count user :4
+2016-07-26 09:00:13,246 [DEBUG] 23 GetCDR - GPC Service_NameVMG_taihinhnenscan_2m_sam--Count user :746
+2016-07-26 09:00:34,680 [DEBUG] 23 GetCDR - GPC Service_NameVMG_taigamepad_2m_sam--Count user :178
+2016-07-26 09:00:42,019 [DEBUG] 23 GetCDR - GPC Service_NameVMG_taigamephone_2m_sam--Count user :176
+2016-07-26 09:00:42,790 [DEBUG] 23 GetCDR - GPC Service_NameVMG_taigamemini_2m_sam--Count user :8
+2016-07-26 09:00:43,101 [DEBUG] 23 GetCDR - GPC Service_NameVMG_Taigametrungipad_Sam--Count user :3
+2016-07-26 09:00:43,119 [DEBUG] 23 GetCDR - GPC Service_NameVMG_UDhinhnenWIFI_SAM--Count user :0
+2016-07-26 09:00:43,130 [DEBUG] 23 GetCDR - GPC Service_NameVMG_UngdunghinhnenNET_Sam--Count user :0
+2016-07-26 09:00:43,157 [DEBUG] 23 GetCDR - GPC Service_NameVMG_UngdunghinhnenFS_Sam--Count user :0
+2016-07-26 09:00:43,167 [DEBUG] 23 GetCDR - GPC Service_NameVMG_TaigamePAD1_Sam  --Count user :0
+2016-07-26 09:00:43,199 [DEBUG] 23 GetCDR - GPC Service_NameVMG_HinhnenFREE_sam--Count user :0
+2016-07-26 09:00:43,237 [DEBUG] 23 GetCDR - GPC Service_NameVMG_Hoctructuyen_Sam--Count user :0
+2016-07-26 09:00:43,237 [DEBUG] 23 GetCDR - CDR GPC update
+2016-07-26 09:00:46,009 [DEBUG] 23 GetCDR - VMS Service_NameSAM LAPTOP_sam--Count user :275
+2016-07-26 09:00:46,045 [DEBUG] 23 GetCDR - VMS Service_NameSAM BOI_sam--Count user :6
+2016-07-26 09:00:46,119 [DEBUG] 23 GetCDR - VMS Service_NameCLIP SAM_sam--Count user :11
+2016-07-26 09:00:48,810 [DEBUG] 23 GetCDR - VMS Service_NameSAM iPAD MINI_sam--Count user :633
+2016-07-26 09:00:48,817 [DEBUG] 23 GetCDR - VMS Service_NameSAM OPS--Count user :0
+2016-07-26 09:01:09,035 [DEBUG] 23 GetCDR - VMS Service_NameSAM SCAN_sam--Count user :3260
+2016-07-26 09:01:09,079 [DEBUG] 23 GetCDR - VMS Service_NameSAM GAME_sam--Count user :2
+2016-07-26 09:01:16,523 [DEBUG] 23 GetCDR - VMS Service_NameSAM PAD_sam--Count user :846
+2016-07-26 09:01:21,447 [DEBUG] 23 GetCDR - VMS Service_NameSAM PHONE_sam--Count user :880
+2016-07-26 09:01:21,688 [DEBUG] 23 GetCDR - VMS Service_NameSAM MINI_sam--Count user :10
+2016-07-26 09:01:21,696 [DEBUG] 23 GetCDR - VMS Service_NameSAM PAD1_sam--Count user :0
+2016-07-26 09:01:38,620 [DEBUG] 23 GetCDR - VMS Service_NameSAM GET_sam--Count user :3205
+2016-07-26 09:01:44,056 [DEBUG] 23 GetCDR - VMS Service_NameSAM FUN_sam--Count user :1301
+2016-07-26 09:01:44,066 [DEBUG] 23 GetCDR - VMS Service_NameSAM FREE_sam--Count user :0
+2016-07-26 09:01:52,342 [DEBUG] 23 GetCDR - VMS Service_NameVMG Tai game_SAM--Count user :2006
+2016-07-26 09:01:52,359 [DEBUG] 23 GetCDR - VMS Service_NameSAM Ung dung va hinh nen WIFI--Count user :0
+2016-07-26 09:01:52,368 [DEBUG] 23 GetCDR - VMS Service_NameSAM Ung dung va hinh nen NET--Count user :0
+2016-07-26 09:01:52,375 [DEBUG] 23 GetCDR - VMS Service_NameSAM Ung dung va hinh nen FS--Count user :0
+2016-07-26 09:01:52,390 [DEBUG] 23 GetCDR - VMS Service_NameSam Hoc truc tuyen--Count user :0
+2016-07-26 09:01:52,390 [DEBUG] 23 GetCDR - CDR VMS update
+2016-07-26 09:13:07,490 [ERROR] 23 GetCDR - CDR Error : System.Data.SqlClient.SqlException (0x80131904): Timeout expired.  The timeout period elapsed prior to completion of the operation or the server is not responding. ---> System.ComponentModel.Win32Exception (0x80004005): The wait operation timed out
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParserStateObject.ReadSniError(TdsParserStateObject stateObj, UInt32 error)
+   at System.Data.SqlClient.TdsParserStateObject.ReadSniSyncOverAsync()
+   at System.Data.SqlClient.TdsParserStateObject.TryReadNetworkPacket()
+   at System.Data.SqlClient.TdsParserStateObject.TryPrepareBuffer()
+   at System.Data.SqlClient.TdsParserStateObject.TryReadByte(Byte& value)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, SqlDataReader ds)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean asyncWrite)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet)
+   at Microsoft.ApplicationBlocks.Data.SqlHelper.ExecuteDataset(SqlConnection connection, CommandType commandType, String commandText, SqlParameter[] commandParameters)
+   at Microsoft.ApplicationBlocks.Data.SqlHelper.ExecuteDataset(String connectionString, CommandType commandType, String commandText, SqlParameter[] commandParameters)
+   at Microsoft.ApplicationBlocks.Data.SqlHelper.ExecuteDataset(String connectionString, String spName, Object[] parameterValues)
+   at ViSport_S2_Registered_UsersController.CdrVnm_ByDate(Int32 partnerId, DateTime day) in e:\Project\ViSport_4.0\WS_S2\App_Code\ViSport_S2_Registered\ViSport_S2_Registered_UsersController.cs:line 1536
+   at GetCDR.btnUpdate_Click(Object sender, EventArgs e) in e:\Project\ViSport_4.0\WS_S2\GetCDR.aspx.cs:line 247
+ClientConnectionId:032581ca-639d-4f94-b1f6-7be4052faf8d
+2016-07-26 09:24:21,377 [DEBUG] 21 GetCDR - GPC Service_NameVMG_tiendoanvanmenhVM_sam--Count user :4
+2016-07-26 09:24:48,278 [DEBUG] 21 GetCDR - GPC Service_NameVMG_gametrongngay_SAM--Count user :357
+2016-07-26 09:25:31,779 [DEBUG] 21 GetCDR - GPC Service_NameVMG_taigameget_2m_sam--Count user :928
+2016-07-26 09:26:16,575 [DEBUG] 21 GetCDR - GPC Service_NameVMG_taiclipfun_2m_sam--Count user :353
+2016-07-26 09:26:29,321 [DEBUG] 21 GetCDR - GPC Service_NameVMG_taigamelap_2m_sam--Count user :6
+2016-07-26 09:26:59,402 [ERROR] 21 GetCDR - CDR Loi UPDATE GPC : System.Data.SqlClient.SqlException (0x80131904): Timeout expired.  The timeout period elapsed prior to completion of the operation or the server is not responding. ---> System.ComponentModel.Win32Exception (0x80004005): The wait operation timed out
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, SqlDataReader ds)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean asyncWrite)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet)
+   at Microsoft.ApplicationBlocks.Data.SqlHelper.ExecuteDataset(SqlConnection connection, CommandType commandType, String commandText, SqlParameter[] commandParameters)
+   at Microsoft.ApplicationBlocks.Data.SqlHelper.ExecuteDataset(String connectionString, CommandType commandType, String commandText, SqlParameter[] commandParameters)
+   at Microsoft.ApplicationBlocks.Data.SqlHelper.ExecuteDataset(String connectionString, String spName, Object[] parameterValues)
+   at ViSport_S2_Registered_UsersController.GPCGetCdrByServiceId_ByDate(String serviceId, DateTime day) in e:\Project\ViSport_4.0\WS_S2\App_Code\ViSport_S2_Registered\ViSport_S2_Registered_UsersController.cs:line 1683
+   at GetCDR.btnUpdate_Click(Object sender, EventArgs e) in e:\Project\ViSport_4.0\WS_S2\GetCDR.aspx.cs:line 58
+ClientConnectionId:f55c32da-d891-4315-b5cd-b40a5c0998e1
+2016-07-26 09:27:34,508 [ERROR] 21 GetCDR - CDR Loi UPDATE VMS : System.Data.SqlClient.SqlException (0x80131904): Timeout expired.  The timeout period elapsed prior to completion of the operation or the server is not responding. ---> System.ComponentModel.Win32Exception (0x80004005): The wait operation timed out
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParserStateObject.ReadSniError(TdsParserStateObject stateObj, UInt32 error)
+   at System.Data.SqlClient.TdsParserStateObject.ReadSniSyncOverAsync()
+   at System.Data.SqlClient.TdsParserStateObject.TryReadNetworkPacket()
+   at System.Data.SqlClient.TdsParserStateObject.TryPrepareBuffer()
+   at System.Data.SqlClient.TdsParserStateObject.TryReadByte(Byte& value)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, SqlDataReader ds)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean asyncWrite)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean asyncWrite)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at Microsoft.ApplicationBlocks.Data.SqlHelper.ExecuteNonQuery(SqlConnection connection, CommandType commandType, String commandText, SqlParameter[] commandParameters)
+   at Microsoft.ApplicationBlocks.Data.SqlHelper.ExecuteNonQuery(String connectionString, CommandType commandType, String commandText, SqlParameter[] commandParameters)
+   at Microsoft.ApplicationBlocks.Data.SqlHelper.ExecuteNonQuery(String connectionString, CommandType commandType, String commandText)
+   at Microsoft.ApplicationBlocks.Data.SqlHelper.ExecuteNonQuery(String connectionString, String spName, Object[] parameterValues)
+   at ViSport_S2_Registered_UsersController.VmsCdrReset() in e:\Project\ViSport_4.0\WS_S2\App_Code\ViSport_S2_Registered\ViSport_S2_Registered_UsersController.cs:line 1714
+   at GetCDR.btnUpdate_Click(Object sender, EventArgs e) in e:\Project\ViSport_4.0\WS_S2\GetCDR.aspx.cs:line 95
+ClientConnectionId:f55c32da-d891-4315-b5cd-b40a5c0998e1
+2016-07-26 09:28:21,551 [DEBUG] 25 GetCDR - GPC Service_NameVMG_tiendoanvanmenhVM_sam--Count user :4
+2016-07-26 09:28:51,622 [ERROR] 25 GetCDR - CDR Loi UPDATE GPC : System.Data.SqlClient.SqlException (0x80131904): Timeout expired.  The timeout period elapsed prior to completion of the operation or the server is not responding. ---> System.ComponentModel.Win32Exception (0x80004005): The wait operation timed out
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, SqlDataReader ds)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean asyncWrite)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet)
+   at Microsoft.ApplicationBlocks.Data.SqlHelper.ExecuteDataset(SqlConnection connection, CommandType commandType, String commandText, SqlParameter[] commandParameters)
+   at Microsoft.ApplicationBlocks.Data.SqlHelper.ExecuteDataset(String connectionString, CommandType commandType, String commandText, SqlParameter[] commandParameters)
+   at Microsoft.ApplicationBlocks.Data.SqlHelper.ExecuteDataset(String connectionString, String spName, Object[] parameterValues)
+   at ViSport_S2_Registered_UsersController.GPCGetCdrByServiceId_ByDate(String serviceId, DateTime day) in e:\Project\ViSport_4.0\WS_S2\App_Code\ViSport_S2_Registered\ViSport_S2_Registered_UsersController.cs:line 1683
+   at GetCDR.btnUpdate_Click(Object sender, EventArgs e) in e:\Project\ViSport_4.0\WS_S2\GetCDR.aspx.cs:line 58
+ClientConnectionId:e28bc621-9ca2-4118-9d9d-f6d75938c7f3
+2016-07-26 09:29:22,361 [DEBUG] 25 GetCDR - VMS Service_NameSAM LAPTOP_sam--Count user :279
+2016-07-26 09:29:23,931 [DEBUG] 25 GetCDR - VMS Service_NameSAM BOI_sam--Count user :6
+2016-07-26 09:29:24,589 [DEBUG] 25 GetCDR - VMS Service_NameCLIP SAM_sam--Count user :11
+2016-07-26 09:29:31,388 [DEBUG] 25 GetCDR - VMS Service_NameSAM iPAD MINI_sam--Count user :628
+2016-07-26 09:29:31,407 [DEBUG] 25 GetCDR - VMS Service_NameSAM OPS--Count user :0
+2016-07-26 09:29:56,242 [DEBUG] 25 GetCDR - VMS Service_NameSAM SCAN_sam--Count user :3393
+2016-07-26 09:29:56,320 [DEBUG] 25 GetCDR - VMS Service_NameSAM GAME_sam--Count user :3
+2016-07-26 09:30:05,819 [DEBUG] 25 GetCDR - VMS Service_NameSAM PAD_sam--Count user :890
+2016-07-26 09:30:16,277 [DEBUG] 25 GetCDR - VMS Service_NameSAM PHONE_sam--Count user :892
+2016-07-26 09:30:17,062 [DEBUG] 25 GetCDR - VMS Service_NameSAM MINI_sam--Count user :10
+2016-07-26 09:30:17,071 [DEBUG] 25 GetCDR - VMS Service_NameSAM PAD1_sam--Count user :0
+2016-07-26 09:30:52,496 [DEBUG] 25 GetCDR - VMS Service_NameSAM GET_sam--Count user :3095
+2016-07-26 09:31:40,999 [DEBUG] 25 GetCDR - VMS Service_NameSAM FUN_sam--Count user :1328
+2016-07-26 09:31:41,006 [DEBUG] 25 GetCDR - VMS Service_NameSAM FREE_sam--Count user :0
+2016-07-26 09:33:36,755 [DEBUG] 25 GetCDR - VMS Service_NameVMG Tai game_SAM--Count user :1986
+2016-07-26 09:33:36,807 [DEBUG] 25 GetCDR - VMS Service_NameSAM Ung dung va hinh nen WIFI--Count user :0
+2016-07-26 09:33:36,814 [DEBUG] 25 GetCDR - VMS Service_NameSAM Ung dung va hinh nen NET--Count user :0
+2016-07-26 09:33:36,824 [DEBUG] 25 GetCDR - VMS Service_NameSAM Ung dung va hinh nen FS--Count user :0
+2016-07-26 09:33:36,833 [DEBUG] 25 GetCDR - VMS Service_NameSam Hoc truc tuyen--Count user :0
+2016-07-26 09:33:36,833 [DEBUG] 25 GetCDR - CDR VMS update
+2016-07-26 09:40:38,686 [DEBUG] 20 GetCDR - GPC Service_NameVMG_tiendoanvanmenhVM_sam--Count user :3
+2016-07-26 09:41:08,944 [ERROR] 20 GetCDR - CDR Loi UPDATE GPC : System.Data.SqlClient.SqlException (0x80131904): Timeout expired.  The timeout period elapsed prior to completion of the operation or the server is not responding. ---> System.ComponentModel.Win32Exception (0x80004005): The wait operation timed out
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, SqlDataReader ds)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean asyncWrite)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet)
+   at Microsoft.ApplicationBlocks.Data.SqlHelper.ExecuteDataset(SqlConnection connection, CommandType commandType, String commandText, SqlParameter[] commandParameters)
+   at Microsoft.ApplicationBlocks.Data.SqlHelper.ExecuteDataset(String connectionString, CommandType commandType, String commandText, SqlParameter[] commandParameters)
+   at Microsoft.ApplicationBlocks.Data.SqlHelper.ExecuteDataset(String connectionString, String spName, Object[] parameterValues)
+   at ViSport_S2_Registered_UsersController.GPCGetCdrByServiceId_ByDate(String serviceId, DateTime day) in e:\Project\ViSport_4.0\WS_S2\App_Code\ViSport_S2_Registered\ViSport_S2_Registered_UsersController.cs:line 1683
+   at GetCDR.btnUpdate_Click(Object sender, EventArgs e) in e:\Project\ViSport_4.0\WS_S2\GetCDR.aspx.cs:line 58
+ClientConnectionId:8dba3b45-f391-47e4-b9ac-6c9de1e38a26
+2016-07-26 09:41:44,012 [ERROR] 20 GetCDR - CDR Loi UPDATE VMS : System.Data.SqlClient.SqlException (0x80131904): Timeout expired.  The timeout period elapsed prior to completion of the operation or the server is not responding. ---> System.ComponentModel.Win32Exception (0x80004005): The wait operation timed out
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParserStateObject.ReadSniError(TdsParserStateObject stateObj, UInt32 error)
+   at System.Data.SqlClient.TdsParserStateObject.ReadSniSyncOverAsync()
+   at System.Data.SqlClient.TdsParserStateObject.TryReadNetworkPacket()
+   at System.Data.SqlClient.TdsParserStateObject.TryPrepareBuffer()
+   at System.Data.SqlClient.TdsParserStateObject.TryReadByte(Byte& value)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, SqlDataReader ds)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean asyncWrite)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean asyncWrite)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at Microsoft.ApplicationBlocks.Data.SqlHelper.ExecuteNonQuery(SqlConnection connection, CommandType commandType, String commandText, SqlParameter[] commandParameters)
+   at Microsoft.ApplicationBlocks.Data.SqlHelper.ExecuteNonQuery(String connectionString, CommandType commandType, String commandText, SqlParameter[] commandParameters)
+   at Microsoft.ApplicationBlocks.Data.SqlHelper.ExecuteNonQuery(String connectionString, CommandType commandType, String commandText)
+   at Microsoft.ApplicationBlocks.Data.SqlHelper.ExecuteNonQuery(String connectionString, String spName, Object[] parameterValues)
+   at ViSport_S2_Registered_UsersController.VmsCdrReset() in e:\Project\ViSport_4.0\WS_S2\App_Code\ViSport_S2_Registered\ViSport_S2_Registered_UsersController.cs:line 1714
+   at GetCDR.btnUpdate_Click(Object sender, EventArgs e) in e:\Project\ViSport_4.0\WS_S2\GetCDR.aspx.cs:line 95
+ClientConnectionId:8dba3b45-f391-47e4-b9ac-6c9de1e38a26
+2016-07-26 09:50:46,016 [DEBUG] 28 GetCDR - GPC Service_NameVMG_tiendoanvanmenhVM_sam--Count user :5
+2016-07-26 09:51:16,097 [ERROR] 28 GetCDR - CDR Loi UPDATE GPC : System.Data.SqlClient.SqlException (0x80131904): Timeout expired.  The timeout period elapsed prior to completion of the operation or the server is not responding. ---> System.ComponentModel.Win32Exception (0x80004005): The wait operation timed out
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, SqlDataReader ds)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean asyncWrite)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet)
+   at Microsoft.ApplicationBlocks.Data.SqlHelper.ExecuteDataset(SqlConnection connection, CommandType commandType, String commandText, SqlParameter[] commandParameters)
+   at Microsoft.ApplicationBlocks.Data.SqlHelper.ExecuteDataset(String connectionString, CommandType commandType, String commandText, SqlParameter[] commandParameters)
+   at Microsoft.ApplicationBlocks.Data.SqlHelper.ExecuteDataset(String connectionString, String spName, Object[] parameterValues)
+   at ViSport_S2_Registered_UsersController.GPCGetCdrByServiceId_ByDate(String serviceId, DateTime day) in e:\Project\ViSport_4.0\WS_S2\App_Code\ViSport_S2_Registered\ViSport_S2_Registered_UsersController.cs:line 1683
+   at GetCDR.btnUpdate_Click(Object sender, EventArgs e) in e:\Project\ViSport_4.0\WS_S2\GetCDR.aspx.cs:line 58
+ClientConnectionId:79a1d97c-534d-42ee-a9dd-2232070ffe1d
+2016-07-26 09:51:51,180 [ERROR] 28 GetCDR - CDR Loi UPDATE VMS : System.Data.SqlClient.SqlException (0x80131904): Timeout expired.  The timeout period elapsed prior to completion of the operation or the server is not responding. ---> System.ComponentModel.Win32Exception (0x80004005): The wait operation timed out
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParserStateObject.ReadSniError(TdsParserStateObject stateObj, UInt32 error)
+   at System.Data.SqlClient.TdsParserStateObject.ReadSniSyncOverAsync()
+   at System.Data.SqlClient.TdsParserStateObject.TryReadNetworkPacket()
+   at System.Data.SqlClient.TdsParserStateObject.TryPrepareBuffer()
+   at System.Data.SqlClient.TdsParserStateObject.TryReadByte(Byte& value)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, SqlDataReader ds)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean asyncWrite)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean asyncWrite)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at Microsoft.ApplicationBlocks.Data.SqlHelper.ExecuteNonQuery(SqlConnection connection, CommandType commandType, String commandText, SqlParameter[] commandParameters)
+   at Microsoft.ApplicationBlocks.Data.SqlHelper.ExecuteNonQuery(String connectionString, CommandType commandType, String commandText, SqlParameter[] commandParameters)
+   at Microsoft.ApplicationBlocks.Data.SqlHelper.ExecuteNonQuery(String connectionString, CommandType commandType, String commandText)
+   at Microsoft.ApplicationBlocks.Data.SqlHelper.ExecuteNonQuery(String connectionString, String spName, Object[] parameterValues)
+   at ViSport_S2_Registered_UsersController.VmsCdrReset() in e:\Project\ViSport_4.0\WS_S2\App_Code\ViSport_S2_Registered\ViSport_S2_Registered_UsersController.cs:line 1714
+   at GetCDR.btnUpdate_Click(Object sender, EventArgs e) in e:\Project\ViSport_4.0\WS_S2\GetCDR.aspx.cs:line 95
+ClientConnectionId:79a1d97c-534d-42ee-a9dd-2232070ffe1d
+2016-07-26 09:52:38,171 [ERROR] 28 GetCDR - CDR Error : System.Data.SqlClient.SqlException (0x80131904): A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server) ---> System.ComponentModel.Win32Exception (0x80004005): The network path was not found
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.Connect(ServerInfo serverInfo, SqlInternalConnectionTds connHandler, Boolean ignoreSniOpenTimeout, Int64 timerExpire, Boolean encrypt, Boolean trustServerCert, Boolean integratedSecurity, Boolean withFailover)
+   at System.Data.SqlClient.SqlInternalConnectionTds.AttemptOneLogin(ServerInfo serverInfo, String newPassword, SecureString newSecurePassword, Boolean ignoreSniOpenTimeout, TimeoutTimer timeout, Boolean withFailover)
+   at System.Data.SqlClient.SqlInternalConnectionTds.LoginNoFailover(ServerInfo serverInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString connectionOptions, SqlCredential credential, TimeoutTimer timeout)
+   at System.Data.SqlClient.SqlInternalConnectionTds.OpenLoginEnlist(TimeoutTimer timeout, SqlConnectionString connectionOptions, SqlCredential credential, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance)
+   at System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, SqlCredential credential, Object providerInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString userConnectionOptions, SessionData reconnectSessionData)
+   at System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, DbConnectionPoolKey poolKey, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnectionPool pool, DbConnection owningObject, DbConnectionOptions options, DbConnectionPoolKey poolKey, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.Open()
+   at Microsoft.ApplicationBlocks.Data.SqlHelper.ExecuteDataset(String connectionString, CommandType commandType, String commandText, SqlParameter[] commandParameters)
+   at Microsoft.ApplicationBlocks.Data.SqlHelper.ExecuteDataset(String connectionString, String spName, Object[] parameterValues)
+   at ViSport_S2_Registered_UsersController.PartnerInfo(Int32 PartnerID) in e:\Project\ViSport_4.0\WS_S2\App_Code\ViSport_S2_Registered\ViSport_S2_Registered_UsersController.cs:line 1757
+   at GetCDR.btnUpdate_Click(Object sender, EventArgs e) in e:\Project\ViSport_4.0\WS_S2\GetCDR.aspx.cs:line 145
+ClientConnectionId:00000000-0000-0000-0000-000000000000
+2016-07-26 09:57:01,558 [DEBUG] 23 GetCDR - GPC Service_NameVMG_tiendoanvanmenhVM_sam--Count user :5
+2016-07-26 09:57:15,640 [DEBUG] 23 GetCDR - GPC Service_NameVMG_gametrongngay_SAM--Count user :347
+2016-07-26 09:57:56,829 [DEBUG] 23 GetCDR - GPC Service_NameVMG_taigameget_2m_sam--Count user :920
+2016-07-26 09:58:28,274 [ERROR] 23 GetCDR - CDR Loi UPDATE GPC : System.Data.SqlClient.SqlException (0x80131904): Timeout expired.  The timeout period elapsed prior to completion of the operation or the server is not responding. ---> System.ComponentModel.Win32Exception (0x80004005): The wait operation timed out
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, SqlDataReader ds)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean asyncWrite)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet)
+   at Microsoft.ApplicationBlocks.Data.SqlHelper.ExecuteDataset(SqlConnection connection, CommandType commandType, String commandText, SqlParameter[] commandParameters)
+   at Microsoft.ApplicationBlocks.Data.SqlHelper.ExecuteDataset(String connectionString, CommandType commandType, String commandText, SqlParameter[] commandParameters)
+   at Microsoft.ApplicationBlocks.Data.SqlHelper.ExecuteDataset(String connectionString, String spName, Object[] parameterValues)
+   at ViSport_S2_Registered_UsersController.GPCGetCdrByServiceId_ByDate(String serviceId, DateTime day) in e:\Project\ViSport_4.0\WS_S2\App_Code\ViSport_S2_Registered\ViSport_S2_Registered_UsersController.cs:line 1683
+   at GetCDR.btnUpdate_Click(Object sender, EventArgs e) in e:\Project\ViSport_4.0\WS_S2\GetCDR.aspx.cs:line 58
+ClientConnectionId:92c231db-f7d1-48c5-bc8d-b25b8438c998
+2016-07-26 09:58:40,126 [DEBUG] 23 GetCDR - VMS Service_NameSAM LAPTOP_sam--Count user :281
+2016-07-26 09:58:40,361 [DEBUG] 23 GetCDR - VMS Service_NameSAM BOI_sam--Count user :5
+2016-07-26 09:58:40,682 [DEBUG] 23 GetCDR - VMS Service_NameCLIP SAM_sam--Count user :11
+2016-07-26 09:58:46,276 [DEBUG] 23 GetCDR - VMS Service_NameSAM iPAD MINI_sam--Count user :625
+2016-07-26 09:58:46,284 [DEBUG] 23 GetCDR - VMS Service_NameSAM OPS--Count user :0
+2016-07-26 09:59:09,136 [DEBUG] 23 GetCDR - VMS Service_NameSAM SCAN_sam--Count user :3570
+2016-07-26 09:59:09,218 [DEBUG] 23 GetCDR - VMS Service_NameSAM GAME_sam--Count user :3
+2016-07-26 09:59:14,452 [DEBUG] 23 GetCDR - VMS Service_NameSAM PAD_sam--Count user :866
+2016-07-26 09:59:19,701 [DEBUG] 23 GetCDR - VMS Service_NameSAM PHONE_sam--Count user :904
+2016-07-26 09:59:19,951 [DEBUG] 23 GetCDR - VMS Service_NameSAM MINI_sam--Count user :9
+2016-07-26 09:59:19,960 [DEBUG] 23 GetCDR - VMS Service_NameSAM PAD1_sam--Count user :0
+2016-07-26 09:59:36,439 [DEBUG] 23 GetCDR - VMS Service_NameSAM GET_sam--Count user :3083
+2016-07-26 09:59:42,781 [DEBUG] 23 GetCDR - VMS Service_NameSAM FUN_sam--Count user :1377
+2016-07-26 09:59:42,789 [DEBUG] 23 GetCDR - VMS Service_NameSAM FREE_sam--Count user :0
+2016-07-26 09:59:51,158 [DEBUG] 23 GetCDR - VMS Service_NameVMG Tai game_SAM--Count user :1915
+2016-07-26 09:59:51,175 [DEBUG] 23 GetCDR - VMS Service_NameSAM Ung dung va hinh nen WIFI--Count user :0
+2016-07-26 09:59:51,183 [DEBUG] 23 GetCDR - VMS Service_NameSAM Ung dung va hinh nen NET--Count user :0
+2016-07-26 09:59:51,191 [DEBUG] 23 GetCDR - VMS Service_NameSAM Ung dung va hinh nen FS--Count user :0
+2016-07-26 09:59:51,200 [DEBUG] 23 GetCDR - VMS Service_NameSam Hoc truc tuyen--Count user :0
+2016-07-26 09:59:51,200 [DEBUG] 23 GetCDR - CDR VMS update
+2016-07-26 10:02:17,699 [DEBUG] 8 GetCDR - GPC Service_NameVMG_tiendoanvanmenhVM_sam--Count user :5
+2016-07-26 10:02:52,123 [DEBUG] 8 GetCDR - GPC Service_NameVMG_gametrongngay_SAM--Count user :347
+2016-07-26 10:03:34,943 [DEBUG] 8 GetCDR - GPC Service_NameVMG_taigameget_2m_sam--Count user :920
+2016-07-26 10:04:05,066 [ERROR] 8 GetCDR - CDR Loi UPDATE GPC -0055362000017214 - : System.Data.SqlClient.SqlException (0x80131904): Timeout expired.  The timeout period elapsed prior to completion of the operation or the server is not responding. ---> System.ComponentModel.Win32Exception (0x80004005): The wait operation timed out
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, SqlDataReader ds)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean asyncWrite)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet)
+   at Microsoft.ApplicationBlocks.Data.SqlHelper.ExecuteDataset(SqlConnection connection, CommandType commandType, String commandText, SqlParameter[] commandParameters)
+   at Microsoft.ApplicationBlocks.Data.SqlHelper.ExecuteDataset(String connectionString, CommandType commandType, String commandText, SqlParameter[] commandParameters)
+   at Microsoft.ApplicationBlocks.Data.SqlHelper.ExecuteDataset(String connectionString, String spName, Object[] parameterValues)
+   at ViSport_S2_Registered_UsersController.GPCGetCdrByServiceId_ByDate(String serviceId, DateTime day) in e:\Project\ViSport_4.0\WS_S2\App_Code\ViSport_S2_Registered\ViSport_S2_Registered_UsersController.cs:line 1683
+   at GetCDR.btnUpdate_Click(Object sender, EventArgs e) in e:\Project\ViSport_4.0\WS_S2\GetCDR.aspx.cs:line 59
+ClientConnectionId:c5ee21f2-d427-412c-8ebb-11b4f6869e58
+2016-07-26 10:04:11,728 [DEBUG] 8 GetCDR - GPC Service_NameVMG_taigamelap_2m_sam--Count user :8
+2016-07-26 10:04:33,837 [DEBUG] 8 GetCDR - GPC Service_NameVMG_taigamemini1_2m_sam--Count user :202
+2016-07-26 10:04:36,685 [DEBUG] 8 GetCDR - GPC Service_NameVMG_cliphotgs_2m_sam--Count user :5
+2016-07-26 10:05:13,742 [DEBUG] 8 GetCDR - GPC Service_NameVMG_taihinhnenscan_2m_sam--Count user :774
+2016-07-26 10:05:33,283 [DEBUG] 8 GetCDR - GPC Service_NameVMG_taigamepad_2m_sam--Count user :170
+2016-07-26 10:05:42,643 [DEBUG] 8 GetCDR - GPC Service_NameVMG_taigamephone_2m_sam--Count user :176
+2016-07-26 10:05:43,845 [DEBUG] 8 GetCDR - GPC Service_NameVMG_taigamemini_2m_sam--Count user :6
+2016-07-26 10:05:44,394 [DEBUG] 8 GetCDR - GPC Service_NameVMG_Taigametrungipad_Sam--Count user :3
+2016-07-26 10:05:44,405 [DEBUG] 8 GetCDR - GPC Service_NameVMG_UDhinhnenWIFI_SAM--Count user :0
+2016-07-26 10:05:44,415 [DEBUG] 8 GetCDR - GPC Service_NameVMG_UngdunghinhnenNET_Sam--Count user :0
+2016-07-26 10:05:44,588 [DEBUG] 8 GetCDR - GPC Service_NameVMG_UngdunghinhnenFS_Sam--Count user :0
+2016-07-26 10:05:44,598 [DEBUG] 8 GetCDR - GPC Service_NameVMG_TaigamePAD1_Sam  --Count user :0
+2016-07-26 10:05:44,654 [DEBUG] 8 GetCDR - GPC Service_NameVMG_HinhnenFREE_sam--Count user :0
+2016-07-26 10:05:44,767 [DEBUG] 8 GetCDR - GPC Service_NameVMG_Hoctructuyen_Sam--Count user :0
+2016-07-26 10:05:44,768 [DEBUG] 8 GetCDR - CDR GPC update
+2016-07-26 10:05:48,387 [DEBUG] 8 GetCDR - VMS Service_NameSAM LAPTOP_sam--Count user :281
+2016-07-26 10:05:48,618 [DEBUG] 8 GetCDR - VMS Service_NameSAM BOI_sam--Count user :5
+2016-07-26 10:05:49,096 [DEBUG] 8 GetCDR - VMS Service_NameCLIP SAM_sam--Count user :11
+2016-07-26 10:05:55,200 [DEBUG] 8 GetCDR - VMS Service_NameSAM iPAD MINI_sam--Count user :625
+2016-07-26 10:05:55,240 [DEBUG] 8 GetCDR - VMS Service_NameSAM OPS--Count user :0
+2016-07-26 10:06:17,738 [DEBUG] 8 GetCDR - VMS Service_NameSAM SCAN_sam--Count user :3570
+2016-07-26 10:06:17,826 [DEBUG] 8 GetCDR - VMS Service_NameSAM GAME_sam--Count user :3
+2016-07-26 10:06:24,009 [DEBUG] 8 GetCDR - VMS Service_NameSAM PAD_sam--Count user :866
+2016-07-26 10:06:28,827 [DEBUG] 8 GetCDR - VMS Service_NameSAM PHONE_sam--Count user :904
+2016-07-26 10:06:29,077 [DEBUG] 8 GetCDR - VMS Service_NameSAM MINI_sam--Count user :9
+2016-07-26 10:06:29,081 [DEBUG] 8 GetCDR - VMS Service_NameSAM PAD1_sam--Count user :0
+2016-07-26 10:06:56,895 [DEBUG] 8 GetCDR - VMS Service_NameSAM GET_sam--Count user :3083
+2016-07-26 10:07:06,652 [DEBUG] 8 GetCDR - VMS Service_NameSAM FUN_sam--Count user :1377
+2016-07-26 10:07:06,658 [DEBUG] 8 GetCDR - VMS Service_NameSAM FREE_sam--Count user :0
+2016-07-26 10:07:17,048 [DEBUG] 8 GetCDR - VMS Service_NameVMG Tai game_SAM--Count user :1915
+2016-07-26 10:07:17,059 [DEBUG] 8 GetCDR - VMS Service_NameSAM Ung dung va hinh nen WIFI--Count user :0
+2016-07-26 10:07:17,064 [DEBUG] 8 GetCDR - VMS Service_NameSAM Ung dung va hinh nen NET--Count user :0
+2016-07-26 10:07:17,070 [DEBUG] 8 GetCDR - VMS Service_NameSAM Ung dung va hinh nen FS--Count user :0
+2016-07-26 10:07:17,085 [DEBUG] 8 GetCDR - VMS Service_NameSam Hoc truc tuyen--Count user :0
+2016-07-26 10:07:17,085 [DEBUG] 8 GetCDR - CDR VMS update
+2016-07-26 10:17:55,979 [DEBUG] 16 GetCDR - GPC Service_NameVMG_tiendoanvanmenhVM_sam--Count user :4
+2016-07-26 10:18:12,444 [DEBUG] 16 GetCDR - GPC Service_NameVMG_gametrongngay_SAM--Count user :347
+2016-07-26 10:18:32,813 [DEBUG] 16 GetCDR - GPC Service_NameVMG_taigameget_2m_sam--Count user :851
+2016-07-26 10:19:02,860 [ERROR] 16 GetCDR - CDR Loi UPDATE GPC -0055362000017214 - : System.Data.SqlClient.SqlException (0x80131904): Timeout expired.  The timeout period elapsed prior to completion of the operation or the server is not responding. ---> System.ComponentModel.Win32Exception (0x80004005): The wait operation timed out
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, SqlDataReader ds)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean asyncWrite)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet)
+   at Microsoft.ApplicationBlocks.Data.SqlHelper.ExecuteDataset(SqlConnection connection, CommandType commandType, String commandText, SqlParameter[] commandParameters)
+   at Microsoft.ApplicationBlocks.Data.SqlHelper.ExecuteDataset(String connectionString, CommandType commandType, String commandText, SqlParameter[] commandParameters)
+   at Microsoft.ApplicationBlocks.Data.SqlHelper.ExecuteDataset(String connectionString, String spName, Object[] parameterValues)
+   at ViSport_S2_Registered_UsersController.GPCGetCdrByServiceId_ByDate(String serviceId, DateTime day) in e:\Project\ViSport_4.0\WS_S2\App_Code\ViSport_S2_Registered\ViSport_S2_Registered_UsersController.cs:line 1683
+   at GetCDR.btnUpdate_Click(Object sender, EventArgs e) in e:\Project\ViSport_4.0\WS_S2\GetCDR.aspx.cs:line 59
+ClientConnectionId:2292e077-c6a7-4a81-87df-f8282e360fdc
+2016-07-26 10:19:08,306 [DEBUG] 16 GetCDR - GPC Service_NameVMG_taigamelap_2m_sam--Count user :8
+2016-07-26 10:19:28,498 [DEBUG] 16 GetCDR - GPC Service_NameVMG_taigamemini1_2m_sam--Count user :203
+2016-07-26 10:19:29,518 [DEBUG] 16 GetCDR - GPC Service_NameVMG_cliphotgs_2m_sam--Count user :4
+2016-07-26 10:19:47,845 [DEBUG] 16 GetCDR - GPC Service_NameVMG_taihinhnenscan_2m_sam--Count user :789
+2016-07-26 10:19:57,858 [DEBUG] 16 GetCDR - GPC Service_NameVMG_taigamepad_2m_sam--Count user :184
+2016-07-26 10:20:05,636 [DEBUG] 16 GetCDR - GPC Service_NameVMG_taigamephone_2m_sam--Count user :166
+2016-07-26 10:20:07,143 [DEBUG] 16 GetCDR - GPC Service_NameVMG_taigamemini_2m_sam--Count user :6
+2016-07-26 10:20:08,333 [DEBUG] 16 GetCDR - GPC Service_NameVMG_Taigametrungipad_Sam--Count user :4
+2016-07-26 10:20:08,344 [DEBUG] 16 GetCDR - GPC Service_NameVMG_UDhinhnenWIFI_SAM--Count user :0
+2016-07-26 10:20:08,353 [DEBUG] 16 GetCDR - GPC Service_NameVMG_UngdunghinhnenNET_Sam--Count user :0
+2016-07-26 10:20:08,422 [DEBUG] 16 GetCDR - GPC Service_NameVMG_UngdunghinhnenFS_Sam--Count user :0
+2016-07-26 10:20:08,432 [DEBUG] 16 GetCDR - GPC Service_NameVMG_TaigamePAD1_Sam  --Count user :0
+2016-07-26 10:20:08,682 [DEBUG] 16 GetCDR - GPC Service_NameVMG_HinhnenFREE_sam--Count user :0
+2016-07-26 10:20:09,101 [DEBUG] 16 GetCDR - GPC Service_NameVMG_Hoctructuyen_Sam--Count user :0
+2016-07-26 10:20:09,102 [DEBUG] 16 GetCDR - CDR GPC update
+2016-07-26 10:20:16,831 [DEBUG] 16 GetCDR - VMS Service_NameSAM LAPTOP_sam--Count user :276
+2016-07-26 10:20:16,934 [DEBUG] 16 GetCDR - VMS Service_NameSAM BOI_sam--Count user :6
+2016-07-26 10:20:17,085 [DEBUG] 16 GetCDR - VMS Service_NameCLIP SAM_sam--Count user :9
+2016-07-26 10:20:22,152 [DEBUG] 16 GetCDR - VMS Service_NameSAM iPAD MINI_sam--Count user :626
+2016-07-26 10:20:22,284 [DEBUG] 16 GetCDR - VMS Service_NameSAM OPS--Count user :0
+2016-07-26 10:20:41,835 [DEBUG] 16 GetCDR - VMS Service_NameSAM SCAN_sam--Count user :3724
+2016-07-26 10:20:41,917 [DEBUG] 16 GetCDR - VMS Service_NameSAM GAME_sam--Count user :3
+2016-07-26 10:20:45,709 [DEBUG] 16 GetCDR - VMS Service_NameSAM PAD_sam--Count user :893
+2016-07-26 10:20:50,219 [DEBUG] 16 GetCDR - VMS Service_NameSAM PHONE_sam--Count user :884
+2016-07-26 10:20:50,522 [DEBUG] 16 GetCDR - VMS Service_NameSAM MINI_sam--Count user :10
+2016-07-26 10:20:50,530 [DEBUG] 16 GetCDR - VMS Service_NameSAM PAD1_sam--Count user :0
+2016-07-26 10:21:17,032 [DEBUG] 16 GetCDR - VMS Service_NameSAM GET_sam--Count user :2953
+2016-07-26 10:21:33,965 [DEBUG] 16 GetCDR - VMS Service_NameSAM FUN_sam--Count user :1464
+2016-07-26 10:21:33,972 [DEBUG] 16 GetCDR - VMS Service_NameSAM FREE_sam--Count user :0
+2016-07-26 10:21:51,330 [DEBUG] 16 GetCDR - VMS Service_NameVMG Tai game_SAM--Count user :2030
+2016-07-26 10:21:51,348 [DEBUG] 16 GetCDR - VMS Service_NameSAM Ung dung va hinh nen WIFI--Count user :0
+2016-07-26 10:21:51,354 [DEBUG] 16 GetCDR - VMS Service_NameSAM Ung dung va hinh nen NET--Count user :0
+2016-07-26 10:21:51,361 [DEBUG] 16 GetCDR - VMS Service_NameSAM Ung dung va hinh nen FS--Count user :0
+2016-07-26 10:21:51,373 [DEBUG] 16 GetCDR - VMS Service_NameSam Hoc truc tuyen--Count user :0
+2016-07-26 10:21:51,373 [DEBUG] 16 GetCDR - CDR VMS update
+2016-07-26 10:32:00,101 [DEBUG] 27 GetCDR - GPC Service_NameVMG_tiendoanvanmenhVM_sam--Count user :4
+2016-07-26 10:32:20,083 [DEBUG] 27 GetCDR - GPC Service_NameVMG_gametrongngay_SAM--Count user :341
+2016-07-26 10:32:37,962 [DEBUG] 27 GetCDR - GPC Service_NameVMG_taigameget_2m_sam--Count user :844
+2016-07-26 10:32:51,423 [DEBUG] 27 GetCDR - GPC Service_NameVMG_taiclipfun_2m_sam--Count user :368
+2016-07-26 10:32:52,158 [DEBUG] 27 GetCDR - GPC Service_NameVMG_taigamelap_2m_sam--Count user :9
+2016-07-26 10:33:03,651 [DEBUG] 27 GetCDR - GPC Service_NameVMG_taigamemini1_2m_sam--Count user :192
+2016-07-26 10:33:05,102 [DEBUG] 27 GetCDR - GPC Service_NameVMG_cliphotgs_2m_sam--Count user :5
+2016-07-26 10:33:36,053 [DEBUG] 27 GetCDR - GPC Service_NameVMG_taihinhnenscan_2m_sam--Count user :759
+2016-07-26 10:33:54,305 [DEBUG] 27 GetCDR - GPC Service_NameVMG_taigamepad_2m_sam--Count user :179
+2016-07-26 10:34:03,743 [DEBUG] 27 GetCDR - GPC Service_NameVMG_taigamephone_2m_sam--Count user :168
+2016-07-26 10:34:04,595 [DEBUG] 27 GetCDR - GPC Service_NameVMG_taigamemini_2m_sam--Count user :7
+2016-07-26 10:34:04,966 [DEBUG] 27 GetCDR - GPC Service_NameVMG_Taigametrungipad_Sam--Count user :2
+2016-07-26 10:34:04,975 [DEBUG] 27 GetCDR - GPC Service_NameVMG_UDhinhnenWIFI_SAM--Count user :0
+2016-07-26 10:34:04,986 [DEBUG] 27 GetCDR - GPC Service_NameVMG_UngdunghinhnenNET_Sam--Count user :0
+2016-07-26 10:34:05,017 [DEBUG] 27 GetCDR - GPC Service_NameVMG_UngdunghinhnenFS_Sam--Count user :0
+2016-07-26 10:34:05,026 [DEBUG] 27 GetCDR - GPC Service_NameVMG_TaigamePAD1_Sam  --Count user :0
+2016-07-26 10:34:05,056 [DEBUG] 27 GetCDR - GPC Service_NameVMG_HinhnenFREE_sam--Count user :0
+2016-07-26 10:34:05,115 [DEBUG] 27 GetCDR - GPC Service_NameVMG_Hoctructuyen_Sam--Count user :0
+2016-07-26 10:34:05,115 [DEBUG] 27 GetCDR - CDR GPC update
+2016-07-26 10:34:09,253 [DEBUG] 27 GetCDR - VMS Service_NameSAM LAPTOP_sam--Count user :278
+2016-07-26 10:34:09,432 [DEBUG] 27 GetCDR - VMS Service_NameSAM BOI_sam--Count user :6
+2016-07-26 10:34:09,747 [DEBUG] 27 GetCDR - VMS Service_NameCLIP SAM_sam--Count user :9
+2016-07-26 10:34:12,605 [DEBUG] 27 GetCDR - VMS Service_NameSAM iPAD MINI_sam--Count user :617
+2016-07-26 10:34:12,613 [DEBUG] 27 GetCDR - VMS Service_NameSAM OPS--Count user :0
+2016-07-26 10:34:28,398 [DEBUG] 27 GetCDR - VMS Service_NameSAM SCAN_sam--Count user :3699
+2016-07-26 10:34:28,482 [DEBUG] 27 GetCDR - VMS Service_NameSAM GAME_sam--Count user :3
+2016-07-26 10:34:32,335 [DEBUG] 27 GetCDR - VMS Service_NameSAM PAD_sam--Count user :926
+2016-07-26 10:34:36,050 [DEBUG] 27 GetCDR - VMS Service_NameSAM PHONE_sam--Count user :864
+2016-07-26 10:34:36,291 [DEBUG] 27 GetCDR - VMS Service_NameSAM MINI_sam--Count user :10
+2016-07-26 10:34:36,297 [DEBUG] 27 GetCDR - VMS Service_NameSAM PAD1_sam--Count user :0
+2016-07-26 10:34:50,755 [DEBUG] 27 GetCDR - VMS Service_NameSAM GET_sam--Count user :2976
+2016-07-26 10:34:59,556 [DEBUG] 27 GetCDR - VMS Service_NameSAM FUN_sam--Count user :1412
+2016-07-26 10:34:59,563 [DEBUG] 27 GetCDR - VMS Service_NameSAM FREE_sam--Count user :0
+2016-07-26 10:35:14,686 [DEBUG] 27 GetCDR - VMS Service_NameVMG Tai game_SAM--Count user :2044
+2016-07-26 10:35:14,702 [DEBUG] 27 GetCDR - VMS Service_NameSAM Ung dung va hinh nen WIFI--Count user :0
+2016-07-26 10:35:14,709 [DEBUG] 27 GetCDR - VMS Service_NameSAM Ung dung va hinh nen NET--Count user :0
+2016-07-26 10:35:14,716 [DEBUG] 27 GetCDR - VMS Service_NameSAM Ung dung va hinh nen FS--Count user :0
+2016-07-26 10:35:14,727 [DEBUG] 27 GetCDR - VMS Service_NameSam Hoc truc tuyen--Count user :0
+2016-07-26 10:35:14,728 [DEBUG] 27 GetCDR - CDR VMS update
+2016-07-26 10:46:51,366 [DEBUG] 9 GetCDR - GPC Service_NameVMG_tiendoanvanmenhVM_sam--Count user :10
+2016-07-26 10:47:21,453 [ERROR] 9 GetCDR - CDR Loi UPDATE GPC -0055362000016677- : System.Data.SqlClient.SqlException (0x80131904): Timeout expired.  The timeout period elapsed prior to completion of the operation or the server is not responding. ---> System.ComponentModel.Win32Exception (0x80004005): The wait operation timed out
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, SqlDataReader ds)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean asyncWrite)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet)
+   at Microsoft.ApplicationBlocks.Data.SqlHelper.ExecuteDataset(SqlConnection connection, CommandType commandType, String commandText, SqlParameter[] commandParameters)
+   at Microsoft.ApplicationBlocks.Data.SqlHelper.ExecuteDataset(String connectionString, CommandType commandType, String commandText, SqlParameter[] commandParameters)
+   at Microsoft.ApplicationBlocks.Data.SqlHelper.ExecuteDataset(String connectionString, String spName, Object[] parameterValues)
+   at ViSport_S2_Registered_UsersController.GPCGetCdrByServiceId_ByDate(String serviceId, DateTime day) in e:\Project\ViSport_4.0\WS_S2\App_Code\ViSport_S2_Registered\ViSport_S2_Registered_UsersController.cs:line 1683
+   at GetCDR.btnUpdate_Click(Object sender, EventArgs e) in e:\Project\ViSport_4.0\WS_S2\GetCDR.aspx.cs:line 59
+ClientConnectionId:038590b6-284f-4543-9ddf-07b5ae9f3945
+2016-07-26 10:47:52,406 [DEBUG] 9 GetCDR - GPC Service_NameVMG_taigameget_2m_sam--Count user :1592
+2016-07-26 10:48:14,609 [DEBUG] 9 GetCDR - GPC Service_NameVMG_taiclipfun_2m_sam--Count user :738
+2016-07-26 10:48:15,855 [DEBUG] 9 GetCDR - GPC Service_NameVMG_taigamelap_2m_sam--Count user :12
+2016-07-26 10:48:36,905 [DEBUG] 9 GetCDR - GPC Service_NameVMG_taigamemini1_2m_sam--Count user :370
+2016-07-26 10:48:37,676 [DEBUG] 9 GetCDR - GPC Service_NameVMG_cliphotgs_2m_sam--Count user :8
+2016-07-26 10:50:03,996 [DEBUG] 9 GetCDR - GPC Service_NameVMG_taihinhnenscan_2m_sam--Count user :1466
+2016-07-26 10:50:52,484 [DEBUG] 9 GetCDR - GPC Service_NameVMG_taigamepad_2m_sam--Count user :374
+2016-07-26 10:51:03,641 [DEBUG] 9 GetCDR - GPC Service_NameVMG_taigamephone_2m_sam--Count user :354
+2016-07-26 10:51:04,467 [DEBUG] 9 GetCDR - GPC Service_NameVMG_taigamemini_2m_sam--Count user :14
+2016-07-26 10:51:04,851 [DEBUG] 9 GetCDR - GPC Service_NameVMG_Taigametrungipad_Sam--Count user :6
+2016-07-26 10:51:04,862 [DEBUG] 9 GetCDR - GPC Service_NameVMG_UDhinhnenWIFI_SAM--Count user :0
+2016-07-26 10:51:04,872 [DEBUG] 9 GetCDR - GPC Service_NameVMG_UngdunghinhnenNET_Sam--Count user :0
+2016-07-26 10:51:04,956 [DEBUG] 9 GetCDR - GPC Service_NameVMG_UngdunghinhnenFS_Sam--Count user :0
+2016-07-26 10:51:04,965 [DEBUG] 9 GetCDR - GPC Service_NameVMG_TaigamePAD1_Sam  --Count user :0
+2016-07-26 10:51:04,996 [DEBUG] 9 GetCDR - GPC Service_NameVMG_HinhnenFREE_sam--Count user :0
+2016-07-26 10:51:05,051 [DEBUG] 9 GetCDR - GPC Service_NameVMG_Hoctructuyen_Sam--Count user :0
+2016-07-26 10:51:05,051 [DEBUG] 9 GetCDR - CDR GPC update
+2016-07-26 10:51:08,574 [DEBUG] 9 GetCDR - VMS Service_NameSAM LAPTOP_sam--Count user :275
+2016-07-26 10:51:08,788 [DEBUG] 9 GetCDR - VMS Service_NameSAM BOI_sam--Count user :6
+2016-07-26 10:51:09,047 [DEBUG] 9 GetCDR - VMS Service_NameCLIP SAM_sam--Count user :9
+2016-07-26 10:51:12,104 [DEBUG] 9 GetCDR - VMS Service_NameSAM iPAD MINI_sam--Count user :601
+2016-07-26 10:51:12,121 [DEBUG] 9 GetCDR - VMS Service_NameSAM OPS--Count user :0
+2016-07-26 10:51:32,971 [DEBUG] 9 GetCDR - VMS Service_NameSAM SCAN_sam--Count user :3733
+2016-07-26 10:51:33,059 [DEBUG] 9 GetCDR - VMS Service_NameSAM GAME_sam--Count user :3
+2016-07-26 10:51:37,261 [DEBUG] 9 GetCDR - VMS Service_NameSAM PAD_sam--Count user :957
+2016-07-26 10:51:40,685 [DEBUG] 9 GetCDR - VMS Service_NameSAM PHONE_sam--Count user :850
+2016-07-26 10:51:41,054 [DEBUG] 9 GetCDR - VMS Service_NameSAM MINI_sam--Count user :9
+2016-07-26 10:51:41,061 [DEBUG] 9 GetCDR - VMS Service_NameSAM PAD1_sam--Count user :0
+2016-07-26 10:51:52,814 [DEBUG] 9 GetCDR - VMS Service_NameSAM GET_sam--Count user :2857
+2016-07-26 10:52:00,890 [DEBUG] 9 GetCDR - VMS Service_NameSAM FUN_sam--Count user :1530
+2016-07-26 10:52:00,899 [DEBUG] 9 GetCDR - VMS Service_NameSAM FREE_sam--Count user :0
+2016-07-26 10:52:17,714 [DEBUG] 9 GetCDR - VMS Service_NameVMG Tai game_SAM--Count user :2084
+2016-07-26 10:52:17,730 [DEBUG] 9 GetCDR - VMS Service_NameSAM Ung dung va hinh nen WIFI--Count user :0
+2016-07-26 10:52:17,739 [DEBUG] 9 GetCDR - VMS Service_NameSAM Ung dung va hinh nen NET--Count user :0
+2016-07-26 10:52:17,773 [DEBUG] 9 GetCDR - VMS Service_NameSAM Ung dung va hinh nen FS--Count user :0
+2016-07-26 10:52:17,784 [DEBUG] 9 GetCDR - VMS Service_NameSam Hoc truc tuyen--Count user :0
+2016-07-26 10:52:17,784 [DEBUG] 9 GetCDR - CDR VMS update
+2016-07-26 11:10:39,239 [DEBUG] 9 GetCDR - GPC Service_NameVMG_tiendoanvanmenhVM_sam--Count user :8
+2016-07-26 11:10:56,858 [DEBUG] 9 GetCDR - GPC Service_NameVMG_gametrongngay_SAM--Count user :766
+2016-07-26 11:11:33,485 [DEBUG] 9 GetCDR - GPC Service_NameVMG_taigameget_2m_sam--Count user :1964
+2016-07-26 11:11:36,283 [DEBUG] 12 GetCDR - CDR GPC update
+2016-07-26 11:12:10,925 [DEBUG] 9 GetCDR - GPC Service_NameVMG_taiclipfun_2m_sam--Count user :836
+2016-07-26 11:12:15,380 [DEBUG] 9 GetCDR - GPC Service_NameVMG_taigamelap_2m_sam--Count user :14
+2016-07-26 11:12:45,529 [DEBUG] 9 GetCDR - GPC Service_NameVMG_taigamemini1_2m_sam--Count user :466
+2016-07-26 11:12:46,333 [DEBUG] 9 GetCDR - GPC Service_NameVMG_cliphotgs_2m_sam--Count user :8
+2016-07-26 11:13:24,822 [DEBUG] 9 GetCDR - GPC Service_NameVMG_taihinhnenscan_2m_sam--Count user :1660
+2016-07-26 11:13:37,137 [DEBUG] 9 GetCDR - GPC Service_NameVMG_taigamepad_2m_sam--Count user :448
+2016-07-26 11:13:43,462 [DEBUG] 9 GetCDR - GPC Service_NameVMG_taigamephone_2m_sam--Count user :412
+2016-07-26 11:13:44,182 [DEBUG] 9 GetCDR - GPC Service_NameVMG_taigamemini_2m_sam--Count user :16
+2016-07-26 11:13:44,511 [DEBUG] 9 GetCDR - GPC Service_NameVMG_Taigametrungipad_Sam--Count user :4
+2016-07-26 11:13:44,516 [DEBUG] 9 GetCDR - GPC Service_NameVMG_UDhinhnenWIFI_SAM--Count user :0
+2016-07-26 11:13:44,519 [DEBUG] 9 GetCDR - GPC Service_NameVMG_UngdunghinhnenNET_Sam--Count user :0
+2016-07-26 11:13:44,550 [DEBUG] 9 GetCDR - GPC Service_NameVMG_UngdunghinhnenFS_Sam--Count user :0
+2016-07-26 11:13:44,552 [DEBUG] 9 GetCDR - GPC Service_NameVMG_TaigamePAD1_Sam  --Count user :0
+2016-07-26 11:13:44,582 [DEBUG] 9 GetCDR - GPC Service_NameVMG_HinhnenFREE_sam--Count user :0
+2016-07-26 11:13:44,622 [DEBUG] 9 GetCDR - GPC Service_NameVMG_Hoctructuyen_Sam--Count user :0
+2016-07-26 11:13:44,622 [DEBUG] 9 GetCDR - CDR GPC update
+2016-07-26 11:13:46,119 [DEBUG] 9 GetCDR - VMS Service_NameSAM LAPTOP_sam--Count user :280
+2016-07-26 11:13:46,161 [DEBUG] 9 GetCDR - VMS Service_NameSAM BOI_sam--Count user :6
+2016-07-26 11:13:46,631 [DEBUG] 9 GetCDR - VMS Service_NameCLIP SAM_sam--Count user :9
+2016-07-26 11:13:49,019 [DEBUG] 9 GetCDR - VMS Service_NameSAM iPAD MINI_sam--Count user :607
+2016-07-26 11:13:49,023 [DEBUG] 9 GetCDR - VMS Service_NameSAM OPS--Count user :0
+2016-07-26 11:14:06,601 [DEBUG] 9 GetCDR - VMS Service_NameSAM SCAN_sam--Count user :3629
+2016-07-26 11:14:06,645 [DEBUG] 9 GetCDR - VMS Service_NameSAM GAME_sam--Count user :2
+2016-07-26 11:14:08,219 [DEBUG] 9 GetCDR - VMS Service_NameSAM PAD_sam--Count user :410
+2016-07-26 11:14:08,827 [DEBUG] 12 GetCDR - CDR VMS update
+2016-07-26 11:14:11,573 [DEBUG] 9 GetCDR - VMS Service_NameSAM PHONE_sam--Count user :860
+2016-07-26 11:14:11,710 [DEBUG] 9 GetCDR - VMS Service_NameSAM MINI_sam--Count user :9
+2016-07-26 11:14:11,714 [DEBUG] 9 GetCDR - VMS Service_NameSAM PAD1_sam--Count user :0
+2016-07-26 11:14:27,998 [DEBUG] 9 GetCDR - VMS Service_NameSAM GET_sam--Count user :2804
+2016-07-26 11:14:34,536 [DEBUG] 9 GetCDR - VMS Service_NameSAM FUN_sam--Count user :1473
+2016-07-26 11:14:34,541 [DEBUG] 9 GetCDR - VMS Service_NameSAM FREE_sam--Count user :0
+2016-07-26 11:14:46,654 [DEBUG] 9 GetCDR - VMS Service_NameVMG Tai game_SAM--Count user :2046
+2016-07-26 11:14:46,659 [DEBUG] 9 GetCDR - VMS Service_NameSAM Ung dung va hinh nen WIFI--Count user :0
+2016-07-26 11:14:46,664 [DEBUG] 9 GetCDR - VMS Service_NameSAM Ung dung va hinh nen NET--Count user :0
+2016-07-26 11:14:46,668 [DEBUG] 9 GetCDR - VMS Service_NameSAM Ung dung va hinh nen FS--Count user :0
+2016-07-26 11:14:46,672 [DEBUG] 9 GetCDR - VMS Service_NameSam Hoc truc tuyen--Count user :0
+2016-07-26 11:14:46,672 [DEBUG] 9 GetCDR - CDR VMS update
+2016-07-26 11:32:39,599 [ERROR] 21 GetCDR - CDR Loi UPDATE GPC : System.Data.SqlClient.SqlException (0x80131904): Timeout expired.  The timeout period elapsed prior to completion of the operation or the server is not responding. ---> System.ComponentModel.Win32Exception (0x80004005): The wait operation timed out
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParserStateObject.ReadSniError(TdsParserStateObject stateObj, UInt32 error)
+   at System.Data.SqlClient.TdsParserStateObject.ReadSniSyncOverAsync()
+   at System.Data.SqlClient.TdsParserStateObject.TryReadNetworkPacket()
+   at System.Data.SqlClient.TdsParserStateObject.TryPrepareBuffer()
+   at System.Data.SqlClient.TdsParserStateObject.TryReadByte(Byte& value)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, SqlDataReader ds)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean asyncWrite)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean asyncWrite)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at Microsoft.ApplicationBlocks.Data.SqlHelper.ExecuteNonQuery(SqlConnection connection, CommandType commandType, String commandText, SqlParameter[] commandParameters)
+   at Microsoft.ApplicationBlocks.Data.SqlHelper.ExecuteNonQuery(String connectionString, CommandType commandType, String commandText, SqlParameter[] commandParameters)
+   at Microsoft.ApplicationBlocks.Data.SqlHelper.ExecuteNonQuery(String connectionString, CommandType commandType, String commandText)
+   at Microsoft.ApplicationBlocks.Data.SqlHelper.ExecuteNonQuery(String connectionString, String spName, Object[] parameterValues)
+   at ViSport_S2_Registered_UsersController.GpcCdrReset() in e:\Project\ViSport_4.0\WS_S2\App_Code\ViSport_S2_Registered\ViSport_S2_Registered_UsersController.cs:line 1740
+   at GetCDR.btnUpdate_Click(Object sender, EventArgs e) in e:\Project\ViSport_4.0\WS_S2\GetCDR.aspx.cs:line 44
+ClientConnectionId:038590b6-284f-4543-9ddf-07b5ae9f3945
+2016-07-26 11:33:09,682 [DEBUG] 21 GetCDR - VMS Service_NameSAM LAPTOP_sam--Count user :279
+2016-07-26 11:33:09,840 [DEBUG] 21 GetCDR - VMS Service_NameSAM BOI_sam--Count user :6
+2016-07-26 11:33:12,693 [DEBUG] 21 GetCDR - VMS Service_NameCLIP SAM_sam--Count user :11
+2016-07-26 11:33:32,790 [DEBUG] 21 GetCDR - VMS Service_NameSAM iPAD MINI_sam--Count user :628
+2016-07-26 11:33:32,795 [DEBUG] 21 GetCDR - VMS Service_NameSAM OPS--Count user :0
+2016-07-26 11:34:49,598 [DEBUG] 21 GetCDR - VMS Service_NameSAM SCAN_sam--Count user :3393
+2016-07-26 11:34:49,679 [DEBUG] 21 GetCDR - VMS Service_NameSAM GAME_sam--Count user :3
+2016-07-26 11:35:01,645 [DEBUG] 21 GetCDR - VMS Service_NameSAM PAD_sam--Count user :890
+2016-07-26 11:35:08,297 [DEBUG] 9 GetCDR - GPC Service_NameVMG_tiendoanvanmenhVM_sam--Count user :4
+2016-07-26 11:35:15,779 [DEBUG] 21 GetCDR - VMS Service_NameSAM PHONE_sam--Count user :892
+2016-07-26 11:35:15,857 [DEBUG] 21 GetCDR - VMS Service_NameSAM MINI_sam--Count user :10
+2016-07-26 11:35:15,863 [DEBUG] 21 GetCDR - VMS Service_NameSAM PAD1_sam--Count user :0
+2016-07-26 11:35:32,751 [DEBUG] 9 GetCDR - GPC Service_NameVMG_gametrongngay_SAM--Count user :357
+2016-07-26 11:36:06,121 [DEBUG] 21 GetCDR - VMS Service_NameSAM GET_sam--Count user :3095
+2016-07-26 11:36:08,665 [DEBUG] 9 GetCDR - GPC Service_NameVMG_taigameget_2m_sam--Count user :928
+2016-07-26 11:36:28,560 [DEBUG] 21 GetCDR - VMS Service_NameSAM FUN_sam--Count user :1328
+2016-07-26 11:36:28,565 [DEBUG] 21 GetCDR - VMS Service_NameSAM FREE_sam--Count user :0
+2016-07-26 11:36:36,576 [DEBUG] 9 GetCDR - GPC Service_NameVMG_taiclipfun_2m_sam--Count user :353
+2016-07-26 11:36:49,366 [DEBUG] 9 GetCDR - GPC Service_NameVMG_taigamelap_2m_sam--Count user :6
+2016-07-26 11:37:04,235 [DEBUG] 21 GetCDR - VMS Service_NameVMG Tai game_SAM--Count user :1986
+2016-07-26 11:37:04,250 [DEBUG] 21 GetCDR - VMS Service_NameSAM Ung dung va hinh nen WIFI--Count user :0
+2016-07-26 11:37:04,255 [DEBUG] 21 GetCDR - VMS Service_NameSAM Ung dung va hinh nen NET--Count user :0
+2016-07-26 11:37:04,261 [DEBUG] 21 GetCDR - VMS Service_NameSAM Ung dung va hinh nen FS--Count user :0
+2016-07-26 11:37:04,270 [DEBUG] 21 GetCDR - VMS Service_NameSam Hoc truc tuyen--Count user :0
+2016-07-26 11:37:04,270 [DEBUG] 21 GetCDR - CDR VMS update
+2016-07-26 11:37:04,471 [DEBUG] 24 GetCDR - GPC Service_NameVMG_tiendoanvanmenhVM_sam--Count user :4
+2016-07-26 11:37:19,430 [ERROR] 9 GetCDR - CDR Loi UPDATE GPC -0055362000017218- : System.Data.SqlClient.SqlException (0x80131904): Timeout expired.  The timeout period elapsed prior to completion of the operation or the server is not responding. ---> System.ComponentModel.Win32Exception (0x80004005): The wait operation timed out
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, SqlDataReader ds)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean asyncWrite)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet)
+   at Microsoft.ApplicationBlocks.Data.SqlHelper.ExecuteDataset(SqlConnection connection, CommandType commandType, String commandText, SqlParameter[] commandParameters)
+   at Microsoft.ApplicationBlocks.Data.SqlHelper.ExecuteDataset(String connectionString, CommandType commandType, String commandText, SqlParameter[] commandParameters)
+   at Microsoft.ApplicationBlocks.Data.SqlHelper.ExecuteDataset(String connectionString, String spName, Object[] parameterValues)
+   at ViSport_S2_Registered_UsersController.GPCGetCdrByServiceId_ByDate(String serviceId, DateTime day) in e:\Project\ViSport_4.0\WS_S2\App_Code\ViSport_S2_Registered\ViSport_S2_Registered_UsersController.cs:line 1683
+   at GetCDR.btnUpdate_Click(Object sender, EventArgs e) in e:\Project\ViSport_4.0\WS_S2\GetCDR.aspx.cs:line 59
+ClientConnectionId:e08948da-6ccf-4f8e-bcb9-1afe73847ee6
+2016-07-26 11:37:22,206 [DEBUG] 9 GetCDR - GPC Service_NameVMG_cliphotgs_2m_sam--Count user :4
+2016-07-26 11:37:37,920 [DEBUG] 24 GetCDR - GPC Service_NameVMG_gametrongngay_SAM--Count user :357
+2016-07-26 11:37:47,393 [DEBUG] 9 GetCDR - GPC Service_NameVMG_taihinhnenscan_2m_sam--Count user :742
+2016-07-26 11:38:04,638 [DEBUG] 24 GetCDR - GPC Service_NameVMG_taigameget_2m_sam--Count user :928
+2016-07-26 11:38:28,785 [DEBUG] 24 GetCDR - GPC Service_NameVMG_taiclipfun_2m_sam--Count user :353
+2016-07-26 11:38:29,477 [DEBUG] 24 GetCDR - GPC Service_NameVMG_taigamelap_2m_sam--Count user :6
+2016-07-26 11:38:30,415 [DEBUG] 9 GetCDR - GPC Service_NameVMG_taigamepad_2m_sam--Count user :175
+2016-07-26 11:38:39,849 [DEBUG] 24 GetCDR - GPC Service_NameVMG_taigamemini1_2m_sam--Count user :212
+2016-07-26 11:38:40,365 [DEBUG] 9 GetCDR - GPC Service_NameVMG_taigamephone_2m_sam--Count user :168
+2016-07-26 11:38:40,375 [DEBUG] 24 GetCDR - GPC Service_NameVMG_cliphotgs_2m_sam--Count user :4
+2016-07-26 11:38:44,803 [DEBUG] 9 GetCDR - GPC Service_NameVMG_taigamemini_2m_sam--Count user :7
+2016-07-26 11:38:45,918 [DEBUG] 9 GetCDR - GPC Service_NameVMG_Taigametrungipad_Sam--Count user :2
+2016-07-26 11:38:45,928 [DEBUG] 9 GetCDR - GPC Service_NameVMG_UDhinhnenWIFI_SAM--Count user :0
+2016-07-26 11:38:45,937 [DEBUG] 9 GetCDR - GPC Service_NameVMG_UngdunghinhnenNET_Sam--Count user :0
+2016-07-26 11:38:46,511 [DEBUG] 9 GetCDR - GPC Service_NameVMG_UngdunghinhnenFS_Sam--Count user :0
+2016-07-26 11:38:46,520 [DEBUG] 9 GetCDR - GPC Service_NameVMG_TaigamePAD1_Sam  --Count user :0
+2016-07-26 11:38:47,326 [DEBUG] 9 GetCDR - GPC Service_NameVMG_HinhnenFREE_sam--Count user :0
+2016-07-26 11:38:47,511 [DEBUG] 9 GetCDR - GPC Service_NameVMG_Hoctructuyen_Sam--Count user :0
+2016-07-26 11:38:47,511 [DEBUG] 9 GetCDR - CDR GPC update
+2016-07-26 11:38:56,711 [DEBUG] 9 GetCDR - VMS Service_NameSAM LAPTOP_sam--Count user :279
+2016-07-26 11:38:56,806 [DEBUG] 9 GetCDR - VMS Service_NameSAM BOI_sam--Count user :6
+2016-07-26 11:38:56,917 [DEBUG] 9 GetCDR - VMS Service_NameCLIP SAM_sam--Count user :11
+2016-07-26 11:39:00,429 [DEBUG] 24 GetCDR - GPC Service_NameVMG_taihinhnenscan_2m_sam--Count user :742
+2016-07-26 11:39:00,966 [DEBUG] 9 GetCDR - VMS Service_NameSAM iPAD MINI_sam--Count user :628
+2016-07-26 11:39:00,971 [DEBUG] 9 GetCDR - VMS Service_NameSAM OPS--Count user :0
+2016-07-26 11:39:06,788 [DEBUG] 24 GetCDR - GPC Service_NameVMG_taigamepad_2m_sam--Count user :175
+2016-07-26 11:39:17,378 [DEBUG] 24 GetCDR - GPC Service_NameVMG_taigamephone_2m_sam--Count user :168
+2016-07-26 11:39:18,231 [DEBUG] 24 GetCDR - GPC Service_NameVMG_taigamemini_2m_sam--Count user :7
+2016-07-26 11:39:18,738 [DEBUG] 24 GetCDR - GPC Service_NameVMG_Taigametrungipad_Sam--Count user :2
+2016-07-26 11:39:18,742 [DEBUG] 24 GetCDR - GPC Service_NameVMG_UDhinhnenWIFI_SAM--Count user :0
+2016-07-26 11:39:18,746 [DEBUG] 24 GetCDR - GPC Service_NameVMG_UngdunghinhnenNET_Sam--Count user :0
+2016-07-26 11:39:18,759 [DEBUG] 24 GetCDR - GPC Service_NameVMG_UngdunghinhnenFS_Sam--Count user :0
+2016-07-26 11:39:18,763 [DEBUG] 24 GetCDR - GPC Service_NameVMG_TaigamePAD1_Sam  --Count user :0
+2016-07-26 11:39:18,801 [DEBUG] 24 GetCDR - GPC Service_NameVMG_HinhnenFREE_sam--Count user :0
+2016-07-26 11:39:18,852 [DEBUG] 24 GetCDR - GPC Service_NameVMG_Hoctructuyen_Sam--Count user :0
+2016-07-26 11:39:18,852 [DEBUG] 24 GetCDR - CDR GPC update
+2016-07-26 11:39:20,836 [DEBUG] 24 GetCDR - VMS Service_NameSAM LAPTOP_sam--Count user :279
+2016-07-26 11:39:20,887 [DEBUG] 24 GetCDR - VMS Service_NameSAM BOI_sam--Count user :6
+2016-07-26 11:39:20,943 [DEBUG] 24 GetCDR - VMS Service_NameCLIP SAM_sam--Count user :11
+2016-07-26 11:39:26,743 [DEBUG] 24 GetCDR - VMS Service_NameSAM iPAD MINI_sam--Count user :628
+2016-07-26 11:39:26,757 [DEBUG] 24 GetCDR - VMS Service_NameSAM OPS--Count user :0
+2016-07-26 11:39:33,877 [DEBUG] 9 GetCDR - VMS Service_NameSAM SCAN_sam--Count user :3393
+2016-07-26 11:39:34,086 [DEBUG] 9 GetCDR - VMS Service_NameSAM GAME_sam--Count user :3
+2016-07-26 11:39:42,562 [DEBUG] 9 GetCDR - VMS Service_NameSAM PAD_sam--Count user :890
+2016-07-26 11:39:48,845 [DEBUG] 9 GetCDR - VMS Service_NameSAM PHONE_sam--Count user :892
+2016-07-26 11:39:48,967 [DEBUG] 9 GetCDR - VMS Service_NameSAM MINI_sam--Count user :10
+2016-07-26 11:39:48,972 [DEBUG] 9 GetCDR - VMS Service_NameSAM PAD1_sam--Count user :0
+2016-07-26 11:40:02,774 [DEBUG] 24 GetCDR - VMS Service_NameSAM SCAN_sam--Count user :3393
+2016-07-26 11:40:02,830 [DEBUG] 24 GetCDR - VMS Service_NameSAM GAME_sam--Count user :3
+2016-07-26 11:40:11,988 [DEBUG] 24 GetCDR - VMS Service_NameSAM PAD_sam--Count user :890
+2016-07-26 11:40:18,898 [DEBUG] 24 GetCDR - VMS Service_NameSAM PHONE_sam--Count user :892
+2016-07-26 11:40:19,552 [DEBUG] 24 GetCDR - VMS Service_NameSAM MINI_sam--Count user :10
+2016-07-26 11:40:19,582 [DEBUG] 24 GetCDR - VMS Service_NameSAM PAD1_sam--Count user :0
+2016-07-26 11:40:21,738 [DEBUG] 9 GetCDR - VMS Service_NameSAM GET_sam--Count user :3095
+2016-07-26 11:40:30,665 [DEBUG] 9 GetCDR - VMS Service_NameSAM FUN_sam--Count user :1328
+2016-07-26 11:40:30,669 [DEBUG] 9 GetCDR - VMS Service_NameSAM FREE_sam--Count user :0
+2016-07-26 11:40:43,488 [DEBUG] 24 GetCDR - VMS Service_NameSAM GET_sam--Count user :3095
+2016-07-26 11:40:45,012 [DEBUG] 9 GetCDR - VMS Service_NameVMG Tai game_SAM--Count user :1986
+2016-07-26 11:40:45,036 [DEBUG] 9 GetCDR - VMS Service_NameSAM Ung dung va hinh nen WIFI--Count user :0
+2016-07-26 11:40:45,042 [DEBUG] 9 GetCDR - VMS Service_NameSAM Ung dung va hinh nen NET--Count user :0
+2016-07-26 11:40:45,049 [DEBUG] 9 GetCDR - VMS Service_NameSAM Ung dung va hinh nen FS--Count user :0
+2016-07-26 11:40:45,057 [DEBUG] 9 GetCDR - VMS Service_NameSam Hoc truc tuyen--Count user :0
+2016-07-26 11:40:45,057 [DEBUG] 9 GetCDR - CDR VMS update
+2016-07-26 11:40:51,635 [DEBUG] 24 GetCDR - VMS Service_NameSAM FUN_sam--Count user :1328
+2016-07-26 11:40:51,641 [DEBUG] 24 GetCDR - VMS Service_NameSAM FREE_sam--Count user :0
+2016-07-26 11:41:08,842 [DEBUG] 24 GetCDR - VMS Service_NameVMG Tai game_SAM--Count user :1986
+2016-07-26 11:41:08,847 [DEBUG] 24 GetCDR - VMS Service_NameSAM Ung dung va hinh nen WIFI--Count user :0
+2016-07-26 11:41:08,852 [DEBUG] 24 GetCDR - VMS Service_NameSAM Ung dung va hinh nen NET--Count user :0
+2016-07-26 11:41:08,860 [DEBUG] 24 GetCDR - VMS Service_NameSAM Ung dung va hinh nen FS--Count user :0
+2016-07-26 11:41:08,867 [DEBUG] 24 GetCDR - VMS Service_NameSam Hoc truc tuyen--Count user :0
+2016-07-26 11:41:08,867 [DEBUG] 24 GetCDR - CDR VMS update
+2016-07-26 11:46:29,826 [ERROR] 24 GetCDR - CDR Error : System.IO.IOException: The process cannot access the file 'E:\Project\ViSport_4.0\WS_S2\Sam_Cdr\vmg_dn_vn_2016718.csv' because it is being used by another process.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamWriter.CreateFile(String path, Boolean append, Boolean checkHost)
+   at System.IO.StreamWriter..ctor(String path, Boolean append, Encoding encoding, Int32 bufferSize, Boolean checkHost)
+   at System.IO.File.InternalWriteAllText(String path, String contents, Encoding encoding, Boolean checkHost)
+   at System.IO.File.WriteAllText(String path, String contents)
+   at GetCDR.btnUpdate_Click(Object sender, EventArgs e) in e:\Project\ViSport_4.0\WS_S2\GetCDR.aspx.cs:line 255
+2016-07-26 11:47:57,470 [DEBUG] 25 GetCDR - GPC Service_NameVMG_tiendoanvanmenhVM_sam--Count user :4
+2016-07-26 11:48:14,584 [DEBUG] 25 GetCDR - GPC Service_NameVMG_gametrongngay_SAM--Count user :357
+2016-07-26 11:48:42,578 [DEBUG] 25 GetCDR - GPC Service_NameVMG_taigameget_2m_sam--Count user :928
+2016-07-26 11:48:55,729 [DEBUG] 25 GetCDR - GPC Service_NameVMG_taiclipfun_2m_sam--Count user :353
+2016-07-26 11:48:56,497 [DEBUG] 25 GetCDR - GPC Service_NameVMG_taigamelap_2m_sam--Count user :6
+2016-07-26 11:49:05,579 [DEBUG] 25 GetCDR - GPC Service_NameVMG_taigamemini1_2m_sam--Count user :212
+2016-07-26 11:49:06,025 [DEBUG] 25 GetCDR - GPC Service_NameVMG_cliphotgs_2m_sam--Count user :4
+2016-07-26 11:49:31,194 [DEBUG] 25 GetCDR - GPC Service_NameVMG_taihinhnenscan_2m_sam--Count user :742
+2016-07-26 11:49:44,825 [DEBUG] 25 GetCDR - GPC Service_NameVMG_taigamepad_2m_sam--Count user :175
+2016-07-26 11:49:52,527 [DEBUG] 25 GetCDR - GPC Service_NameVMG_taigamephone_2m_sam--Count user :168
+2016-07-26 11:49:54,026 [DEBUG] 25 GetCDR - GPC Service_NameVMG_taigamemini_2m_sam--Count user :7
+2016-07-26 11:49:54,636 [DEBUG] 25 GetCDR - GPC Service_NameVMG_Taigametrungipad_Sam--Count user :2
+2016-07-26 11:49:54,734 [DEBUG] 25 GetCDR - GPC Service_NameVMG_UDhinhnenWIFI_SAM--Count user :0
+2016-07-26 11:49:54,833 [DEBUG] 25 GetCDR - GPC Service_NameVMG_UngdunghinhnenNET_Sam--Count user :0
+2016-07-26 11:49:54,948 [DEBUG] 25 GetCDR - GPC Service_NameVMG_UngdunghinhnenFS_Sam--Count user :0
+2016-07-26 11:49:55,048 [DEBUG] 25 GetCDR - GPC Service_NameVMG_TaigamePAD1_Sam  --Count user :0
+2016-07-26 11:49:55,181 [DEBUG] 25 GetCDR - GPC Service_NameVMG_HinhnenFREE_sam--Count user :0
+2016-07-26 11:49:55,412 [DEBUG] 25 GetCDR - GPC Service_NameVMG_Hoctructuyen_Sam--Count user :0
+2016-07-26 11:49:55,412 [DEBUG] 25 GetCDR - CDR GPC update
+2016-07-26 11:50:01,956 [DEBUG] 25 GetCDR - VMS Service_NameSAM LAPTOP_sam--Count user :279
+2016-07-26 11:50:02,047 [DEBUG] 25 GetCDR - VMS Service_NameSAM BOI_sam--Count user :6
+2016-07-26 11:50:02,248 [DEBUG] 25 GetCDR - VMS Service_NameCLIP SAM_sam--Count user :11
+2016-07-26 11:50:06,701 [DEBUG] 25 GetCDR - VMS Service_NameSAM iPAD MINI_sam--Count user :628
+2016-07-26 11:50:06,706 [DEBUG] 25 GetCDR - VMS Service_NameSAM OPS--Count user :0
+2016-07-26 11:50:22,543 [DEBUG] 25 GetCDR - VMS Service_NameSAM SCAN_sam--Count user :3393
+2016-07-26 11:50:22,591 [DEBUG] 25 GetCDR - VMS Service_NameSAM GAME_sam--Count user :3
+2016-07-26 11:50:25,879 [DEBUG] 25 GetCDR - VMS Service_NameSAM PAD_sam--Count user :890
+2016-07-26 11:50:29,237 [DEBUG] 25 GetCDR - VMS Service_NameSAM PHONE_sam--Count user :892
+2016-07-26 11:50:29,401 [DEBUG] 25 GetCDR - VMS Service_NameSAM MINI_sam--Count user :10
+2016-07-26 11:50:29,406 [DEBUG] 25 GetCDR - VMS Service_NameSAM PAD1_sam--Count user :0
+2016-07-26 11:50:44,576 [DEBUG] 25 GetCDR - VMS Service_NameSAM GET_sam--Count user :3095
+2016-07-26 11:50:50,218 [DEBUG] 25 GetCDR - VMS Service_NameSAM FUN_sam--Count user :1328
+2016-07-26 11:50:50,223 [DEBUG] 25 GetCDR - VMS Service_NameSAM FREE_sam--Count user :0
+2016-07-26 11:51:00,180 [DEBUG] 25 GetCDR - VMS Service_NameVMG Tai game_SAM--Count user :1986
+2016-07-26 11:51:00,200 [DEBUG] 25 GetCDR - VMS Service_NameSAM Ung dung va hinh nen WIFI--Count user :0
+2016-07-26 11:51:00,204 [DEBUG] 25 GetCDR - VMS Service_NameSAM Ung dung va hinh nen NET--Count user :0
+2016-07-26 11:51:00,208 [DEBUG] 25 GetCDR - VMS Service_NameSAM Ung dung va hinh nen FS--Count user :0
+2016-07-26 11:51:00,234 [DEBUG] 25 GetCDR - VMS Service_NameSam Hoc truc tuyen--Count user :0
+2016-07-26 11:51:00,234 [DEBUG] 25 GetCDR - CDR VMS update
+2016-07-26 11:58:19,309 [DEBUG] 19 GetCDR - GPC Service_NameVMG_tiendoanvanmenhVM_sam--Count user :3
+2016-07-26 11:58:35,124 [DEBUG] 19 GetCDR - GPC Service_NameVMG_gametrongngay_SAM--Count user :350
+2016-07-26 11:58:52,802 [DEBUG] 19 GetCDR - GPC Service_NameVMG_taigameget_2m_sam--Count user :940
+2016-07-26 11:59:11,120 [DEBUG] 19 GetCDR - GPC Service_NameVMG_taiclipfun_2m_sam--Count user :349
+2016-07-26 11:59:12,088 [DEBUG] 19 GetCDR - GPC Service_NameVMG_taigamelap_2m_sam--Count user :4
+2016-07-26 11:59:19,656 [DEBUG] 19 GetCDR - GPC Service_NameVMG_taigamemini1_2m_sam--Count user :189
+2016-07-26 11:59:20,079 [DEBUG] 19 GetCDR - GPC Service_NameVMG_cliphotgs_2m_sam--Count user :4
+2016-07-26 11:59:48,147 [DEBUG] 19 GetCDR - GPC Service_NameVMG_taihinhnenscan_2m_sam--Count user :760
+2016-07-26 11:59:57,381 [DEBUG] 19 GetCDR - GPC Service_NameVMG_taigamepad_2m_sam--Count user :163
+2016-07-26 12:00:16,586 [DEBUG] 19 GetCDR - GPC Service_NameVMG_taigamephone_2m_sam--Count user :168
+2016-07-26 12:00:17,882 [DEBUG] 19 GetCDR - GPC Service_NameVMG_taigamemini_2m_sam--Count user :8
+2016-07-26 12:00:18,679 [DEBUG] 19 GetCDR - GPC Service_NameVMG_Taigametrungipad_Sam--Count user :1
+2016-07-26 12:00:18,689 [DEBUG] 19 GetCDR - GPC Service_NameVMG_UDhinhnenWIFI_SAM--Count user :0
+2016-07-26 12:00:18,700 [DEBUG] 19 GetCDR - GPC Service_NameVMG_UngdunghinhnenNET_Sam--Count user :0
+2016-07-26 12:00:18,927 [DEBUG] 19 GetCDR - GPC Service_NameVMG_UngdunghinhnenFS_Sam--Count user :1
+2016-07-26 12:00:18,940 [DEBUG] 19 GetCDR - GPC Service_NameVMG_TaigamePAD1_Sam  --Count user :0
+2016-07-26 12:00:19,130 [DEBUG] 19 GetCDR - GPC Service_NameVMG_HinhnenFREE_sam--Count user :0
+2016-07-26 12:00:19,236 [DEBUG] 19 GetCDR - GPC Service_NameVMG_Hoctructuyen_Sam--Count user :0
+2016-07-26 12:00:19,236 [DEBUG] 19 GetCDR - CDR GPC update
+2016-07-26 12:00:28,303 [DEBUG] 19 GetCDR - VMS Service_NameSAM LAPTOP_sam--Count user :278
+2016-07-26 12:00:28,426 [DEBUG] 19 GetCDR - VMS Service_NameSAM BOI_sam--Count user :6
+2016-07-26 12:00:28,573 [DEBUG] 19 GetCDR - VMS Service_NameCLIP SAM_sam--Count user :11
+2016-07-26 12:00:32,282 [DEBUG] 19 GetCDR - VMS Service_NameSAM iPAD MINI_sam--Count user :625
+2016-07-26 12:00:32,292 [DEBUG] 19 GetCDR - VMS Service_NameSAM OPS--Count user :0
+2016-07-26 12:00:57,643 [DEBUG] 19 GetCDR - VMS Service_NameSAM SCAN_sam--Count user :3395
+2016-07-26 12:00:57,669 [DEBUG] 19 GetCDR - VMS Service_NameSAM GAME_sam--Count user :3
+2016-07-26 12:01:03,377 [DEBUG] 19 GetCDR - VMS Service_NameSAM PAD_sam--Count user :865
+2016-07-26 12:01:09,170 [DEBUG] 19 GetCDR - VMS Service_NameSAM PHONE_sam--Count user :885
+2016-07-26 12:01:09,336 [DEBUG] 19 GetCDR - VMS Service_NameSAM MINI_sam--Count user :10
+2016-07-26 12:01:09,344 [DEBUG] 19 GetCDR - VMS Service_NameSAM PAD1_sam--Count user :0
+2016-07-26 12:01:28,512 [DEBUG] 19 GetCDR - VMS Service_NameSAM GET_sam--Count user :3000
+2016-07-26 12:01:33,478 [DEBUG] 19 GetCDR - VMS Service_NameSAM FUN_sam--Count user :1325
+2016-07-26 12:01:33,486 [DEBUG] 19 GetCDR - VMS Service_NameSAM FREE_sam--Count user :0
+2016-07-26 12:01:45,084 [DEBUG] 19 GetCDR - VMS Service_NameVMG Tai game_SAM--Count user :1971
+2016-07-26 12:01:45,115 [DEBUG] 19 GetCDR - VMS Service_NameSAM Ung dung va hinh nen WIFI--Count user :0
+2016-07-26 12:01:45,125 [DEBUG] 19 GetCDR - VMS Service_NameSAM Ung dung va hinh nen NET--Count user :0
+2016-07-26 12:01:45,132 [DEBUG] 19 GetCDR - VMS Service_NameSAM Ung dung va hinh nen FS--Count user :0
+2016-07-26 12:01:45,140 [DEBUG] 19 GetCDR - VMS Service_NameSam Hoc truc tuyen--Count user :0
+2016-07-26 12:01:45,140 [DEBUG] 19 GetCDR - CDR VMS update

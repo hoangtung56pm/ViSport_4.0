@@ -1,0 +1,30 @@
+2016-09-27 11:08:24,449 [DEBUG] 29 GetCDR - GPC Service_NameVMG_videongay_TerraMobile--Count user :838
+2016-09-27 11:08:24,454 [DEBUG] 29 GetCDR - CDR GPC update
+2016-09-27 11:08:48,538 [DEBUG] 29 GetCDR - VMS Service_NameCLIP_Terramobile--Count user :1321
+2016-09-27 11:08:49,217 [DEBUG] 29 GetCDR - VMS Service_NameVMG Clip PC_Terramobile--Count user :17
+2016-09-27 11:08:49,231 [DEBUG] 29 GetCDR - VMS Service_NameVMG Game hit HITS_Teramobile--Count user :0
+2016-09-27 11:08:49,243 [DEBUG] 29 GetCDR - VMS Service_NameVMG Ung dung APP_Teramobile--Count user :0
+2016-09-27 11:08:49,243 [DEBUG] 29 GetCDR - CDR VMS update
+2016-09-27 11:38:42,905 [DEBUG] 38 GetCDR - GPC Service_NameVMG_videongay_TerraMobile--Count user :498
+2016-09-27 11:38:42,905 [DEBUG] 38 GetCDR - CDR GPC update
+2016-09-27 11:39:07,034 [DEBUG] 38 GetCDR - VMS Service_NameCLIP_Terramobile--Count user :1304
+2016-09-27 11:39:07,717 [DEBUG] 38 GetCDR - VMS Service_NameVMG Clip PC_Terramobile--Count user :14
+2016-09-27 11:39:07,731 [DEBUG] 38 GetCDR - VMS Service_NameVMG Game hit HITS_Teramobile--Count user :0
+2016-09-27 11:39:07,744 [DEBUG] 38 GetCDR - VMS Service_NameVMG Ung dung APP_Teramobile--Count user :0
+2016-09-27 11:39:07,744 [DEBUG] 38 GetCDR - CDR VMS update
+2016-09-27 16:38:09,639 [DEBUG] 7 GetCDR - GPC Service_NameVMG_VideoClipVU_Macromac--Count user :295
+2016-09-27 16:38:27,031 [DEBUG] 7 GetCDR - GPC Service_NameVMG_VideoClipVL_Macromac--Count user :1150
+2016-09-27 16:38:27,031 [DEBUG] 7 GetCDR - CDR GPC update
+2016-09-27 16:38:27,445 [DEBUG] 7 GetCDR - VMS Service_NameDownload Clip_Marcomac--Count user :0
+2016-09-27 16:38:27,760 [DEBUG] 7 GetCDR - VMS Service_NameDownload Game_Marcomac--Count user :7
+2016-09-27 16:38:37,776 [DEBUG] 7 GetCDR - VMS Service_NameVMG Video Clip VU_Macromac--Count user :607
+2016-09-27 16:39:09,792 [DEBUG] 7 GetCDR - VMS Service_NameVMG Video Clip VL_Macromac--Count user :2099
+2016-09-27 16:39:09,941 [DEBUG] 7 GetCDR - VMS Service_NameVMG Ringtone--Count user :2
+2016-09-27 16:39:09,941 [DEBUG] 7 GetCDR - CDR VMS update
+2016-09-27 16:40:37,979 [DEBUG] 17 GetCDR - GPC Service_NameVMG_videongay_TerraMobile--Count user :535
+2016-09-27 16:40:37,979 [DEBUG] 17 GetCDR - CDR GPC update
+2016-09-27 16:41:03,831 [DEBUG] 17 GetCDR - VMS Service_NameCLIP_Terramobile--Count user :1516
+2016-09-27 16:41:04,680 [DEBUG] 17 GetCDR - VMS Service_NameVMG Clip PC_Terramobile--Count user :18
+2016-09-27 16:41:04,692 [DEBUG] 17 GetCDR - VMS Service_NameVMG Game hit HITS_Teramobile--Count user :0
+2016-09-27 16:41:04,704 [DEBUG] 17 GetCDR - VMS Service_NameVMG Ung dung APP_Teramobile--Count user :0
+2016-09-27 16:41:04,704 [DEBUG] 17 GetCDR - CDR VMS update

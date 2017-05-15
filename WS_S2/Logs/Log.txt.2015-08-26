@@ -1,0 +1,89 @@
+2015-08-26 11:16:57,295 [DEBUG] 9 ZaloController -  
+2015-08-26 11:16:57,774 [DEBUG] 9 ZaloController -  
+2015-08-26 11:17:04,380 [DEBUG] 9 ZaloController - --------------- Zalo CALL API Error ----------------------
+2015-08-26 11:17:08,000 [DEBUG] 9 ZaloController - Zalo API Err : -215
+2015-08-26 11:17:08,678 [DEBUG] 9 ZaloController - Zalo API Mes : Page not register this Api.
+2015-08-26 11:17:09,318 [DEBUG] 9 ZaloController -  
+2015-08-26 11:17:10,803 [DEBUG] 9 ZaloController -  
+2015-08-26 11:26:15,648 [DEBUG] 9 ZaloController -  
+2015-08-26 11:26:15,864 [DEBUG] 9 ZaloController -  
+2015-08-26 11:26:16,069 [DEBUG] 9 ZaloController - --------------- Zalo CALL API Error ----------------------
+2015-08-26 11:26:16,255 [DEBUG] 9 ZaloController - Zalo API Err : -215
+2015-08-26 11:26:16,930 [DEBUG] 9 ZaloController - Zalo API Mes : Page not register this Api.
+2015-08-26 11:26:16,930 [DEBUG] 9 ZaloController -  
+2015-08-26 11:26:16,930 [DEBUG] 9 ZaloController -  
+2015-08-26 11:40:30,204 [DEBUG] 9 ZaloMoProcess -  
+2015-08-26 11:40:30,204 [DEBUG] 9 ZaloMoProcess -  
+2015-08-26 11:40:30,204 [DEBUG] 9 ZaloMoProcess - -------------------- Zalo Events Exception -------------------------
+2015-08-26 11:40:30,592 [DEBUG] 9 ZaloMoProcess - Exception: System.Threading.SemaphoreFullException: Adding the specified count to the semaphore would cause it to exceed its maximum count.
+   at System.Threading.Semaphore.Release(Int32 releaseCount)
+   at System.Data.ProviderBase.DbConnectionPool.PutNewObject(DbConnectionInternal obj)
+   at System.Data.ProviderBase.DbConnectionPool.DeactivateObject(DbConnectionInternal obj)
+   at System.Data.ProviderBase.DbConnectionPool.PutObject(DbConnectionInternal obj, Object owningObject)
+   at System.Data.ProviderBase.DbConnectionInternal.CloseConnection(DbConnection owningObject, DbConnectionFactory connectionFactory)
+   at System.Data.SqlClient.SqlConnection.CloseInnerConnection()
+   at System.Data.SqlClient.SqlConnection.Close()
+   at System.Data.SqlClient.SqlConnection.Dispose(Boolean disposing)
+   at System.ComponentModel.Component.Dispose()
+   at Microsoft.ApplicationBlocks.Data.SqlHelper.ExecuteDataset(String connectionString, CommandType commandType, String commandText, SqlParameter[] commandParameters)
+   at Microsoft.ApplicationBlocks.Data.SqlHelper.ExecuteDataset(String connectionString, String spName, Object[] parameterValues)
+   at ZaloController.ZaloGetServiceInfo(String code) in e:\Minh_Works\Wap\WIN_SERVICE\ViSport_4.0\WS_S2\App_Code\Zalo_Registered\ZaloController.cs:line 37
+   at ZaloMoProcess.SendMessageViaZaloApi(String userId, String message) in e:\Minh_Works\Wap\WIN_SERVICE\ViSport_4.0\WS_S2\App_Code\ZaloMoProcess.cs:line 533
+2015-08-26 11:40:30,592 [DEBUG] 9 ZaloMoProcess -  
+2015-08-26 11:40:30,592 [DEBUG] 9 ZaloMoProcess -  
+2015-08-26 11:40:30,679 [DEBUG] 9 ZaloController -  
+2015-08-26 11:40:30,679 [DEBUG] 9 ZaloController -  
+2015-08-26 11:40:30,679 [DEBUG] 9 ZaloController - --------------- Zalo CALL API RESULT ----------------------
+2015-08-26 11:40:30,679 [DEBUG] 9 ZaloController - Zalo API RESULT Err : 0
+2015-08-26 11:40:30,679 [DEBUG] 9 ZaloController - Zalo API RESULT Id : 84fa18c17d05b95be014
+2015-08-26 11:40:30,679 [DEBUG] 9 ZaloController -  
+2015-08-26 11:40:30,679 [DEBUG] 9 ZaloController -  
+2015-08-26 11:40:30,755 [DEBUG] 9 ZaloController -  
+2015-08-26 11:40:30,755 [DEBUG] 9 ZaloController -  
+2015-08-26 11:40:30,755 [DEBUG] 9 ZaloController - --------------- Zalo CALL API RESULT ----------------------
+2015-08-26 11:40:30,755 [DEBUG] 9 ZaloController - Zalo API RESULT Err : 0
+2015-08-26 11:40:30,755 [DEBUG] 9 ZaloController - Zalo API RESULT Id : 5aced9f1bc35786b2124
+2015-08-26 11:40:30,755 [DEBUG] 9 ZaloController -  
+2015-08-26 11:40:30,755 [DEBUG] 9 ZaloController -  
+2015-08-26 11:40:30,826 [DEBUG] 9 ZaloController -  
+2015-08-26 11:40:30,827 [DEBUG] 9 ZaloController -  
+2015-08-26 11:40:30,827 [DEBUG] 9 ZaloController - --------------- Zalo CALL API RESULT ----------------------
+2015-08-26 11:40:30,827 [DEBUG] 9 ZaloController - Zalo API RESULT Err : 0
+2015-08-26 11:40:30,827 [DEBUG] 9 ZaloController - Zalo API RESULT Id : 0315822be7ef23b17afe
+2015-08-26 11:40:30,827 [DEBUG] 9 ZaloController -  
+2015-08-26 11:40:30,827 [DEBUG] 9 ZaloController -  
+2015-08-26 11:40:30,897 [DEBUG] 9 ZaloController -  
+2015-08-26 11:40:30,897 [DEBUG] 9 ZaloController -  
+2015-08-26 11:40:30,897 [DEBUG] 9 ZaloController - --------------- Zalo CALL API RESULT ----------------------
+2015-08-26 11:40:30,897 [DEBUG] 9 ZaloController - Zalo API RESULT Err : 0
+2015-08-26 11:40:30,897 [DEBUG] 9 ZaloController - Zalo API RESULT Id : 0f7dcb41ae856adb3394
+2015-08-26 11:40:30,897 [DEBUG] 9 ZaloController -  
+2015-08-26 11:40:30,898 [DEBUG] 9 ZaloController -  
+2015-08-26 11:47:02,760 [DEBUG] 9 ZaloController -  
+2015-08-26 11:47:02,767 [DEBUG] 9 ZaloController -  
+2015-08-26 11:47:02,767 [DEBUG] 9 ZaloController - --------------- Zalo CALL API RESULT ----------------------
+2015-08-26 11:47:02,767 [DEBUG] 9 ZaloController - Zalo API RESULT Err : 0
+2015-08-26 11:47:02,768 [DEBUG] 9 ZaloController - Zalo API RESULT Id : 6a7bda736bb7afe9f6a6
+2015-08-26 11:47:02,768 [DEBUG] 9 ZaloController -  
+2015-08-26 11:47:02,768 [DEBUG] 9 ZaloController -  
+2015-08-26 11:47:02,834 [DEBUG] 9 ZaloController -  
+2015-08-26 11:47:02,834 [DEBUG] 9 ZaloController -  
+2015-08-26 11:47:02,834 [DEBUG] 9 ZaloController - --------------- Zalo CALL API RESULT ----------------------
+2015-08-26 11:47:02,834 [DEBUG] 9 ZaloController - Zalo API RESULT Err : 0
+2015-08-26 11:47:02,834 [DEBUG] 9 ZaloController - Zalo API RESULT Id : 78d362dfd31b17454e0a
+2015-08-26 11:47:02,834 [DEBUG] 9 ZaloController -  
+2015-08-26 11:47:02,834 [DEBUG] 9 ZaloController -  
+2015-08-26 11:47:02,904 [DEBUG] 9 ZaloController -  
+2015-08-26 11:47:02,904 [DEBUG] 9 ZaloController -  
+2015-08-26 11:47:02,904 [DEBUG] 9 ZaloController - --------------- Zalo CALL API RESULT ----------------------
+2015-08-26 11:47:02,904 [DEBUG] 9 ZaloController - Zalo API RESULT Err : 0
+2015-08-26 11:47:02,904 [DEBUG] 9 ZaloController - Zalo API RESULT Id : 92097c0bcdcf099150de
+2015-08-26 11:47:02,904 [DEBUG] 9 ZaloController -  
+2015-08-26 11:47:02,904 [DEBUG] 9 ZaloController -  
+2015-08-26 11:47:02,986 [DEBUG] 9 ZaloController -  
+2015-08-26 11:47:02,986 [DEBUG] 9 ZaloController -  
+2015-08-26 11:47:02,986 [DEBUG] 9 ZaloController - --------------- Zalo CALL API RESULT ----------------------
+2015-08-26 11:47:02,986 [DEBUG] 9 ZaloController - Zalo API RESULT Err : 0
+2015-08-26 11:47:02,986 [DEBUG] 9 ZaloController - Zalo API RESULT Id : db0f7008c1cc05925cdd
+2015-08-26 11:47:02,986 [DEBUG] 9 ZaloController -  
+2015-08-26 11:47:02,986 [DEBUG] 9 ZaloController -  

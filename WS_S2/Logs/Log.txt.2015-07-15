@@ -1,0 +1,127 @@
+2015-07-15 09:15:17,404 [DEBUG] 9 ApiZaloCallForSendZms -  
+2015-07-15 09:15:17,412 [DEBUG] 9 ApiZaloCallForSendZms -  
+2015-07-15 09:15:17,412 [DEBUG] 9 ApiZaloCallForSendZms - --------------- Zalo CALL API Error ----------------------
+2015-07-15 09:15:17,412 [DEBUG] 9 ApiZaloCallForSendZms - Zalo API Err : -20109
+2015-07-15 09:15:17,412 [DEBUG] 9 ApiZaloCallForSendZms - Zalo API Mes : User doesn't follow this page
+2015-07-15 09:15:17,412 [DEBUG] 9 ApiZaloCallForSendZms -  
+2015-07-15 09:15:17,412 [DEBUG] 9 ApiZaloCallForSendZms -  
+2015-07-15 09:17:36,014 [DEBUG] 5 ApiZaloCallForSendZms -  
+2015-07-15 09:17:36,341 [DEBUG] 5 ApiZaloCallForSendZms -  
+2015-07-15 09:17:36,638 [DEBUG] 5 ApiZaloCallForSendZms - --------------- Zalo CALL API RESULT ----------------------
+2015-07-15 09:17:36,901 [DEBUG] 5 ApiZaloCallForSendZms - Zalo API RESULT Err : 0
+2015-07-15 09:17:37,174 [DEBUG] 5 ApiZaloCallForSendZms - Zalo API RESULT Id : 95ff4209bc437d1d2452
+2015-07-15 09:17:37,494 [DEBUG] 5 ApiZaloCallForSendZms -  
+2015-07-15 09:17:38,211 [DEBUG] 5 ApiZaloCallForSendZms -  
+2015-07-15 17:07:54,778 [ERROR] 25 ZaloXoSo - Zalo KETQUA XoSo Error : System.ArgumentException: Column 'Command_Code' does not belong to table Table.
+   at System.Data.DataRow.GetDataColumn(String columnName)
+   at System.Data.DataRow.get_Item(String columnName)
+   at ZaloXoSo.Execute(Int32 jobID) in e:\Minh_Works\Wap\WIN_SERVICE\ViSport_4.0\WS_S2\App_Code\ZaloXoSo.cs:line 37
+2015-07-15 17:11:17,916 [ERROR] 25 ZaloXoSo - Zalo KETQUA XoSo Error : System.ArgumentException: Column 'Command_Code' does not belong to table Table.
+   at System.Data.DataRow.GetDataColumn(String columnName)
+   at System.Data.DataRow.get_Item(String columnName)
+   at ZaloXoSo.Execute(Int32 jobID) in e:\Minh_Works\Wap\WIN_SERVICE\ViSport_4.0\WS_S2\App_Code\ZaloXoSo.cs:line 37
+2015-07-15 17:13:28,177 [DEBUG] 26 ZaloController -  
+2015-07-15 17:13:28,177 [DEBUG] 26 ZaloController -  
+2015-07-15 17:13:28,177 [DEBUG] 26 ZaloController - --------------- Zalo CALL API Error ----------------------
+2015-07-15 17:13:28,177 [DEBUG] 26 ZaloController - Zalo API Err : -246
+2015-07-15 17:13:28,177 [DEBUG] 26 ZaloController - Zalo API Mes : Phone number is not exist.
+2015-07-15 17:13:28,177 [DEBUG] 26 ZaloController -  
+2015-07-15 17:13:28,177 [DEBUG] 26 ZaloController -  
+2015-07-15 17:13:38,732 [DEBUG] 26 ZaloController -  
+2015-07-15 17:13:38,732 [DEBUG] 26 ZaloController -  
+2015-07-15 17:13:38,732 [DEBUG] 26 ZaloController - --------------- Zalo CALL API Error ----------------------
+2015-07-15 17:13:38,732 [DEBUG] 26 ZaloController - Zalo API Err : -246
+2015-07-15 17:13:38,732 [DEBUG] 26 ZaloController - Zalo API Mes : Phone number is not exist.
+2015-07-15 17:13:38,732 [DEBUG] 26 ZaloController -  
+2015-07-15 17:13:38,732 [DEBUG] 26 ZaloController -  
+2015-07-15 17:13:44,539 [DEBUG] 26 ZaloController -  
+2015-07-15 17:13:44,539 [DEBUG] 26 ZaloController -  
+2015-07-15 17:13:44,539 [DEBUG] 26 ZaloController - --------------- Zalo CALL API Error ----------------------
+2015-07-15 17:13:44,539 [DEBUG] 26 ZaloController - Zalo API Err : -246
+2015-07-15 17:13:44,539 [DEBUG] 26 ZaloController - Zalo API Mes : Phone number is not exist.
+2015-07-15 17:13:44,539 [DEBUG] 26 ZaloController -  
+2015-07-15 17:13:44,539 [DEBUG] 26 ZaloController -  
+2015-07-15 17:13:49,431 [DEBUG] 26 ZaloController -  
+2015-07-15 17:13:49,431 [DEBUG] 26 ZaloController -  
+2015-07-15 17:13:49,431 [DEBUG] 26 ZaloController - --------------- Zalo CALL API RESULT ----------------------
+2015-07-15 17:13:49,431 [DEBUG] 26 ZaloController - Zalo API RESULT Err : 0
+2015-07-15 17:13:49,431 [DEBUG] 26 ZaloController - Zalo API RESULT Id : fa86c8058d5a4c04154b
+2015-07-15 17:13:49,431 [DEBUG] 26 ZaloController -  
+2015-07-15 17:13:49,431 [DEBUG] 26 ZaloController -  
+2015-07-15 17:13:56,573 [DEBUG] 26 ZaloController -  
+2015-07-15 17:13:56,573 [DEBUG] 26 ZaloController -  
+2015-07-15 17:13:56,573 [DEBUG] 26 ZaloController - --------------- Zalo CALL API RESULT ----------------------
+2015-07-15 17:13:56,573 [DEBUG] 26 ZaloController - Zalo API RESULT Err : 0
+2015-07-15 17:13:56,574 [DEBUG] 26 ZaloController - Zalo API RESULT Id : 60bfa748e11720497906
+2015-07-15 17:13:56,574 [DEBUG] 26 ZaloController -  
+2015-07-15 17:13:56,574 [DEBUG] 26 ZaloController -  
+2015-07-15 17:14:05,457 [DEBUG] 26 ZaloController -  
+2015-07-15 17:14:05,457 [DEBUG] 26 ZaloController -  
+2015-07-15 17:14:05,457 [DEBUG] 26 ZaloController - --------------- Zalo CALL API Error ----------------------
+2015-07-15 17:14:05,457 [DEBUG] 26 ZaloController - Zalo API Err : -246
+2015-07-15 17:14:05,457 [DEBUG] 26 ZaloController - Zalo API Mes : Phone number is not exist.
+2015-07-15 17:14:05,457 [DEBUG] 26 ZaloController -  
+2015-07-15 17:14:05,457 [DEBUG] 26 ZaloController -  
+2015-07-15 17:14:10,439 [DEBUG] 26 ZaloController -  
+2015-07-15 17:14:10,439 [DEBUG] 26 ZaloController -  
+2015-07-15 17:14:10,439 [DEBUG] 26 ZaloController - --------------- Zalo CALL API Error ----------------------
+2015-07-15 17:14:10,439 [DEBUG] 26 ZaloController - Zalo API Err : -246
+2015-07-15 17:14:10,439 [DEBUG] 26 ZaloController - Zalo API Mes : Phone number is not exist.
+2015-07-15 17:14:10,439 [DEBUG] 26 ZaloController -  
+2015-07-15 17:14:10,439 [DEBUG] 26 ZaloController -  
+2015-07-15 17:14:15,332 [DEBUG] 26 ZaloController -  
+2015-07-15 17:14:15,332 [DEBUG] 26 ZaloController -  
+2015-07-15 17:14:15,332 [DEBUG] 26 ZaloController - --------------- Zalo CALL API Error ----------------------
+2015-07-15 17:14:15,332 [DEBUG] 26 ZaloController - Zalo API Err : -246
+2015-07-15 17:14:15,332 [DEBUG] 26 ZaloController - Zalo API Mes : Phone number is not exist.
+2015-07-15 17:14:15,332 [DEBUG] 26 ZaloController -  
+2015-07-15 17:14:15,332 [DEBUG] 26 ZaloController -  
+2015-07-15 17:14:19,497 [DEBUG] 26 ZaloController -  
+2015-07-15 17:14:19,497 [DEBUG] 26 ZaloController -  
+2015-07-15 17:14:19,497 [DEBUG] 26 ZaloController - --------------- Zalo CALL API RESULT ----------------------
+2015-07-15 17:14:19,497 [DEBUG] 26 ZaloController - Zalo API RESULT Err : 0
+2015-07-15 17:14:19,497 [DEBUG] 26 ZaloController - Zalo API RESULT Id : a833f51cb243731d2a52
+2015-07-15 17:14:19,497 [DEBUG] 26 ZaloController -  
+2015-07-15 17:14:19,497 [DEBUG] 26 ZaloController -  
+2015-07-15 17:14:19,605 [DEBUG] 26 ZaloController -  
+2015-07-15 17:14:19,605 [DEBUG] 26 ZaloController -  
+2015-07-15 17:14:19,605 [DEBUG] 26 ZaloController - --------------- Zalo CALL API RESULT ----------------------
+2015-07-15 17:14:19,605 [DEBUG] 26 ZaloController - Zalo API RESULT Err : 0
+2015-07-15 17:14:19,605 [DEBUG] 26 ZaloController - Zalo API RESULT Id : bc0b6c192b46ea18b357
+2015-07-15 17:14:19,605 [DEBUG] 26 ZaloController -  
+2015-07-15 17:14:19,605 [DEBUG] 26 ZaloController -  
+2015-07-15 17:14:19,707 [DEBUG] 26 ZaloController -  
+2015-07-15 17:14:19,707 [DEBUG] 26 ZaloController -  
+2015-07-15 17:14:19,707 [DEBUG] 26 ZaloController - --------------- Zalo CALL API Error ----------------------
+2015-07-15 17:14:19,707 [DEBUG] 26 ZaloController - Zalo API Err : -246
+2015-07-15 17:14:19,707 [DEBUG] 26 ZaloController - Zalo API Mes : Phone number is not exist.
+2015-07-15 17:14:19,707 [DEBUG] 26 ZaloController -  
+2015-07-15 17:14:19,707 [DEBUG] 26 ZaloController -  
+2015-07-15 17:14:19,791 [DEBUG] 26 ZaloController -  
+2015-07-15 17:14:19,791 [DEBUG] 26 ZaloController -  
+2015-07-15 17:14:19,791 [DEBUG] 26 ZaloController - --------------- Zalo CALL API Error ----------------------
+2015-07-15 17:14:19,791 [DEBUG] 26 ZaloController - Zalo API Err : -246
+2015-07-15 17:14:19,791 [DEBUG] 26 ZaloController - Zalo API Mes : Phone number is not exist.
+2015-07-15 17:14:19,791 [DEBUG] 26 ZaloController -  
+2015-07-15 17:14:19,791 [DEBUG] 26 ZaloController -  
+2015-07-15 17:14:20,121 [DEBUG] 26 ZaloController -  
+2015-07-15 17:14:20,121 [DEBUG] 26 ZaloController -  
+2015-07-15 17:14:20,121 [DEBUG] 26 ZaloController - --------------- Zalo CALL API Error ----------------------
+2015-07-15 17:14:20,121 [DEBUG] 26 ZaloController - Zalo API Err : -246
+2015-07-15 17:14:20,121 [DEBUG] 26 ZaloController - Zalo API Mes : Phone number is not exist.
+2015-07-15 17:14:20,122 [DEBUG] 26 ZaloController -  
+2015-07-15 17:14:20,122 [DEBUG] 26 ZaloController -  
+2015-07-15 17:14:20,250 [DEBUG] 26 ZaloController -  
+2015-07-15 17:14:20,250 [DEBUG] 26 ZaloController -  
+2015-07-15 17:14:20,250 [DEBUG] 26 ZaloController - --------------- Zalo CALL API RESULT ----------------------
+2015-07-15 17:14:20,250 [DEBUG] 26 ZaloController - Zalo API RESULT Err : 0
+2015-07-15 17:14:20,250 [DEBUG] 26 ZaloController - Zalo API RESULT Id : dc16f008b75776092f46
+2015-07-15 17:14:20,250 [DEBUG] 26 ZaloController -  
+2015-07-15 17:14:20,250 [DEBUG] 26 ZaloController -  
+2015-07-15 17:14:20,353 [DEBUG] 26 ZaloController -  
+2015-07-15 17:14:20,353 [DEBUG] 26 ZaloController -  
+2015-07-15 17:14:20,353 [DEBUG] 26 ZaloController - --------------- Zalo CALL API RESULT ----------------------
+2015-07-15 17:14:20,353 [DEBUG] 26 ZaloController - Zalo API RESULT Err : 0
+2015-07-15 17:14:20,353 [DEBUG] 26 ZaloController - Zalo API RESULT Id : f1f670f437abf6f5afba
+2015-07-15 17:14:20,353 [DEBUG] 26 ZaloController -  
+2015-07-15 17:14:20,353 [DEBUG] 26 ZaloController -  

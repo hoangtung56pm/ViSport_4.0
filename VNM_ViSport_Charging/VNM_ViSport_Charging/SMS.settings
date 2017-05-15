@@ -1,0 +1,57 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="VNM_ViSport_Charging" GeneratedClassName="SMS">
+  <Profiles />
+  <Settings>
+    <Setting Name="RetryTimes" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">2</Value>
+    </Setting>
+    <Setting Name="SendMTThreadTimeLoop" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">50</Value>
+    </Setting>
+    <Setting Name="SendMTFromQueLoop" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">10</Value>
+    </Setting>
+    <Setting Name="cnn" Type="System.String" Scope="User">
+      <Value Profile="(Default)">server=123.29.68.139;database=TTND;uid=ttndacc;pwd=Swe8234Ue3ND</Value>
+    </Setting>
+    <Setting Name="isSendToGateway" Type="System.String" Scope="User">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+    <Setting Name="ConcurentThread" Type="System.String" Scope="User">
+      <Value Profile="(Default)">50</Value>
+    </Setting>
+    <Setting Name="MaxThread" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">55</Value>
+    </Setting>
+    <Setting Name="PriceSC" Type="System.String" Scope="User">
+      <Value Profile="(Default)">3000</Value>
+    </Setting>
+    <Setting Name="UserName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">VMGViSport</Value>
+    </Setting>
+    <Setting Name="Password" Type="System.String" Scope="User">
+      <Value Profile="(Default)">v@#port</Value>
+    </Setting>
+    <Setting Name="CpID" Type="System.String" Scope="User">
+      <Value Profile="(Default)">1930</Value>
+    </Setting>
+    <Setting Name="PriceSM" Type="System.String" Scope="User">
+      <Value Profile="(Default)">3000</Value>
+    </Setting>
+    <Setting Name="IsTest" Type="System.String" Scope="User">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+    <Setting Name="FailCharge" Type="System.String" Scope="User">
+      <Value Profile="(Default)">172</Value>
+    </Setting>
+    <Setting Name="Message" Type="System.String" Scope="User">
+      <Value Profile="(Default)">(092) Chuc mung! Quy khach da gia han thanh cong DV viSportSMS cua Vietnamobile . Truy cap ngay http://viSport.vn de su dung dich vu. Cuoc phi ( 3000d/ 07 ngay) De huy DK, soan: SM OFF gui 979. HT: 19001255</Value>
+    </Setting>
+    <Setting Name="MessageSC" Type="System.String" Scope="User">
+      <Value Profile="(Default)">(092) Chuc mung! Quy khach da gia han thanh cong DV viSport cua Vietnamobile . Truy cap ngay http://viSport.vn de su dung dich vu. Cuoc phi ( 3000d/ 07 ngay) De huy DK, soan: SC OFF gui 979. HT: 19001255</Value>
+    </Setting>
+    <Setting Name="ProccessTimeLoop" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">3600000</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

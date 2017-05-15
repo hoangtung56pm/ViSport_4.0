@@ -1,0 +1,180 @@
+2013-09-19 15:39:12,717 [DEBUG] 4 File -  
+2013-09-19 15:39:13,124 [DEBUG] 4 File -  
+2013-09-19 15:39:13,483 [DEBUG] 4 File - --------------------VOTE OTHER TELCO-------------------------
+2013-09-19 15:39:13,858 [DEBUG] 4 File - User_ID: 84987765522
+2013-09-19 15:39:14,436 [DEBUG] 4 File - Service_ID: 8279
+2013-09-19 15:39:14,780 [DEBUG] 4 File - Command_Code: vote1
+2013-09-19 15:39:15,108 [DEBUG] 4 File - Message: VOTE1
+2013-09-19 15:39:15,467 [DEBUG] 4 File - Request_ID: 0
+2013-09-19 15:39:15,749 [DEBUG] 4 File -  
+2013-09-19 15:39:16,686 [DEBUG] 4 File -  
+2013-09-19 15:42:24,250 [DEBUG] 9 File -  
+2013-09-19 15:42:24,422 [DEBUG] 9 File -  
+2013-09-19 15:42:24,625 [DEBUG] 9 File - --------------------VOTE OTHER TELCO-------------------------
+2013-09-19 15:42:24,718 [DEBUG] 9 File - User_ID: 84987765522
+2013-09-19 15:42:25,078 [DEBUG] 9 File - Service_ID: 8279
+2013-09-19 15:42:25,281 [DEBUG] 9 File - Command_Code: vote1
+2013-09-19 15:42:25,468 [DEBUG] 9 File - Message: VOTE1
+2013-09-19 15:42:25,672 [DEBUG] 9 File - Request_ID: 0
+2013-09-19 15:42:25,828 [DEBUG] 9 File -  
+2013-09-19 15:42:26,031 [DEBUG] 9 File -  
+2013-09-19 15:43:42,625 [DEBUG] 5 File -  
+2013-09-19 15:43:42,813 [DEBUG] 5 File -  
+2013-09-19 15:43:42,985 [DEBUG] 5 File - --------------------VOTE OTHER TELCO-------------------------
+2013-09-19 15:43:43,172 [DEBUG] 5 File - User_ID: 84987765522
+2013-09-19 15:43:43,344 [DEBUG] 5 File - Service_ID: 8279
+2013-09-19 15:43:43,547 [DEBUG] 5 File - Command_Code: gach2
+2013-09-19 15:43:43,750 [DEBUG] 5 File - Message: GACH2
+2013-09-19 15:43:43,969 [DEBUG] 5 File - Request_ID: 0
+2013-09-19 15:43:44,188 [DEBUG] 5 File -  
+2013-09-19 15:43:44,531 [DEBUG] 5 File -  
+2013-09-19 15:45:26,376 [DEBUG] 4 File -  
+2013-09-19 15:45:26,376 [DEBUG] 4 File -  
+2013-09-19 15:45:26,376 [DEBUG] 4 File - --------------------VOTE OTHER TELCO-------------------------
+2013-09-19 15:45:26,376 [DEBUG] 4 File - User_ID: 84987765522
+2013-09-19 15:45:26,376 [DEBUG] 4 File - Service_ID: 8279
+2013-09-19 15:45:26,376 [DEBUG] 4 File - Command_Code: gach2
+2013-09-19 15:45:26,376 [DEBUG] 4 File - Message: GACH2
+2013-09-19 15:45:26,376 [DEBUG] 4 File - Request_ID: 0
+2013-09-19 15:45:26,376 [DEBUG] 4 File -  
+2013-09-19 15:45:26,376 [DEBUG] 4 File -  
+2013-09-19 15:48:30,955 [DEBUG] 4 File -  
+2013-09-19 15:48:30,955 [DEBUG] 4 File -  
+2013-09-19 15:48:30,955 [DEBUG] 4 File - --------------------VOTE OTHER TELCO-------------------------
+2013-09-19 15:48:30,955 [DEBUG] 4 File - User_ID: 84987765522
+2013-09-19 15:48:30,955 [DEBUG] 4 File - Service_ID: 8279
+2013-09-19 15:48:30,955 [DEBUG] 4 File - Command_Code: gach1
+2013-09-19 15:48:30,955 [DEBUG] 4 File - Message: GACH1
+2013-09-19 15:48:30,955 [DEBUG] 4 File - Request_ID: 0
+2013-09-19 15:48:30,955 [DEBUG] 4 File -  
+2013-09-19 15:48:30,955 [DEBUG] 4 File -  
+2013-09-19 15:50:21,472 [DEBUG] 4 File -  
+2013-09-19 15:50:21,472 [DEBUG] 4 File -  
+2013-09-19 15:50:21,472 [DEBUG] 4 File - --------------------VOTE OTHER TELCO-------------------------
+2013-09-19 15:50:21,472 [DEBUG] 4 File - User_ID: 84987765523
+2013-09-19 15:50:21,472 [DEBUG] 4 File - Service_ID: 8279
+2013-09-19 15:50:21,472 [DEBUG] 4 File - Command_Code: gach1
+2013-09-19 15:50:21,472 [DEBUG] 4 File - Message: GACH1
+2013-09-19 15:50:21,472 [DEBUG] 4 File - Request_ID: 0
+2013-09-19 15:50:21,472 [DEBUG] 4 File -  
+2013-09-19 15:50:21,472 [DEBUG] 4 File -  
+2013-09-19 15:55:00,333 [DEBUG] 4 File -  
+2013-09-19 15:55:00,333 [DEBUG] 4 File -  
+2013-09-19 15:55:00,333 [DEBUG] 4 File - --------------------VOTE OTHER TELCO-------------------------
+2013-09-19 15:55:00,333 [DEBUG] 4 File - User_ID: 84973080768
+2013-09-19 15:55:00,333 [DEBUG] 4 File - Service_ID: 8279
+2013-09-19 15:55:00,333 [DEBUG] 4 File - Command_Code: gach1
+2013-09-19 15:55:00,333 [DEBUG] 4 File - Message: GACH1
+2013-09-19 15:55:00,333 [DEBUG] 4 File - Request_ID: 0
+2013-09-19 15:55:00,333 [DEBUG] 4 File -  
+2013-09-19 15:55:00,333 [DEBUG] 4 File -  
+2013-09-19 15:56:52,396 [DEBUG] 5 File -  
+2013-09-19 15:56:52,396 [DEBUG] 5 File -  
+2013-09-19 15:56:52,396 [DEBUG] 5 File - --------------------VOTE OTHER TELCO-------------------------
+2013-09-19 15:56:52,396 [DEBUG] 5 File - User_ID: 84973080768
+2013-09-19 15:56:52,396 [DEBUG] 5 File - Service_ID: 8279
+2013-09-19 15:56:52,396 [DEBUG] 5 File - Command_Code: gach1
+2013-09-19 15:56:52,396 [DEBUG] 5 File - Message: GACH1
+2013-09-19 15:56:52,396 [DEBUG] 5 File - Request_ID: 0
+2013-09-19 15:56:52,396 [DEBUG] 5 File -  
+2013-09-19 15:56:52,396 [DEBUG] 5 File -  
+2013-09-19 15:56:58,458 [DEBUG] 4 File -  
+2013-09-19 15:56:58,458 [DEBUG] 4 File -  
+2013-09-19 15:56:58,458 [DEBUG] 4 File - --------------------VOTE OTHER TELCO-------------------------
+2013-09-19 15:56:58,458 [DEBUG] 4 File - User_ID: 84973080768
+2013-09-19 15:56:58,458 [DEBUG] 4 File - Service_ID: 8279
+2013-09-19 15:56:58,458 [DEBUG] 4 File - Command_Code: gach1
+2013-09-19 15:56:58,458 [DEBUG] 4 File - Message: GACH1
+2013-09-19 15:56:58,458 [DEBUG] 4 File - Request_ID: 0
+2013-09-19 15:56:58,458 [DEBUG] 4 File -  
+2013-09-19 15:56:58,458 [DEBUG] 4 File -  
+2013-09-19 15:57:02,755 [DEBUG] 9 File -  
+2013-09-19 15:57:02,755 [DEBUG] 9 File -  
+2013-09-19 15:57:02,755 [DEBUG] 9 File - --------------------VOTE OTHER TELCO-------------------------
+2013-09-19 15:57:02,755 [DEBUG] 9 File - User_ID: 84973080768
+2013-09-19 15:57:02,755 [DEBUG] 9 File - Service_ID: 8279
+2013-09-19 15:57:02,755 [DEBUG] 9 File - Command_Code: gach1
+2013-09-19 15:57:02,755 [DEBUG] 9 File - Message: GACH1
+2013-09-19 15:57:02,755 [DEBUG] 9 File - Request_ID: 0
+2013-09-19 15:57:02,755 [DEBUG] 9 File -  
+2013-09-19 15:57:02,755 [DEBUG] 9 File -  
+2013-09-19 15:57:07,318 [DEBUG] 4 File -  
+2013-09-19 15:57:07,318 [DEBUG] 4 File -  
+2013-09-19 15:57:07,318 [DEBUG] 4 File - --------------------VOTE OTHER TELCO-------------------------
+2013-09-19 15:57:07,318 [DEBUG] 4 File - User_ID: 84973080768
+2013-09-19 15:57:07,318 [DEBUG] 4 File - Service_ID: 8279
+2013-09-19 15:57:07,318 [DEBUG] 4 File - Command_Code: gach1
+2013-09-19 15:57:07,318 [DEBUG] 4 File - Message: GACH1
+2013-09-19 15:57:07,318 [DEBUG] 4 File - Request_ID: 0
+2013-09-19 15:57:07,318 [DEBUG] 4 File -  
+2013-09-19 15:57:07,334 [DEBUG] 4 File -  
+2013-09-19 15:57:11,662 [DEBUG] 4 File -  
+2013-09-19 15:57:11,662 [DEBUG] 4 File -  
+2013-09-19 15:57:11,662 [DEBUG] 4 File - --------------------VOTE OTHER TELCO-------------------------
+2013-09-19 15:57:11,662 [DEBUG] 4 File - User_ID: 84973080768
+2013-09-19 15:57:11,662 [DEBUG] 4 File - Service_ID: 8279
+2013-09-19 15:57:11,662 [DEBUG] 4 File - Command_Code: gach1
+2013-09-19 15:57:11,662 [DEBUG] 4 File - Message: GACH1
+2013-09-19 15:57:11,662 [DEBUG] 4 File - Request_ID: 0
+2013-09-19 15:57:11,662 [DEBUG] 4 File -  
+2013-09-19 15:57:11,662 [DEBUG] 4 File -  
+2013-09-19 15:57:17,896 [DEBUG] 4 File -  
+2013-09-19 15:57:17,896 [DEBUG] 4 File -  
+2013-09-19 15:57:17,896 [DEBUG] 4 File - --------------------VOTE OTHER TELCO-------------------------
+2013-09-19 15:57:17,896 [DEBUG] 4 File - User_ID: 84973080768
+2013-09-19 15:57:17,896 [DEBUG] 4 File - Service_ID: 8279
+2013-09-19 15:57:17,896 [DEBUG] 4 File - Command_Code: gach1
+2013-09-19 15:57:17,896 [DEBUG] 4 File - Message: GACH1
+2013-09-19 15:57:17,896 [DEBUG] 4 File - Request_ID: 0
+2013-09-19 15:57:17,896 [DEBUG] 4 File -  
+2013-09-19 15:57:17,896 [DEBUG] 4 File -  
+2013-09-19 15:57:28,052 [DEBUG] 9 File -  
+2013-09-19 15:57:28,052 [DEBUG] 9 File -  
+2013-09-19 15:57:28,052 [DEBUG] 9 File - --------------------VOTE OTHER TELCO-------------------------
+2013-09-19 15:57:28,052 [DEBUG] 9 File - User_ID: 84973080768
+2013-09-19 15:57:28,052 [DEBUG] 9 File - Service_ID: 8279
+2013-09-19 15:57:28,052 [DEBUG] 9 File - Command_Code: gach1
+2013-09-19 15:57:28,052 [DEBUG] 9 File - Message: GACH1
+2013-09-19 15:57:28,052 [DEBUG] 9 File - Request_ID: 0
+2013-09-19 15:57:28,052 [DEBUG] 9 File -  
+2013-09-19 15:57:28,052 [DEBUG] 9 File -  
+2013-09-19 15:57:32,662 [DEBUG] 5 File -  
+2013-09-19 15:57:32,662 [DEBUG] 5 File -  
+2013-09-19 15:57:32,662 [DEBUG] 5 File - --------------------VOTE OTHER TELCO-------------------------
+2013-09-19 15:57:32,662 [DEBUG] 5 File - User_ID: 84973080768
+2013-09-19 15:57:32,662 [DEBUG] 5 File - Service_ID: 8279
+2013-09-19 15:57:32,662 [DEBUG] 5 File - Command_Code: gach1
+2013-09-19 15:57:32,662 [DEBUG] 5 File - Message: GACH1
+2013-09-19 15:57:32,662 [DEBUG] 5 File - Request_ID: 0
+2013-09-19 15:57:32,662 [DEBUG] 5 File -  
+2013-09-19 15:57:32,662 [DEBUG] 5 File -  
+2013-09-19 15:57:37,490 [DEBUG] 4 File -  
+2013-09-19 15:57:37,490 [DEBUG] 4 File -  
+2013-09-19 15:57:37,490 [DEBUG] 4 File - --------------------VOTE OTHER TELCO-------------------------
+2013-09-19 15:57:37,490 [DEBUG] 4 File - User_ID: 84973080768
+2013-09-19 15:57:37,490 [DEBUG] 4 File - Service_ID: 8279
+2013-09-19 15:57:37,490 [DEBUG] 4 File - Command_Code: gach1
+2013-09-19 15:57:37,490 [DEBUG] 4 File - Message: GACH1
+2013-09-19 15:57:37,490 [DEBUG] 4 File - Request_ID: 0
+2013-09-19 15:57:37,490 [DEBUG] 4 File -  
+2013-09-19 15:57:37,490 [DEBUG] 4 File -  
+2013-09-19 15:57:42,131 [DEBUG] 5 File -  
+2013-09-19 15:57:42,131 [DEBUG] 5 File -  
+2013-09-19 15:57:42,131 [DEBUG] 5 File - --------------------VOTE OTHER TELCO-------------------------
+2013-09-19 15:57:42,131 [DEBUG] 5 File - User_ID: 84973080768
+2013-09-19 15:57:42,131 [DEBUG] 5 File - Service_ID: 8279
+2013-09-19 15:57:42,131 [DEBUG] 5 File - Command_Code: gach1
+2013-09-19 15:57:42,131 [DEBUG] 5 File - Message: GACH1
+2013-09-19 15:57:42,131 [DEBUG] 5 File - Request_ID: 0
+2013-09-19 15:57:42,131 [DEBUG] 5 File -  
+2013-09-19 15:57:42,131 [DEBUG] 5 File -  
+2013-09-19 16:03:46,258 [DEBUG] 5 File -  
+2013-09-19 16:03:46,602 [DEBUG] 5 File -  
+2013-09-19 16:03:46,899 [DEBUG] 5 File - --------------------VOTE VNM-------------------------
+2013-09-19 16:03:47,164 [DEBUG] 5 File - User_ID: 84929004805
+2013-09-19 16:03:47,414 [DEBUG] 5 File - Service_ID: 8279
+2013-09-19 16:03:47,649 [DEBUG] 5 File - Command_Code: vote2
+2013-09-19 16:03:47,852 [DEBUG] 5 File - Message: VOTE2
+2013-09-19 16:03:48,086 [DEBUG] 5 File - Request_ID: 0
+2013-09-19 16:03:48,352 [DEBUG] 5 File -  
+2013-09-19 16:03:48,695 [DEBUG] 5 File -  

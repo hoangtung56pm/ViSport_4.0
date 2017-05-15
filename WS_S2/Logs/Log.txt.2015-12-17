@@ -1,0 +1,32 @@
+2015-12-17 16:20:46,375 [DEBUG] 7 File -  
+2015-12-17 16:20:46,393 [DEBUG] 7 File -  
+2015-12-17 16:20:46,393 [DEBUG] 7 File - -------------------- CAP SO THAN TAI -------------------------
+2015-12-17 16:20:46,393 [DEBUG] 7 File - User_ID: 841864950687
+2015-12-17 16:20:46,393 [DEBUG] 7 File - Service_ID: 949
+2015-12-17 16:20:46,393 [DEBUG] 7 File - Command_Code: DIEM
+2015-12-17 16:20:46,393 [DEBUG] 7 File - Message: DIEM
+2015-12-17 16:20:46,393 [DEBUG] 7 File - Request_ID: 0
+2015-12-17 16:20:46,393 [DEBUG] 7 File -  
+2015-12-17 16:20:46,393 [DEBUG] 7 File -  
+2015-12-17 16:20:47,832 [DEBUG] 7 File - Send MT result : 1
+2015-12-17 16:20:47,833 [DEBUG] 7 File - userId : 841864950687
+2015-12-17 16:20:47,833 [DEBUG] 7 File - Noi dung MT : Ban chua danh duoc diem nao. Co gang len nao.
+2015-12-17 16:20:47,833 [DEBUG] 7 File - ServiceId : 949
+2015-12-17 16:20:47,833 [DEBUG] 7 File - commandCode : DIEM
+2015-12-17 16:20:47,833 [DEBUG] 7 File - requestId : 0
+2015-12-17 16:36:03,237 [DEBUG] 26 File -  
+2015-12-17 16:36:03,243 [DEBUG] 26 File -  
+2015-12-17 16:36:03,243 [DEBUG] 26 File - -------------------- CAP SO THAN TAI -------------------------
+2015-12-17 16:36:03,243 [DEBUG] 26 File - User_ID: 841864950687
+2015-12-17 16:36:03,243 [DEBUG] 26 File - Service_ID: 949
+2015-12-17 16:36:03,243 [DEBUG] 26 File - Command_Code: DIEM
+2015-12-17 16:36:03,243 [DEBUG] 26 File - Message: DIEM
+2015-12-17 16:36:03,243 [DEBUG] 26 File - Request_ID: 0
+2015-12-17 16:36:03,243 [DEBUG] 26 File -  
+2015-12-17 16:36:03,244 [DEBUG] 26 File -  
+2015-12-17 16:36:04,469 [DEBUG] 26 File - Send MT result : 1
+2015-12-17 16:36:04,470 [DEBUG] 26 File - userId : 841864950687
+2015-12-17 16:36:04,470 [DEBUG] 26 File - Noi dung MT : Ket qua xo so se duoc cap nhat vao toi nay. Ban hay theo doi de biet so diem cua minh. Soan tin DK XS MB de theo doi ket qua xo so
+2015-12-17 16:36:04,470 [DEBUG] 26 File - ServiceId : 949
+2015-12-17 16:36:04,470 [DEBUG] 26 File - commandCode : DIEM
+2015-12-17 16:36:04,470 [DEBUG] 26 File - requestId : 0

@@ -1,0 +1,20 @@
+2016-06-01 11:38:14,708 [ERROR] 11 SmsLtdkqtn - ***** SmsLtd_kqtn Sync error : 396
+2016-06-01 11:38:15,154 [ERROR] 11 SmsLtdkqtn - ***** SmsLtdkqtn Loi  : System.NullReferenceException: Object reference not set to an instance of an object.
+   at SmsLtdkqtn.SmsMtInsert(SmsMtLtd item) in e:\Project\ViSport_4.0\WS_S2\App_Code\SmsLtdkqtn.cs:line 235
+   at SmsLtdkqtn.Execute(Int32 jobId) in e:\Project\ViSport_4.0\WS_S2\App_Code\SmsLtdkqtn.cs:line 219
+2016-06-01 11:41:11,221 [ERROR] 8 SmsLtdkqtn - ***** SmsLtd_kqtn Sync error : 396
+2016-06-01 11:42:34,774 [ERROR] 8 SmsLtdkqtn - ***** SmsLtdkqtn Loi  : System.NullReferenceException: Object reference not set to an instance of an object.
+   at SmsLtdkqtn.SmsMtInsert(SmsMtLtd item) in e:\Project\ViSport_4.0\WS_S2\App_Code\SmsLtdkqtn.cs:line 235
+   at SmsLtdkqtn.Execute(Int32 jobId) in e:\Project\ViSport_4.0\WS_S2\App_Code\SmsLtdkqtn.cs:line 219
+2016-06-01 11:44:01,575 [ERROR] 16 SmsLtdkqtn - ***** SmsLtd_kqtn Sync error : 396
+2016-06-01 11:44:01,677 [ERROR] 16 SmsLtdkqtn - ***** SmsLtdkqtn Loi  : System.NullReferenceException: Object reference not set to an instance of an object.
+   at SmsLtdkqtn.SmsMtInsert(SmsMtLtd item) in e:\Project\ViSport_4.0\WS_S2\App_Code\SmsLtdkqtn.cs:line 236
+   at SmsLtdkqtn.Execute(Int32 jobId) in e:\Project\ViSport_4.0\WS_S2\App_Code\SmsLtdkqtn.cs:line 220
+2016-06-01 11:44:29,712 [ERROR] 18 SmsLtdkqtn - ***** SmsLtd_kqtn Sync error : 396
+2016-06-01 11:45:10,194 [ERROR] 18 SmsLtdkqtn - ***** SmsLtdkqtn Loi  : System.NullReferenceException: Object reference not set to an instance of an object.
+   at SmsLtdkqtn.SmsMtInsert(SmsMtLtd item) in e:\Project\ViSport_4.0\WS_S2\App_Code\SmsLtdkqtn.cs:line 236
+   at SmsLtdkqtn.Execute(Int32 jobId) in e:\Project\ViSport_4.0\WS_S2\App_Code\SmsLtdkqtn.cs:line 220
+2016-06-01 11:45:14,430 [ERROR] 10 SmsLtdkqtn - ***** SmsLtd_kqtn Sync error : 396
+2016-06-01 11:45:44,050 [ERROR] 10 SmsLtdkqtn - ***** SmsLtdkqtn Loi  : System.NullReferenceException: Object reference not set to an instance of an object.
+   at SmsLtdkqtn.SmsMtInsert(SmsMtLtd item) in e:\Project\ViSport_4.0\WS_S2\App_Code\SmsLtdkqtn.cs:line 236
+   at SmsLtdkqtn.Execute(Int32 jobId) in e:\Project\ViSport_4.0\WS_S2\App_Code\SmsLtdkqtn.cs:line 220

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<definitions xmlns:wsp="http://www.w3.org/ns/ws-policy" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:wsam="http://www.w3.org/2007/05/addressing/metadata" xmlns:tns="http://api.mtv.vmg.vs.vasc.com/" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:wsp1_2="http://schemas.xmlsoap.org/ws/2004/09/policy" xmlns:wsu="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-utility-1.0.xsd" name="RegGate" targetNamespace="http://api.mtv.vmg.vs.vasc.com/" xmlns="http://schemas.xmlsoap.org/wsdl/">
+  <types>
+    <xsd:schema>
+      <xsd:import schemaLocation="http://123.29.67.201:8282/VMG_MTV_API/RegGate?xsd=1" namespace="http://api.mtv.vmg.vs.vasc.com/" />
+    </xsd:schema>
+  </types>
+  <message name="register">
+    <part name="parameters" element="tns:register" />
+  </message>
+  <message name="registerResponse">
+    <part name="parameters" element="tns:registerResponse" />
+  </message>
+  <message name="hello">
+    <part name="parameters" element="tns:hello" />
+  </message>
+  <message name="helloResponse">
+    <part name="parameters" element="tns:helloResponse" />
+  </message>
+  <message name="cancelService">
+    <part name="parameters" element="tns:cancelService" />
+  </message>
+  <message name="cancelServiceResponse">
+    <part name="parameters" element="tns:cancelServiceResponse" />
+  </message>
+  <message name="getPassOtp">
+    <part name="parameters" element="tns:getPassOtp" />
+  </message>
+  <message name="getPassOtpResponse">
+    <part name="parameters" element="tns:getPassOtpResponse" />
+  </message>
+  <portType name="RegGate">
+    <operation name="register">
+      <input wsam:Action="http://api.mtv.vmg.vs.vasc.com/RegGate/registerRequest" message="tns:register" />
+      <output wsam:Action="http://api.mtv.vmg.vs.vasc.com/RegGate/registerResponse" message="tns:registerResponse" />
+    </operation>
+    <operation name="hello">
+      <input wsam:Action="http://api.mtv.vmg.vs.vasc.com/RegGate/helloRequest" message="tns:hello" />
+      <output wsam:Action="http://api.mtv.vmg.vs.vasc.com/RegGate/helloResponse" message="tns:helloResponse" />
+    </operation>
+    <operation name="cancelService">
+      <input wsam:Action="http://api.mtv.vmg.vs.vasc.com/RegGate/cancelServiceRequest" message="tns:cancelService" />
+      <output wsam:Action="http://api.mtv.vmg.vs.vasc.com/RegGate/cancelServiceResponse" message="tns:cancelServiceResponse" />
+    </operation>
+    <operation name="getPassOtp">
+      <input wsam:Action="http://api.mtv.vmg.vs.vasc.com/RegGate/getPassOtpRequest" message="tns:getPassOtp" />
+      <output wsam:Action="http://api.mtv.vmg.vs.vasc.com/RegGate/getPassOtpResponse" message="tns:getPassOtpResponse" />
+    </operation>
+  </portType>
+  <binding name="RegGatePortBinding" type="tns:RegGate">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <operation name="register">
+      <soap:operation soapAction="" />
+      <input>
+        <soap:body use="literal" />
+      </input>
+      <output>
+        <soap:body use="literal" />
+      </output>
+    </operation>
+    <operation name="hello">
+      <soap:operation soapAction="" />
+      <input>
+        <soap:body use="literal" />
+      </input>
+      <output>
+        <soap:body use="literal" />
+      </output>
+    </operation>
+    <operation name="cancelService">
+      <soap:operation soapAction="" />
+      <input>
+        <soap:body use="literal" />
+      </input>
+      <output>
+        <soap:body use="literal" />
+      </output>
+    </operation>
+    <operation name="getPassOtp">
+      <soap:operation soapAction="" />
+      <input>
+        <soap:body use="literal" />
+      </input>
+      <output>
+        <soap:body use="literal" />
+      </output>
+    </operation>
+  </binding>
+  <service name="RegGate">
+    <port name="RegGatePort" binding="tns:RegGatePortBinding">
+      <soap:address location="http://123.29.67.201:8282/VMG_MTV_API/RegGate" />
+    </port>
+  </service>
+</definitions>

@@ -1,0 +1,627 @@
+2016-08-02 08:52:38,305 [DEBUG] 9 GetCDR - GPC Service_NameVMG_tiendoanvanmenhVM_sam--Count user :10
+2016-08-02 08:53:02,664 [DEBUG] 9 GetCDR - GPC Service_NameVMG_gametrongngay_SAM--Count user :706
+2016-08-02 08:53:33,603 [DEBUG] 9 GetCDR - GPC Service_NameVMG_taigameget_2m_sam--Count user :1592
+2016-08-02 08:53:58,902 [DEBUG] 9 GetCDR - GPC Service_NameVMG_taiclipfun_2m_sam--Count user :738
+2016-08-02 08:54:02,912 [DEBUG] 9 GetCDR - GPC Service_NameVMG_taigamelap_2m_sam--Count user :12
+2016-08-02 08:54:16,293 [DEBUG] 9 GetCDR - GPC Service_NameVMG_taigamemini1_2m_sam--Count user :370
+2016-08-02 08:54:16,921 [DEBUG] 9 GetCDR - GPC Service_NameVMG_cliphotgs_2m_sam--Count user :8
+2016-08-02 08:54:49,106 [DEBUG] 9 GetCDR - GPC Service_NameVMG_taihinhnenscan_2m_sam--Count user :1466
+2016-08-02 08:55:00,290 [DEBUG] 9 GetCDR - GPC Service_NameVMG_taigamepad_2m_sam--Count user :374
+2016-08-02 08:55:14,502 [DEBUG] 9 GetCDR - GPC Service_NameVMG_taigamephone_2m_sam--Count user :354
+2016-08-02 08:55:17,422 [DEBUG] 9 GetCDR - GPC Service_NameVMG_taigamemini_2m_sam--Count user :14
+2016-08-02 08:55:20,596 [DEBUG] 9 GetCDR - GPC Service_NameVMG_Taigametrungipad_Sam--Count user :6
+2016-08-02 08:55:20,606 [DEBUG] 9 GetCDR - GPC Service_NameVMG_UDhinhnenWIFI_SAM--Count user :0
+2016-08-02 08:55:20,617 [DEBUG] 9 GetCDR - GPC Service_NameVMG_UngdunghinhnenNET_Sam--Count user :0
+2016-08-02 08:55:22,720 [DEBUG] 9 GetCDR - GPC Service_NameVMG_UngdunghinhnenFS_Sam--Count user :0
+2016-08-02 08:55:22,730 [DEBUG] 9 GetCDR - GPC Service_NameVMG_TaigamePAD1_Sam  --Count user :0
+2016-08-02 08:55:23,597 [DEBUG] 9 GetCDR - GPC Service_NameVMG_HinhnenFREE_sam--Count user :0
+2016-08-02 08:55:23,924 [DEBUG] 9 GetCDR - GPC Service_NameVMG_Hoctructuyen_Sam--Count user :0
+2016-08-02 08:55:23,924 [DEBUG] 9 GetCDR - CDR GPC update
+2016-08-02 08:55:31,250 [DEBUG] 9 GetCDR - VMS Service_NameSAM LAPTOP_sam--Count user :275
+2016-08-02 08:55:31,485 [DEBUG] 9 GetCDR - VMS Service_NameSAM BOI_sam--Count user :6
+2016-08-02 08:55:31,834 [DEBUG] 9 GetCDR - VMS Service_NameCLIP SAM_sam--Count user :9
+2016-08-02 08:55:35,258 [DEBUG] 9 GetCDR - VMS Service_NameSAM iPAD MINI_sam--Count user :601
+2016-08-02 08:55:35,267 [DEBUG] 9 GetCDR - VMS Service_NameSAM OPS--Count user :0
+2016-08-02 08:55:55,333 [DEBUG] 9 GetCDR - VMS Service_NameSAM SCAN_sam--Count user :3733
+2016-08-02 08:55:55,426 [DEBUG] 9 GetCDR - VMS Service_NameSAM GAME_sam--Count user :3
+2016-08-02 08:56:00,057 [DEBUG] 9 GetCDR - VMS Service_NameSAM PAD_sam--Count user :957
+2016-08-02 08:56:03,539 [DEBUG] 9 GetCDR - VMS Service_NameSAM PHONE_sam--Count user :850
+2016-08-02 08:56:03,861 [DEBUG] 9 GetCDR - VMS Service_NameSAM MINI_sam--Count user :9
+2016-08-02 08:56:03,868 [DEBUG] 9 GetCDR - VMS Service_NameSAM PAD1_sam--Count user :0
+2016-08-02 08:56:16,819 [DEBUG] 9 GetCDR - VMS Service_NameSAM GET_sam--Count user :2857
+2016-08-02 08:56:23,016 [DEBUG] 9 GetCDR - VMS Service_NameSAM FUN_sam--Count user :1530
+2016-08-02 08:56:23,024 [DEBUG] 9 GetCDR - VMS Service_NameSAM FREE_sam--Count user :0
+2016-08-02 08:56:31,634 [DEBUG] 9 GetCDR - VMS Service_NameVMG Tai game_SAM--Count user :2084
+2016-08-02 08:56:31,651 [DEBUG] 9 GetCDR - VMS Service_NameSAM Ung dung va hinh nen WIFI--Count user :0
+2016-08-02 08:56:31,658 [DEBUG] 9 GetCDR - VMS Service_NameSAM Ung dung va hinh nen NET--Count user :0
+2016-08-02 08:56:31,666 [DEBUG] 9 GetCDR - VMS Service_NameSAM Ung dung va hinh nen FS--Count user :0
+2016-08-02 08:56:31,679 [DEBUG] 9 GetCDR - VMS Service_NameSam Hoc truc tuyen--Count user :0
+2016-08-02 08:56:31,680 [DEBUG] 9 GetCDR - CDR VMS update
+2016-08-02 09:12:04,597 [DEBUG] 14 GetCDR - GPC Service_NameVMG_tiendoanvanmenhVM_sam--Count user :8
+2016-08-02 09:12:27,309 [DEBUG] 14 GetCDR - GPC Service_NameVMG_gametrongngay_SAM--Count user :766
+2016-08-02 09:12:57,231 [DEBUG] 14 GetCDR - GPC Service_NameVMG_taigameget_2m_sam--Count user :1964
+2016-08-02 09:13:21,645 [DEBUG] 14 GetCDR - GPC Service_NameVMG_taiclipfun_2m_sam--Count user :836
+2016-08-02 09:13:26,461 [DEBUG] 14 GetCDR - GPC Service_NameVMG_taigamelap_2m_sam--Count user :14
+2016-08-02 09:13:42,953 [DEBUG] 14 GetCDR - GPC Service_NameVMG_taigamemini1_2m_sam--Count user :466
+2016-08-02 09:13:43,676 [DEBUG] 14 GetCDR - GPC Service_NameVMG_cliphotgs_2m_sam--Count user :8
+2016-08-02 09:14:09,705 [DEBUG] 14 GetCDR - GPC Service_NameVMG_taihinhnenscan_2m_sam--Count user :1660
+2016-08-02 09:14:22,700 [DEBUG] 14 GetCDR - GPC Service_NameVMG_taigamepad_2m_sam--Count user :448
+2016-08-02 09:14:35,131 [DEBUG] 14 GetCDR - GPC Service_NameVMG_taigamephone_2m_sam--Count user :412
+2016-08-02 09:14:36,036 [DEBUG] 14 GetCDR - GPC Service_NameVMG_taigamemini_2m_sam--Count user :16
+2016-08-02 09:14:36,394 [DEBUG] 14 GetCDR - GPC Service_NameVMG_Taigametrungipad_Sam--Count user :4
+2016-08-02 09:14:36,404 [DEBUG] 14 GetCDR - GPC Service_NameVMG_UDhinhnenWIFI_SAM--Count user :0
+2016-08-02 09:14:36,413 [DEBUG] 14 GetCDR - GPC Service_NameVMG_UngdunghinhnenNET_Sam--Count user :0
+2016-08-02 09:14:36,477 [DEBUG] 14 GetCDR - GPC Service_NameVMG_UngdunghinhnenFS_Sam--Count user :0
+2016-08-02 09:14:36,486 [DEBUG] 14 GetCDR - GPC Service_NameVMG_TaigamePAD1_Sam  --Count user :0
+2016-08-02 09:14:36,537 [DEBUG] 14 GetCDR - GPC Service_NameVMG_HinhnenFREE_sam--Count user :0
+2016-08-02 09:14:36,589 [DEBUG] 14 GetCDR - GPC Service_NameVMG_Hoctructuyen_Sam--Count user :0
+2016-08-02 09:14:36,589 [DEBUG] 14 GetCDR - CDR GPC update
+2016-08-02 09:14:39,494 [DEBUG] 14 GetCDR - VMS Service_NameSAM LAPTOP_sam--Count user :280
+2016-08-02 09:14:39,751 [DEBUG] 14 GetCDR - VMS Service_NameSAM BOI_sam--Count user :6
+2016-08-02 09:14:40,077 [DEBUG] 14 GetCDR - VMS Service_NameCLIP SAM_sam--Count user :9
+2016-08-02 09:14:42,667 [DEBUG] 14 GetCDR - VMS Service_NameSAM iPAD MINI_sam--Count user :607
+2016-08-02 09:14:42,674 [DEBUG] 14 GetCDR - VMS Service_NameSAM OPS--Count user :0
+2016-08-02 09:15:03,620 [DEBUG] 14 GetCDR - VMS Service_NameSAM SCAN_sam--Count user :3629
+2016-08-02 09:15:03,708 [DEBUG] 14 GetCDR - VMS Service_NameSAM GAME_sam--Count user :2
+2016-08-02 09:15:18,465 [DEBUG] 14 GetCDR - VMS Service_NameSAM PAD_sam--Count user :410
+2016-08-02 09:15:25,351 [DEBUG] 14 GetCDR - VMS Service_NameSAM PHONE_sam--Count user :860
+2016-08-02 09:15:25,740 [DEBUG] 14 GetCDR - VMS Service_NameSAM MINI_sam--Count user :9
+2016-08-02 09:15:25,748 [DEBUG] 14 GetCDR - VMS Service_NameSAM PAD1_sam--Count user :0
+2016-08-02 09:15:41,401 [DEBUG] 14 GetCDR - VMS Service_NameSAM GET_sam--Count user :2804
+2016-08-02 09:15:48,064 [DEBUG] 14 GetCDR - VMS Service_NameSAM FUN_sam--Count user :1473
+2016-08-02 09:15:48,072 [DEBUG] 14 GetCDR - VMS Service_NameSAM FREE_sam--Count user :0
+2016-08-02 09:15:57,968 [DEBUG] 14 GetCDR - VMS Service_NameVMG Tai game_SAM--Count user :2046
+2016-08-02 09:15:57,985 [DEBUG] 14 GetCDR - VMS Service_NameSAM Ung dung va hinh nen WIFI--Count user :0
+2016-08-02 09:15:57,992 [DEBUG] 14 GetCDR - VMS Service_NameSAM Ung dung va hinh nen NET--Count user :0
+2016-08-02 09:15:57,999 [DEBUG] 14 GetCDR - VMS Service_NameSAM Ung dung va hinh nen FS--Count user :0
+2016-08-02 09:15:58,010 [DEBUG] 14 GetCDR - VMS Service_NameSam Hoc truc tuyen--Count user :0
+2016-08-02 09:15:58,010 [DEBUG] 14 GetCDR - CDR VMS update
+2016-08-02 09:21:06,210 [DEBUG] 20 GetCDR - GPC Service_NameVMG_tiendoanvanmenhVM_sam--Count user :4
+2016-08-02 09:21:26,808 [DEBUG] 20 GetCDR - GPC Service_NameVMG_gametrongngay_SAM--Count user :386
+2016-08-02 09:22:00,483 [DEBUG] 20 GetCDR - GPC Service_NameVMG_taigameget_2m_sam--Count user :941
+2016-08-02 09:22:25,164 [DEBUG] 20 GetCDR - GPC Service_NameVMG_taiclipfun_2m_sam--Count user :405
+2016-08-02 09:22:26,552 [DEBUG] 20 GetCDR - GPC Service_NameVMG_taigamelap_2m_sam--Count user :6
+2016-08-02 09:22:36,126 [DEBUG] 20 GetCDR - GPC Service_NameVMG_taigamemini1_2m_sam--Count user :218
+2016-08-02 09:22:36,743 [DEBUG] 20 GetCDR - GPC Service_NameVMG_cliphotgs_2m_sam--Count user :4
+2016-08-02 09:23:05,487 [DEBUG] 20 GetCDR - GPC Service_NameVMG_taihinhnenscan_2m_sam--Count user :865
+2016-08-02 09:23:19,330 [DEBUG] 20 GetCDR - GPC Service_NameVMG_taigamepad_2m_sam--Count user :215
+2016-08-02 09:33:03,648 [DEBUG] 14 GetCDR - GPC Service_NameVMG_tiendoanvanmenhVM_sam--Count user :4
+2016-08-02 09:33:34,058 [ERROR] 14 GetCDR - CDR Loi UPDATE GPC -0055362000016677- : System.Data.SqlClient.SqlException (0x80131904): Timeout expired.  The timeout period elapsed prior to completion of the operation or the server is not responding. ---> System.ComponentModel.Win32Exception (0x80004005): The wait operation timed out
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, SqlDataReader ds)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean asyncWrite)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet)
+   at Microsoft.ApplicationBlocks.Data.SqlHelper.ExecuteDataset(SqlConnection connection, CommandType commandType, String commandText, SqlParameter[] commandParameters)
+   at Microsoft.ApplicationBlocks.Data.SqlHelper.ExecuteDataset(String connectionString, CommandType commandType, String commandText, SqlParameter[] commandParameters)
+   at Microsoft.ApplicationBlocks.Data.SqlHelper.ExecuteDataset(String connectionString, String spName, Object[] parameterValues)
+   at ViSport_S2_Registered_UsersController.GPCGetCdrByServiceId_ByDate(String serviceId, DateTime day) in e:\Project\ViSport_4.0\WS_S2\App_Code\ViSport_S2_Registered\ViSport_S2_Registered_UsersController.cs:line 1683
+   at GetCDR.btnUpdate_Click(Object sender, EventArgs e) in e:\Project\ViSport_4.0\WS_S2\GetCDR.aspx.cs:line 59
+ClientConnectionId:cfcedaee-d085-4f5a-bd37-34a0597789eb
+2016-08-02 09:34:00,996 [DEBUG] 14 GetCDR - GPC Service_NameVMG_taigameget_2m_sam--Count user :941
+2016-08-02 09:34:25,976 [DEBUG] 14 GetCDR - GPC Service_NameVMG_taiclipfun_2m_sam--Count user :405
+2016-08-02 09:34:27,063 [DEBUG] 14 GetCDR - GPC Service_NameVMG_taigamelap_2m_sam--Count user :6
+2016-08-02 09:34:36,513 [DEBUG] 14 GetCDR - GPC Service_NameVMG_taigamemini1_2m_sam--Count user :218
+2016-08-02 09:34:36,996 [DEBUG] 14 GetCDR - GPC Service_NameVMG_cliphotgs_2m_sam--Count user :4
+2016-08-02 09:35:01,196 [DEBUG] 14 GetCDR - GPC Service_NameVMG_taihinhnenscan_2m_sam--Count user :865
+2016-08-02 09:35:14,006 [DEBUG] 14 GetCDR - GPC Service_NameVMG_taigamepad_2m_sam--Count user :215
+2016-08-02 09:35:25,128 [DEBUG] 14 GetCDR - GPC Service_NameVMG_taigamephone_2m_sam--Count user :200
+2016-08-02 09:35:27,446 [DEBUG] 14 GetCDR - GPC Service_NameVMG_taigamemini_2m_sam--Count user :7
+2016-08-02 09:35:28,113 [DEBUG] 14 GetCDR - GPC Service_NameVMG_Taigametrungipad_Sam--Count user :3
+2016-08-02 09:35:28,124 [DEBUG] 14 GetCDR - GPC Service_NameVMG_UDhinhnenWIFI_SAM--Count user :0
+2016-08-02 09:35:28,134 [DEBUG] 14 GetCDR - GPC Service_NameVMG_UngdunghinhnenNET_Sam--Count user :0
+2016-08-02 09:35:28,311 [DEBUG] 14 GetCDR - GPC Service_NameVMG_UngdunghinhnenFS_Sam--Count user :0
+2016-08-02 09:35:28,322 [DEBUG] 14 GetCDR - GPC Service_NameVMG_TaigamePAD1_Sam  --Count user :0
+2016-08-02 09:35:28,424 [DEBUG] 14 GetCDR - GPC Service_NameVMG_HinhnenFREE_sam--Count user :0
+2016-08-02 09:35:28,468 [DEBUG] 14 GetCDR - GPC Service_NameVMG_Hoctructuyen_Sam--Count user :0
+2016-08-02 09:35:28,468 [DEBUG] 14 GetCDR - CDR GPC update
+2016-08-02 09:35:32,803 [DEBUG] 14 GetCDR - VMS Service_NameSAM LAPTOP_sam--Count user :277
+2016-08-02 09:35:33,165 [DEBUG] 14 GetCDR - VMS Service_NameSAM BOI_sam--Count user :3
+2016-08-02 09:35:33,620 [DEBUG] 14 GetCDR - VMS Service_NameCLIP SAM_sam--Count user :9
+2016-08-02 09:35:39,125 [DEBUG] 14 GetCDR - VMS Service_NameSAM iPAD MINI_sam--Count user :597
+2016-08-02 09:35:39,137 [DEBUG] 14 GetCDR - VMS Service_NameSAM OPS--Count user :0
+2016-08-02 09:36:13,956 [DEBUG] 14 GetCDR - VMS Service_NameSAM SCAN_sam--Count user :3904
+2016-08-02 09:36:14,769 [DEBUG] 14 GetCDR - VMS Service_NameSAM GAME_sam--Count user :2
+2016-08-02 09:36:28,793 [DEBUG] 14 GetCDR - VMS Service_NameSAM PAD_sam--Count user :1008
+2016-08-02 09:36:31,092 [DEBUG] 14 GetCDR - VMS Service_NameSAM PHONE_sam--Count user :386
+2016-08-02 09:36:31,441 [DEBUG] 14 GetCDR - VMS Service_NameSAM MINI_sam--Count user :8
+2016-08-02 09:36:31,449 [DEBUG] 14 GetCDR - VMS Service_NameSAM PAD1_sam--Count user :0
+2016-08-02 09:36:42,962 [DEBUG] 14 GetCDR - VMS Service_NameSAM GET_sam--Count user :2774
+2016-08-02 09:36:49,383 [DEBUG] 14 GetCDR - VMS Service_NameSAM FUN_sam--Count user :1525
+2016-08-02 09:36:49,391 [DEBUG] 14 GetCDR - VMS Service_NameSAM FREE_sam--Count user :0
+2016-08-02 09:36:52,644 [DEBUG] 14 GetCDR - VMS Service_NameVMG Tai game_SAM--Count user :767
+2016-08-02 09:36:52,660 [DEBUG] 14 GetCDR - VMS Service_NameSAM Ung dung va hinh nen WIFI--Count user :0
+2016-08-02 09:36:52,667 [DEBUG] 14 GetCDR - VMS Service_NameSAM Ung dung va hinh nen NET--Count user :0
+2016-08-02 09:36:52,674 [DEBUG] 14 GetCDR - VMS Service_NameSAM Ung dung va hinh nen FS--Count user :0
+2016-08-02 09:36:52,686 [DEBUG] 14 GetCDR - VMS Service_NameSam Hoc truc tuyen--Count user :0
+2016-08-02 09:36:52,686 [DEBUG] 14 GetCDR - CDR VMS update
+2016-08-02 09:47:05,949 [DEBUG] 10 GetCDR - GPC Service_NameVMG_tiendoanvanmenhVM_sam--Count user :3
+2016-08-02 09:47:28,223 [DEBUG] 10 GetCDR - GPC Service_NameVMG_gametrongngay_SAM--Count user :370
+2016-08-02 09:47:53,179 [DEBUG] 10 GetCDR - GPC Service_NameVMG_taigameget_2m_sam--Count user :900
+2016-08-02 09:48:07,622 [DEBUG] 10 GetCDR - GPC Service_NameVMG_taiclipfun_2m_sam--Count user :404
+2016-08-02 09:48:08,429 [DEBUG] 10 GetCDR - GPC Service_NameVMG_taigamelap_2m_sam--Count user :6
+2016-08-02 09:48:24,440 [DEBUG] 10 GetCDR - GPC Service_NameVMG_taigamemini1_2m_sam--Count user :215
+2016-08-02 09:48:24,990 [DEBUG] 10 GetCDR - GPC Service_NameVMG_cliphotgs_2m_sam--Count user :4
+2016-08-02 09:48:57,499 [ERROR] 10 GetCDR - CDR Loi UPDATE GPC -0055362000017293 - : System.Data.SqlClient.SqlException (0x80131904): Timeout expired.  The timeout period elapsed prior to completion of the operation or the server is not responding. ---> System.ComponentModel.Win32Exception (0x80004005): The wait operation timed out
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, SqlDataReader ds)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean asyncWrite)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet)
+   at Microsoft.ApplicationBlocks.Data.SqlHelper.ExecuteDataset(SqlConnection connection, CommandType commandType, String commandText, SqlParameter[] commandParameters)
+   at Microsoft.ApplicationBlocks.Data.SqlHelper.ExecuteDataset(String connectionString, CommandType commandType, String commandText, SqlParameter[] commandParameters)
+   at Microsoft.ApplicationBlocks.Data.SqlHelper.ExecuteDataset(String connectionString, String spName, Object[] parameterValues)
+   at ViSport_S2_Registered_UsersController.GPCGetCdrByServiceId_ByDate(String serviceId, DateTime day) in e:\Project\ViSport_4.0\WS_S2\App_Code\ViSport_S2_Registered\ViSport_S2_Registered_UsersController.cs:line 1683
+   at GetCDR.btnUpdate_Click(Object sender, EventArgs e) in e:\Project\ViSport_4.0\WS_S2\GetCDR.aspx.cs:line 59
+ClientConnectionId:cfcedaee-d085-4f5a-bd37-34a0597789eb
+2016-08-02 09:49:10,152 [DEBUG] 10 GetCDR - GPC Service_NameVMG_taigamepad_2m_sam--Count user :220
+2016-08-02 09:49:19,862 [DEBUG] 10 GetCDR - GPC Service_NameVMG_taigamephone_2m_sam--Count user :212
+2016-08-02 09:49:20,702 [DEBUG] 10 GetCDR - GPC Service_NameVMG_taigamemini_2m_sam--Count user :7
+2016-08-02 09:49:21,054 [DEBUG] 10 GetCDR - GPC Service_NameVMG_Taigametrungipad_Sam--Count user :2
+2016-08-02 09:49:21,064 [DEBUG] 10 GetCDR - GPC Service_NameVMG_UDhinhnenWIFI_SAM--Count user :0
+2016-08-02 09:49:21,074 [DEBUG] 10 GetCDR - GPC Service_NameVMG_UngdunghinhnenNET_Sam--Count user :0
+2016-08-02 09:49:21,121 [DEBUG] 10 GetCDR - GPC Service_NameVMG_UngdunghinhnenFS_Sam--Count user :0
+2016-08-02 09:49:21,132 [DEBUG] 10 GetCDR - GPC Service_NameVMG_TaigamePAD1_Sam  --Count user :0
+2016-08-02 09:49:21,169 [DEBUG] 10 GetCDR - GPC Service_NameVMG_HinhnenFREE_sam--Count user :0
+2016-08-02 09:49:21,250 [DEBUG] 10 GetCDR - GPC Service_NameVMG_Hoctructuyen_Sam--Count user :0
+2016-08-02 09:49:21,250 [DEBUG] 10 GetCDR - CDR GPC update
+2016-08-02 09:49:24,463 [DEBUG] 10 GetCDR - VMS Service_NameSAM LAPTOP_sam--Count user :271
+2016-08-02 09:49:24,700 [DEBUG] 10 GetCDR - VMS Service_NameSAM BOI_sam--Count user :6
+2016-08-02 09:49:25,034 [DEBUG] 10 GetCDR - VMS Service_NameCLIP SAM_sam--Count user :9
+2016-08-02 09:49:27,618 [DEBUG] 10 GetCDR - VMS Service_NameSAM iPAD MINI_sam--Count user :584
+2016-08-02 09:49:27,627 [DEBUG] 10 GetCDR - VMS Service_NameSAM OPS--Count user :0
+2016-08-02 09:49:46,079 [DEBUG] 10 GetCDR - VMS Service_NameSAM SCAN_sam--Count user :4072
+2016-08-02 09:49:46,165 [DEBUG] 10 GetCDR - VMS Service_NameSAM GAME_sam--Count user :2
+2016-08-02 09:49:50,381 [DEBUG] 10 GetCDR - VMS Service_NameSAM PAD_sam--Count user :1034
+2016-08-02 09:49:53,917 [DEBUG] 10 GetCDR - VMS Service_NameSAM PHONE_sam--Count user :890
+2016-08-02 09:49:54,229 [DEBUG] 10 GetCDR - VMS Service_NameSAM MINI_sam--Count user :7
+2016-08-02 09:49:54,237 [DEBUG] 10 GetCDR - VMS Service_NameSAM PAD1_sam--Count user :0
+2016-08-02 09:50:09,205 [DEBUG] 10 GetCDR - VMS Service_NameSAM GET_sam--Count user :2826
+2016-08-02 09:50:15,520 [DEBUG] 10 GetCDR - VMS Service_NameSAM FUN_sam--Count user :1560
+2016-08-02 09:50:15,529 [DEBUG] 10 GetCDR - VMS Service_NameSAM FREE_sam--Count user :0
+2016-08-02 09:50:23,745 [DEBUG] 10 GetCDR - VMS Service_NameVMG Tai game_SAM--Count user :2117
+2016-08-02 09:50:23,763 [DEBUG] 10 GetCDR - VMS Service_NameSAM Ung dung va hinh nen WIFI--Count user :0
+2016-08-02 09:50:23,771 [DEBUG] 10 GetCDR - VMS Service_NameSAM Ung dung va hinh nen NET--Count user :0
+2016-08-02 09:50:23,778 [DEBUG] 10 GetCDR - VMS Service_NameSAM Ung dung va hinh nen FS--Count user :0
+2016-08-02 09:50:23,790 [DEBUG] 10 GetCDR - VMS Service_NameSam Hoc truc tuyen--Count user :0
+2016-08-02 09:50:23,790 [DEBUG] 10 GetCDR - CDR VMS update
+2016-08-02 09:58:22,482 [DEBUG] 19 GetCDR - GPC Service_NameVMG_tiendoanvanmenhVM_sam--Count user :4
+2016-08-02 09:58:39,740 [DEBUG] 19 GetCDR - GPC Service_NameVMG_gametrongngay_SAM--Count user :370
+2016-08-02 09:59:03,618 [DEBUG] 19 GetCDR - GPC Service_NameVMG_taigameget_2m_sam--Count user :892
+2016-08-02 09:59:25,682 [DEBUG] 19 GetCDR - GPC Service_NameVMG_taiclipfun_2m_sam--Count user :403
+2016-08-02 09:59:26,448 [DEBUG] 19 GetCDR - GPC Service_NameVMG_taigamelap_2m_sam--Count user :6
+2016-08-02 09:59:38,395 [DEBUG] 19 GetCDR - GPC Service_NameVMG_taigamemini1_2m_sam--Count user :205
+2016-08-02 09:59:38,857 [DEBUG] 19 GetCDR - GPC Service_NameVMG_cliphotgs_2m_sam--Count user :5
+2016-08-02 10:00:02,605 [DEBUG] 19 GetCDR - GPC Service_NameVMG_taihinhnenscan_2m_sam--Count user :879
+2016-08-02 10:00:21,792 [DEBUG] 19 GetCDR - GPC Service_NameVMG_taigamepad_2m_sam--Count user :229
+2016-08-02 10:00:33,863 [DEBUG] 19 GetCDR - GPC Service_NameVMG_taigamephone_2m_sam--Count user :191
+2016-08-02 10:00:35,570 [DEBUG] 19 GetCDR - GPC Service_NameVMG_taigamemini_2m_sam--Count user :5
+2016-08-02 10:00:36,033 [DEBUG] 19 GetCDR - GPC Service_NameVMG_Taigametrungipad_Sam--Count user :2
+2016-08-02 10:00:36,043 [DEBUG] 19 GetCDR - GPC Service_NameVMG_UDhinhnenWIFI_SAM--Count user :0
+2016-08-02 10:00:36,052 [DEBUG] 19 GetCDR - GPC Service_NameVMG_UngdunghinhnenNET_Sam--Count user :0
+2016-08-02 10:00:36,135 [DEBUG] 19 GetCDR - GPC Service_NameVMG_UngdunghinhnenFS_Sam--Count user :0
+2016-08-02 10:00:36,145 [DEBUG] 19 GetCDR - GPC Service_NameVMG_TaigamePAD1_Sam  --Count user :0
+2016-08-02 10:00:36,186 [DEBUG] 19 GetCDR - GPC Service_NameVMG_HinhnenFREE_sam--Count user :0
+2016-08-02 10:00:36,256 [DEBUG] 19 GetCDR - GPC Service_NameVMG_Hoctructuyen_Sam--Count user :0
+2016-08-02 10:00:36,256 [DEBUG] 19 GetCDR - CDR GPC update
+2016-08-02 10:00:41,741 [DEBUG] 19 GetCDR - VMS Service_NameSAM LAPTOP_sam--Count user :273
+2016-08-02 10:00:42,002 [DEBUG] 19 GetCDR - VMS Service_NameSAM BOI_sam--Count user :6
+2016-08-02 10:00:42,380 [DEBUG] 19 GetCDR - VMS Service_NameCLIP SAM_sam--Count user :11
+2016-08-02 10:00:51,321 [DEBUG] 19 GetCDR - VMS Service_NameSAM iPAD MINI_sam--Count user :574
+2016-08-02 10:00:51,329 [DEBUG] 19 GetCDR - VMS Service_NameSAM OPS--Count user :0
+2016-08-02 10:01:14,166 [DEBUG] 19 GetCDR - VMS Service_NameSAM SCAN_sam--Count user :4260
+2016-08-02 10:01:14,249 [DEBUG] 19 GetCDR - VMS Service_NameSAM GAME_sam--Count user :2
+2016-08-02 10:01:16,964 [DEBUG] 19 GetCDR - VMS Service_NameSAM PAD_sam--Count user :442
+2016-08-02 10:01:20,856 [DEBUG] 19 GetCDR - VMS Service_NameSAM PHONE_sam--Count user :874
+2016-08-02 10:01:21,159 [DEBUG] 19 GetCDR - VMS Service_NameSAM MINI_sam--Count user :8
+2016-08-02 10:01:21,167 [DEBUG] 19 GetCDR - VMS Service_NameSAM PAD1_sam--Count user :0
+2016-08-02 10:01:32,160 [DEBUG] 19 GetCDR - VMS Service_NameSAM GET_sam--Count user :2903
+2016-08-02 10:01:39,850 [DEBUG] 19 GetCDR - VMS Service_NameSAM FUN_sam--Count user :1629
+2016-08-02 10:01:39,858 [DEBUG] 19 GetCDR - VMS Service_NameSAM FREE_sam--Count user :0
+2016-08-02 10:01:49,216 [DEBUG] 19 GetCDR - VMS Service_NameVMG Tai game_SAM--Count user :2185
+2016-08-02 10:01:49,234 [DEBUG] 19 GetCDR - VMS Service_NameSAM Ung dung va hinh nen WIFI--Count user :0
+2016-08-02 10:01:49,241 [DEBUG] 19 GetCDR - VMS Service_NameSAM Ung dung va hinh nen NET--Count user :0
+2016-08-02 10:01:49,248 [DEBUG] 19 GetCDR - VMS Service_NameSAM Ung dung va hinh nen FS--Count user :0
+2016-08-02 10:01:49,259 [DEBUG] 19 GetCDR - VMS Service_NameSam Hoc truc tuyen--Count user :0
+2016-08-02 10:01:49,259 [DEBUG] 19 GetCDR - CDR VMS update
+2016-08-02 10:11:48,900 [DEBUG] 22 GetCDR - GPC Service_NameVMG_tiendoanvanmenhVM_sam--Count user :3
+2016-08-02 10:12:06,938 [DEBUG] 22 GetCDR - GPC Service_NameVMG_gametrongngay_SAM--Count user :369
+2016-08-02 10:12:29,217 [DEBUG] 22 GetCDR - GPC Service_NameVMG_taigameget_2m_sam--Count user :842
+2016-08-02 10:12:45,386 [DEBUG] 22 GetCDR - GPC Service_NameVMG_taiclipfun_2m_sam--Count user :411
+2016-08-02 10:12:46,187 [DEBUG] 22 GetCDR - GPC Service_NameVMG_taigamelap_2m_sam--Count user :6
+2016-08-02 10:12:56,603 [DEBUG] 22 GetCDR - GPC Service_NameVMG_taigamemini1_2m_sam--Count user :200
+2016-08-02 10:12:57,642 [DEBUG] 22 GetCDR - GPC Service_NameVMG_cliphotgs_2m_sam--Count user :5
+2016-08-02 10:13:20,139 [DEBUG] 22 GetCDR - GPC Service_NameVMG_taihinhnenscan_2m_sam--Count user :844
+2016-08-02 10:13:31,726 [DEBUG] 22 GetCDR - GPC Service_NameVMG_taigamepad_2m_sam--Count user :227
+2016-08-02 10:13:41,824 [DEBUG] 22 GetCDR - GPC Service_NameVMG_taigamephone_2m_sam--Count user :181
+2016-08-02 10:13:42,604 [DEBUG] 22 GetCDR - GPC Service_NameVMG_taigamemini_2m_sam--Count user :7
+2016-08-02 10:13:42,933 [DEBUG] 22 GetCDR - GPC Service_NameVMG_Taigametrungipad_Sam--Count user :2
+2016-08-02 10:13:42,942 [DEBUG] 22 GetCDR - GPC Service_NameVMG_UDhinhnenWIFI_SAM--Count user :0
+2016-08-02 10:13:42,952 [DEBUG] 22 GetCDR - GPC Service_NameVMG_UngdunghinhnenNET_Sam--Count user :0
+2016-08-02 10:13:42,992 [DEBUG] 22 GetCDR - GPC Service_NameVMG_UngdunghinhnenFS_Sam--Count user :0
+2016-08-02 10:13:43,002 [DEBUG] 22 GetCDR - GPC Service_NameVMG_TaigamePAD1_Sam  --Count user :0
+2016-08-02 10:13:43,066 [DEBUG] 22 GetCDR - GPC Service_NameVMG_HinhnenFREE_sam--Count user :0
+2016-08-02 10:13:43,113 [DEBUG] 22 GetCDR - GPC Service_NameVMG_Hoctructuyen_Sam--Count user :0
+2016-08-02 10:13:43,113 [DEBUG] 22 GetCDR - CDR GPC update
+2016-08-02 10:13:48,541 [DEBUG] 22 GetCDR - VMS Service_NameSAM LAPTOP_sam--Count user :616
+2016-08-02 10:13:48,721 [DEBUG] 22 GetCDR - VMS Service_NameSAM BOI_sam--Count user :5
+2016-08-02 10:13:48,969 [DEBUG] 22 GetCDR - VMS Service_NameCLIP SAM_sam--Count user :17
+2016-08-02 10:13:53,660 [DEBUG] 22 GetCDR - VMS Service_NameSAM iPAD MINI_sam--Count user :1041
+2016-08-02 10:13:53,669 [DEBUG] 22 GetCDR - VMS Service_NameSAM OPS--Count user :0
+2016-08-02 10:14:16,235 [DEBUG] 22 GetCDR - VMS Service_NameSAM SCAN_sam--Count user :5625
+2016-08-02 10:14:16,318 [DEBUG] 22 GetCDR - VMS Service_NameSAM GAME_sam--Count user :3
+2016-08-02 10:14:23,002 [DEBUG] 22 GetCDR - VMS Service_NameSAM PAD_sam--Count user :1702
+2016-08-02 10:14:28,255 [DEBUG] 22 GetCDR - VMS Service_NameSAM PHONE_sam--Count user :1082
+2016-08-02 10:14:28,328 [DEBUG] 22 GetCDR - VMS Service_NameSAM MINI_sam--Count user :14
+2016-08-02 10:14:28,336 [DEBUG] 22 GetCDR - VMS Service_NameSAM PAD1_sam--Count user :0
+2016-08-02 10:14:48,064 [DEBUG] 22 GetCDR - VMS Service_NameSAM GET_sam--Count user :4865
+2016-08-02 10:15:01,464 [DEBUG] 22 GetCDR - VMS Service_NameSAM FUN_sam--Count user :2579
+2016-08-02 10:15:01,472 [DEBUG] 22 GetCDR - VMS Service_NameSAM FREE_sam--Count user :0
+2016-08-02 10:15:23,311 [DEBUG] 22 GetCDR - VMS Service_NameVMG Tai game_SAM--Count user :2318
+2016-08-02 10:15:23,332 [DEBUG] 22 GetCDR - VMS Service_NameSAM Ung dung va hinh nen WIFI--Count user :0
+2016-08-02 10:15:23,342 [DEBUG] 22 GetCDR - VMS Service_NameSAM Ung dung va hinh nen NET--Count user :0
+2016-08-02 10:15:23,349 [DEBUG] 22 GetCDR - VMS Service_NameSAM Ung dung va hinh nen FS--Count user :0
+2016-08-02 10:15:23,361 [DEBUG] 22 GetCDR - VMS Service_NameSam Hoc truc tuyen--Count user :0
+2016-08-02 10:15:23,361 [DEBUG] 22 GetCDR - CDR VMS update
+2016-08-02 10:22:25,555 [DEBUG] 26 GetCDR - GPC Service_NameVMG_tiendoanvanmenhVM_sam--Count user :4
+2016-08-02 10:22:42,017 [DEBUG] 26 GetCDR - GPC Service_NameVMG_gametrongngay_SAM--Count user :344
+2016-08-02 10:23:08,909 [DEBUG] 26 GetCDR - GPC Service_NameVMG_taigameget_2m_sam--Count user :816
+2016-08-02 10:23:31,877 [DEBUG] 26 GetCDR - GPC Service_NameVMG_taiclipfun_2m_sam--Count user :428
+2016-08-02 10:23:32,965 [DEBUG] 26 GetCDR - GPC Service_NameVMG_taigamelap_2m_sam--Count user :6
+2016-08-02 10:23:45,227 [DEBUG] 26 GetCDR - GPC Service_NameVMG_taigamemini1_2m_sam--Count user :194
+2016-08-02 10:23:45,920 [DEBUG] 26 GetCDR - GPC Service_NameVMG_cliphotgs_2m_sam--Count user :5
+2016-08-02 10:24:08,866 [DEBUG] 26 GetCDR - GPC Service_NameVMG_taihinhnenscan_2m_sam--Count user :810
+2016-08-02 10:24:22,024 [DEBUG] 26 GetCDR - GPC Service_NameVMG_taigamepad_2m_sam--Count user :218
+2016-08-02 10:24:33,478 [DEBUG] 26 GetCDR - GPC Service_NameVMG_taigamephone_2m_sam--Count user :184
+2016-08-02 10:24:34,282 [DEBUG] 26 GetCDR - GPC Service_NameVMG_taigamemini_2m_sam--Count user :5
+2016-08-02 10:24:34,630 [DEBUG] 26 GetCDR - GPC Service_NameVMG_Taigametrungipad_Sam--Count user :4
+2016-08-02 10:24:34,640 [DEBUG] 26 GetCDR - GPC Service_NameVMG_UDhinhnenWIFI_SAM--Count user :0
+2016-08-02 10:24:34,649 [DEBUG] 26 GetCDR - GPC Service_NameVMG_UngdunghinhnenNET_Sam--Count user :0
+2016-08-02 10:24:34,728 [DEBUG] 26 GetCDR - GPC Service_NameVMG_UngdunghinhnenFS_Sam--Count user :2
+2016-08-02 10:24:34,737 [DEBUG] 26 GetCDR - GPC Service_NameVMG_TaigamePAD1_Sam  --Count user :0
+2016-08-02 10:24:34,776 [DEBUG] 26 GetCDR - GPC Service_NameVMG_HinhnenFREE_sam--Count user :0
+2016-08-02 10:24:34,825 [DEBUG] 26 GetCDR - GPC Service_NameVMG_Hoctructuyen_Sam--Count user :0
+2016-08-02 10:24:34,825 [DEBUG] 26 GetCDR - CDR GPC update
+2016-08-02 10:24:37,842 [DEBUG] 26 GetCDR - VMS Service_NameSAM LAPTOP_sam--Count user :281
+2016-08-02 10:24:37,916 [DEBUG] 26 GetCDR - VMS Service_NameSAM BOI_sam--Count user :5
+2016-08-02 10:24:38,126 [DEBUG] 26 GetCDR - VMS Service_NameCLIP SAM_sam--Count user :11
+2016-08-02 10:24:40,418 [DEBUG] 26 GetCDR - VMS Service_NameSAM iPAD MINI_sam--Count user :574
+2016-08-02 10:24:40,426 [DEBUG] 26 GetCDR - VMS Service_NameSAM OPS--Count user :0
+2016-08-02 10:24:55,739 [DEBUG] 26 GetCDR - VMS Service_NameSAM SCAN_sam--Count user :3843
+2016-08-02 10:24:55,833 [DEBUG] 26 GetCDR - VMS Service_NameSAM GAME_sam--Count user :3
+2016-08-02 10:25:02,586 [DEBUG] 26 GetCDR - VMS Service_NameSAM PAD_sam--Count user :1013
+2016-08-02 10:25:09,043 [DEBUG] 26 GetCDR - VMS Service_NameSAM PHONE_sam--Count user :890
+2016-08-02 10:25:09,118 [DEBUG] 26 GetCDR - VMS Service_NameSAM MINI_sam--Count user :8
+2016-08-02 10:25:09,128 [DEBUG] 26 GetCDR - VMS Service_NameSAM PAD1_sam--Count user :0
+2016-08-02 10:25:23,197 [DEBUG] 26 GetCDR - VMS Service_NameSAM GET_sam--Count user :2632
+2016-08-02 10:25:30,903 [DEBUG] 26 GetCDR - VMS Service_NameSAM FUN_sam--Count user :1610
+2016-08-02 10:25:30,910 [DEBUG] 26 GetCDR - VMS Service_NameSAM FREE_sam--Count user :0
+2016-08-02 10:25:38,497 [DEBUG] 26 GetCDR - VMS Service_NameVMG Tai game_SAM--Count user :2045
+2016-08-02 10:25:38,516 [DEBUG] 26 GetCDR - VMS Service_NameSAM Ung dung va hinh nen WIFI--Count user :0
+2016-08-02 10:25:38,523 [DEBUG] 26 GetCDR - VMS Service_NameSAM Ung dung va hinh nen NET--Count user :0
+2016-08-02 10:25:38,530 [DEBUG] 26 GetCDR - VMS Service_NameSAM Ung dung va hinh nen FS--Count user :0
+2016-08-02 10:25:38,540 [DEBUG] 26 GetCDR - VMS Service_NameSam Hoc truc tuyen--Count user :0
+2016-08-02 10:25:38,540 [DEBUG] 26 GetCDR - CDR VMS update
+2016-08-02 10:30:04,475 [DEBUG] 8 GetCDR - GPC Service_NameVMG_tiendoanvanmenhVM_sam--Count user :4
+2016-08-02 10:30:27,707 [DEBUG] 8 GetCDR - GPC Service_NameVMG_gametrongngay_SAM--Count user :356
+2016-08-02 10:30:57,565 [DEBUG] 8 GetCDR - GPC Service_NameVMG_taigameget_2m_sam--Count user :807
+2016-08-02 10:31:22,236 [DEBUG] 8 GetCDR - GPC Service_NameVMG_taiclipfun_2m_sam--Count user :413
+2016-08-02 10:31:23,581 [DEBUG] 8 GetCDR - GPC Service_NameVMG_taigamelap_2m_sam--Count user :7
+2016-08-02 10:31:34,684 [DEBUG] 8 GetCDR - GPC Service_NameVMG_taigamemini1_2m_sam--Count user :186
+2016-08-02 10:31:36,888 [DEBUG] 8 GetCDR - GPC Service_NameVMG_cliphotgs_2m_sam--Count user :5
+2016-08-02 10:32:04,928 [DEBUG] 8 GetCDR - GPC Service_NameVMG_taihinhnenscan_2m_sam--Count user :837
+2016-08-02 10:32:14,292 [DEBUG] 8 GetCDR - GPC Service_NameVMG_taigamepad_2m_sam--Count user :221
+2016-08-02 10:32:24,711 [DEBUG] 8 GetCDR - GPC Service_NameVMG_taigamephone_2m_sam--Count user :186
+2016-08-02 10:32:26,022 [DEBUG] 8 GetCDR - GPC Service_NameVMG_taigamemini_2m_sam--Count user :4
+2016-08-02 10:32:26,733 [DEBUG] 8 GetCDR - GPC Service_NameVMG_Taigametrungipad_Sam--Count user :2
+2016-08-02 10:32:26,743 [DEBUG] 8 GetCDR - GPC Service_NameVMG_UDhinhnenWIFI_SAM--Count user :0
+2016-08-02 10:32:26,752 [DEBUG] 8 GetCDR - GPC Service_NameVMG_UngdunghinhnenNET_Sam--Count user :0
+2016-08-02 10:32:26,844 [DEBUG] 8 GetCDR - GPC Service_NameVMG_UngdunghinhnenFS_Sam--Count user :0
+2016-08-02 10:32:26,853 [DEBUG] 8 GetCDR - GPC Service_NameVMG_TaigamePAD1_Sam  --Count user :0
+2016-08-02 10:32:26,909 [DEBUG] 8 GetCDR - GPC Service_NameVMG_HinhnenFREE_sam--Count user :0
+2016-08-02 10:32:26,960 [DEBUG] 8 GetCDR - GPC Service_NameVMG_Hoctructuyen_Sam--Count user :0
+2016-08-02 10:32:26,960 [DEBUG] 8 GetCDR - CDR GPC update
+2016-08-02 10:32:29,594 [DEBUG] 8 GetCDR - VMS Service_NameSAM LAPTOP_sam--Count user :273
+2016-08-02 10:32:29,832 [DEBUG] 8 GetCDR - VMS Service_NameSAM BOI_sam--Count user :4
+2016-08-02 10:32:30,195 [DEBUG] 8 GetCDR - VMS Service_NameCLIP SAM_sam--Count user :10
+2016-08-02 10:32:33,952 [DEBUG] 8 GetCDR - VMS Service_NameSAM iPAD MINI_sam--Count user :569
+2016-08-02 10:32:33,959 [DEBUG] 8 GetCDR - VMS Service_NameSAM OPS--Count user :0
+2016-08-02 10:32:50,406 [DEBUG] 8 GetCDR - VMS Service_NameSAM SCAN_sam--Count user :4007
+2016-08-02 10:32:50,499 [DEBUG] 8 GetCDR - VMS Service_NameSAM GAME_sam--Count user :3
+2016-08-02 10:32:52,347 [DEBUG] 8 GetCDR - VMS Service_NameSAM PAD_sam--Count user :436
+2016-08-02 10:32:55,994 [DEBUG] 8 GetCDR - VMS Service_NameSAM PHONE_sam--Count user :895
+2016-08-02 10:32:56,286 [DEBUG] 8 GetCDR - VMS Service_NameSAM MINI_sam--Count user :8
+2016-08-02 10:32:56,295 [DEBUG] 8 GetCDR - VMS Service_NameSAM PAD1_sam--Count user :0
+2016-08-02 10:33:05,551 [DEBUG] 8 GetCDR - VMS Service_NameSAM GET_sam--Count user :2531
+2016-08-02 10:33:12,001 [DEBUG] 8 GetCDR - VMS Service_NameSAM FUN_sam--Count user :1737
+2016-08-02 10:33:12,008 [DEBUG] 8 GetCDR - VMS Service_NameSAM FREE_sam--Count user :0
+2016-08-02 10:33:21,167 [DEBUG] 8 GetCDR - VMS Service_NameVMG Tai game_SAM--Count user :2073
+2016-08-02 10:33:21,184 [DEBUG] 8 GetCDR - VMS Service_NameSAM Ung dung va hinh nen WIFI--Count user :0
+2016-08-02 10:33:21,191 [DEBUG] 8 GetCDR - VMS Service_NameSAM Ung dung va hinh nen NET--Count user :0
+2016-08-02 10:33:21,197 [DEBUG] 8 GetCDR - VMS Service_NameSAM Ung dung va hinh nen FS--Count user :0
+2016-08-02 10:33:21,206 [DEBUG] 8 GetCDR - VMS Service_NameSam Hoc truc tuyen--Count user :0
+2016-08-02 10:33:21,206 [DEBUG] 8 GetCDR - CDR VMS update
+2016-08-02 10:48:17,988 [DEBUG] 20 GetCDR - GPC Service_NameVMG_tiendoanvanmenhVM_sam--Count user :4
+2016-08-02 10:48:52,300 [DEBUG] 20 GetCDR - GPC Service_NameVMG_gametrongngay_SAM--Count user :391
+2016-08-02 10:49:22,186 [DEBUG] 20 GetCDR - GPC Service_NameVMG_taigameget_2m_sam--Count user :928
+2016-08-02 10:49:54,321 [DEBUG] 20 GetCDR - GPC Service_NameVMG_taiclipfun_2m_sam--Count user :464
+2016-08-02 10:49:56,121 [DEBUG] 20 GetCDR - GPC Service_NameVMG_taigamelap_2m_sam--Count user :8
+2016-08-02 10:50:17,015 [DEBUG] 20 GetCDR - GPC Service_NameVMG_taigamemini1_2m_sam--Count user :204
+2016-08-02 10:50:18,156 [DEBUG] 20 GetCDR - GPC Service_NameVMG_cliphotgs_2m_sam--Count user :5
+2016-08-02 10:50:46,828 [DEBUG] 20 GetCDR - GPC Service_NameVMG_taihinhnenscan_2m_sam--Count user :943
+2016-08-02 10:51:00,566 [DEBUG] 20 GetCDR - GPC Service_NameVMG_taigamepad_2m_sam--Count user :258
+2016-08-02 10:51:12,175 [DEBUG] 20 GetCDR - GPC Service_NameVMG_taigamephone_2m_sam--Count user :212
+2016-08-02 10:51:14,267 [DEBUG] 20 GetCDR - GPC Service_NameVMG_taigamemini_2m_sam--Count user :7
+2016-08-02 10:51:15,462 [DEBUG] 20 GetCDR - GPC Service_NameVMG_Taigametrungipad_Sam--Count user :3
+2016-08-02 10:51:15,472 [DEBUG] 20 GetCDR - GPC Service_NameVMG_UDhinhnenWIFI_SAM--Count user :0
+2016-08-02 10:51:15,481 [DEBUG] 20 GetCDR - GPC Service_NameVMG_UngdunghinhnenNET_Sam--Count user :0
+2016-08-02 10:51:15,745 [DEBUG] 20 GetCDR - GPC Service_NameVMG_UngdunghinhnenFS_Sam--Count user :0
+2016-08-02 10:51:15,756 [DEBUG] 20 GetCDR - GPC Service_NameVMG_TaigamePAD1_Sam  --Count user :0
+2016-08-02 10:51:15,843 [DEBUG] 20 GetCDR - GPC Service_NameVMG_HinhnenFREE_sam--Count user :0
+2016-08-02 10:51:15,883 [DEBUG] 20 GetCDR - GPC Service_NameVMG_Hoctructuyen_Sam--Count user :0
+2016-08-02 10:51:15,883 [DEBUG] 20 GetCDR - CDR GPC update
+2016-08-02 10:51:18,926 [DEBUG] 20 GetCDR - VMS Service_NameSAM LAPTOP_sam--Count user :273
+2016-08-02 10:51:19,078 [DEBUG] 20 GetCDR - VMS Service_NameSAM BOI_sam--Count user :9
+2016-08-02 10:51:19,346 [DEBUG] 20 GetCDR - VMS Service_NameCLIP SAM_sam--Count user :11
+2016-08-02 10:51:21,756 [DEBUG] 20 GetCDR - VMS Service_NameSAM iPAD MINI_sam--Count user :568
+2016-08-02 10:51:21,764 [DEBUG] 20 GetCDR - VMS Service_NameSAM OPS--Count user :0
+2016-08-02 10:51:37,642 [DEBUG] 20 GetCDR - VMS Service_NameSAM SCAN_sam--Count user :4211
+2016-08-02 10:51:37,718 [DEBUG] 20 GetCDR - VMS Service_NameSAM GAME_sam--Count user :3
+2016-08-02 10:51:43,087 [DEBUG] 20 GetCDR - VMS Service_NameSAM PAD_sam--Count user :1087
+2016-08-02 10:51:46,752 [DEBUG] 20 GetCDR - VMS Service_NameSAM PHONE_sam--Count user :941
+2016-08-02 10:51:47,003 [DEBUG] 20 GetCDR - VMS Service_NameSAM MINI_sam--Count user :9
+2016-08-02 10:51:47,013 [DEBUG] 20 GetCDR - VMS Service_NameSAM PAD1_sam--Count user :0
+2016-08-02 10:51:56,192 [DEBUG] 20 GetCDR - VMS Service_NameSAM GET_sam--Count user :2482
+2016-08-02 10:52:03,329 [DEBUG] 20 GetCDR - VMS Service_NameSAM FUN_sam--Count user :1786
+2016-08-02 10:52:03,349 [DEBUG] 20 GetCDR - VMS Service_NameSAM FREE_sam--Count user :0
+2016-08-02 10:52:11,762 [DEBUG] 20 GetCDR - VMS Service_NameVMG Tai game_SAM--Count user :2107
+2016-08-02 10:52:11,781 [DEBUG] 20 GetCDR - VMS Service_NameSAM Ung dung va hinh nen WIFI--Count user :0
+2016-08-02 10:52:11,788 [DEBUG] 20 GetCDR - VMS Service_NameSAM Ung dung va hinh nen NET--Count user :0
+2016-08-02 10:52:11,795 [DEBUG] 20 GetCDR - VMS Service_NameSAM Ung dung va hinh nen FS--Count user :0
+2016-08-02 10:52:11,804 [DEBUG] 20 GetCDR - VMS Service_NameSam Hoc truc tuyen--Count user :0
+2016-08-02 10:52:11,804 [DEBUG] 20 GetCDR - CDR VMS update
+2016-08-02 11:07:21,290 [DEBUG] 21 GetCDR - GPC Service_NameVMG_tiendoanvanmenhVM_sam--Count user :4
+2016-08-02 11:07:40,365 [DEBUG] 21 GetCDR - GPC Service_NameVMG_gametrongngay_SAM--Count user :386
+2016-08-02 11:08:08,820 [DEBUG] 21 GetCDR - GPC Service_NameVMG_taigameget_2m_sam--Count user :941
+2016-08-02 11:08:29,565 [DEBUG] 21 GetCDR - GPC Service_NameVMG_taiclipfun_2m_sam--Count user :405
+2016-08-02 11:08:30,643 [DEBUG] 21 GetCDR - GPC Service_NameVMG_taigamelap_2m_sam--Count user :6
+2016-08-02 11:08:44,457 [DEBUG] 21 GetCDR - GPC Service_NameVMG_taigamemini1_2m_sam--Count user :218
+2016-08-02 11:08:45,328 [DEBUG] 21 GetCDR - GPC Service_NameVMG_cliphotgs_2m_sam--Count user :4
+2016-08-02 11:09:19,731 [ERROR] 21 GetCDR - CDR Loi UPDATE GPC -0055362000017293 - : System.Data.SqlClient.SqlException (0x80131904): Timeout expired.  The timeout period elapsed prior to completion of the operation or the server is not responding. ---> System.ComponentModel.Win32Exception (0x80004005): The wait operation timed out
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, SqlDataReader ds)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean asyncWrite)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet)
+   at Microsoft.ApplicationBlocks.Data.SqlHelper.ExecuteDataset(SqlConnection connection, CommandType commandType, String commandText, SqlParameter[] commandParameters)
+   at Microsoft.ApplicationBlocks.Data.SqlHelper.ExecuteDataset(String connectionString, CommandType commandType, String commandText, SqlParameter[] commandParameters)
+   at Microsoft.ApplicationBlocks.Data.SqlHelper.ExecuteDataset(String connectionString, String spName, Object[] parameterValues)
+   at ViSport_S2_Registered_UsersController.GPCGetCdrByServiceId_ByDate(String serviceId, DateTime day) in e:\Project\ViSport_4.0\WS_S2\App_Code\ViSport_S2_Registered\ViSport_S2_Registered_UsersController.cs:line 1683
+   at GetCDR.btnUpdate_Click(Object sender, EventArgs e) in e:\Project\ViSport_4.0\WS_S2\GetCDR.aspx.cs:line 59
+ClientConnectionId:71fd3b1b-5519-4390-bc46-bed9acfb2ec4
+2016-08-02 11:09:48,597 [DEBUG] 21 GetCDR - GPC Service_NameVMG_taigamepad_2m_sam--Count user :215
+2016-08-02 11:10:00,165 [DEBUG] 21 GetCDR - GPC Service_NameVMG_taigamephone_2m_sam--Count user :200
+2016-08-02 11:10:03,697 [DEBUG] 21 GetCDR - GPC Service_NameVMG_taigamemini_2m_sam--Count user :7
+2016-08-02 11:10:04,967 [DEBUG] 21 GetCDR - GPC Service_NameVMG_Taigametrungipad_Sam--Count user :3
+2016-08-02 11:10:04,978 [DEBUG] 21 GetCDR - GPC Service_NameVMG_UDhinhnenWIFI_SAM--Count user :0
+2016-08-02 11:10:04,990 [DEBUG] 21 GetCDR - GPC Service_NameVMG_UngdunghinhnenNET_Sam--Count user :0
+2016-08-02 11:10:05,205 [DEBUG] 21 GetCDR - GPC Service_NameVMG_UngdunghinhnenFS_Sam--Count user :0
+2016-08-02 11:10:05,218 [DEBUG] 21 GetCDR - GPC Service_NameVMG_TaigamePAD1_Sam  --Count user :0
+2016-08-02 11:10:05,260 [DEBUG] 21 GetCDR - GPC Service_NameVMG_HinhnenFREE_sam--Count user :0
+2016-08-02 11:10:05,295 [DEBUG] 21 GetCDR - GPC Service_NameVMG_Hoctructuyen_Sam--Count user :0
+2016-08-02 11:10:05,295 [DEBUG] 21 GetCDR - CDR GPC update
+2016-08-02 11:10:10,581 [DEBUG] 21 GetCDR - VMS Service_NameSAM LAPTOP_sam--Count user :277
+2016-08-02 11:10:10,821 [DEBUG] 21 GetCDR - VMS Service_NameSAM BOI_sam--Count user :3
+2016-08-02 11:10:11,163 [DEBUG] 21 GetCDR - VMS Service_NameCLIP SAM_sam--Count user :9
+2016-08-02 11:10:15,843 [DEBUG] 21 GetCDR - VMS Service_NameSAM iPAD MINI_sam--Count user :597
+2016-08-02 11:10:15,848 [DEBUG] 21 GetCDR - VMS Service_NameSAM OPS--Count user :0
+2016-08-02 11:10:31,689 [DEBUG] 21 GetCDR - VMS Service_NameSAM SCAN_sam--Count user :3904
+2016-08-02 11:10:31,792 [DEBUG] 21 GetCDR - VMS Service_NameSAM GAME_sam--Count user :2
+2016-08-02 11:10:35,736 [DEBUG] 21 GetCDR - VMS Service_NameSAM PAD_sam--Count user :1008
+2016-08-02 11:10:37,405 [DEBUG] 21 GetCDR - VMS Service_NameSAM PHONE_sam--Count user :386
+2016-08-02 11:10:37,695 [DEBUG] 21 GetCDR - VMS Service_NameSAM MINI_sam--Count user :8
+2016-08-02 11:10:37,700 [DEBUG] 21 GetCDR - VMS Service_NameSAM PAD1_sam--Count user :0
+2016-08-02 11:10:48,755 [DEBUG] 21 GetCDR - VMS Service_NameSAM GET_sam--Count user :2774
+2016-08-02 11:11:21,199 [DEBUG] 21 GetCDR - VMS Service_NameSAM FUN_sam--Count user :1525
+2016-08-02 11:11:21,205 [DEBUG] 21 GetCDR - VMS Service_NameSAM FREE_sam--Count user :0
+2016-08-02 11:11:24,398 [DEBUG] 21 GetCDR - VMS Service_NameVMG Tai game_SAM--Count user :767
+2016-08-02 11:11:24,428 [DEBUG] 21 GetCDR - VMS Service_NameSAM Ung dung va hinh nen WIFI--Count user :0
+2016-08-02 11:11:24,436 [DEBUG] 21 GetCDR - VMS Service_NameSAM Ung dung va hinh nen NET--Count user :0
+2016-08-02 11:11:24,443 [DEBUG] 21 GetCDR - VMS Service_NameSAM Ung dung va hinh nen FS--Count user :0
+2016-08-02 11:11:24,452 [DEBUG] 21 GetCDR - VMS Service_NameSam Hoc truc tuyen--Count user :0
+2016-08-02 11:11:24,452 [DEBUG] 21 GetCDR - CDR VMS update
+2016-08-02 11:14:48,282 [ERROR] 21 GetCDR - CDR Error : System.Data.SqlClient.SqlException (0x80131904): Timeout expired.  The timeout period elapsed prior to completion of the operation or the server is not responding. ---> System.ComponentModel.Win32Exception (0x80004005): The wait operation timed out
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, SqlDataReader ds)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean asyncWrite)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet)
+   at Microsoft.ApplicationBlocks.Data.SqlHelper.ExecuteDataset(SqlConnection connection, CommandType commandType, String commandText, SqlParameter[] commandParameters)
+   at Microsoft.ApplicationBlocks.Data.SqlHelper.ExecuteDataset(String connectionString, CommandType commandType, String commandText, SqlParameter[] commandParameters)
+   at Microsoft.ApplicationBlocks.Data.SqlHelper.ExecuteDataset(String connectionString, String spName, Object[] parameterValues)
+   at ViSport_S2_Registered_UsersController.CdrVnm_ByDate(Int32 partnerId, DateTime day) in e:\Project\ViSport_4.0\WS_S2\App_Code\ViSport_S2_Registered\ViSport_S2_Registered_UsersController.cs:line 1536
+   at GetCDR.btnUpdate_Click(Object sender, EventArgs e) in e:\Project\ViSport_4.0\WS_S2\GetCDR.aspx.cs:line 261
+ClientConnectionId:71fd3b1b-5519-4390-bc46-bed9acfb2ec4
+2016-08-02 11:19:27,725 [DEBUG] 8 GetCDR - GPC Service_NameVMG_tiendoanvanmenhVM_sam--Count user :4
+2016-08-02 11:19:46,786 [DEBUG] 8 GetCDR - GPC Service_NameVMG_gametrongngay_SAM--Count user :386
+2016-08-02 11:20:19,162 [ERROR] 8 GetCDR - CDR Loi UPDATE GPC -0055362000017213- : System.Data.SqlClient.SqlException (0x80131904): Timeout expired.  The timeout period elapsed prior to completion of the operation or the server is not responding. ---> System.ComponentModel.Win32Exception (0x80004005): The wait operation timed out
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, SqlDataReader ds)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean asyncWrite)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet)
+   at Microsoft.ApplicationBlocks.Data.SqlHelper.ExecuteDataset(SqlConnection connection, CommandType commandType, String commandText, SqlParameter[] commandParameters)
+   at Microsoft.ApplicationBlocks.Data.SqlHelper.ExecuteDataset(String connectionString, CommandType commandType, String commandText, SqlParameter[] commandParameters)
+   at Microsoft.ApplicationBlocks.Data.SqlHelper.ExecuteDataset(String connectionString, String spName, Object[] parameterValues)
+   at ViSport_S2_Registered_UsersController.GPCGetCdrByServiceId_ByDate(String serviceId, DateTime day) in e:\Project\ViSport_4.0\WS_S2\App_Code\ViSport_S2_Registered\ViSport_S2_Registered_UsersController.cs:line 1683
+   at GetCDR.btnUpdate_Click(Object sender, EventArgs e) in e:\Project\ViSport_4.0\WS_S2\GetCDR.aspx.cs:line 59
+ClientConnectionId:71fd3b1b-5519-4390-bc46-bed9acfb2ec4
+2016-08-02 11:20:49,320 [ERROR] 8 GetCDR - CDR Loi UPDATE GPC -0055362000017214 - : System.Data.SqlClient.SqlException (0x80131904): Timeout expired.  The timeout period elapsed prior to completion of the operation or the server is not responding. ---> System.ComponentModel.Win32Exception (0x80004005): The wait operation timed out
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, SqlDataReader ds)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean asyncWrite)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet)
+   at Microsoft.ApplicationBlocks.Data.SqlHelper.ExecuteDataset(SqlConnection connection, CommandType commandType, String commandText, SqlParameter[] commandParameters)
+   at Microsoft.ApplicationBlocks.Data.SqlHelper.ExecuteDataset(String connectionString, CommandType commandType, String commandText, SqlParameter[] commandParameters)
+   at Microsoft.ApplicationBlocks.Data.SqlHelper.ExecuteDataset(String connectionString, String spName, Object[] parameterValues)
+   at ViSport_S2_Registered_UsersController.GPCGetCdrByServiceId_ByDate(String serviceId, DateTime day) in e:\Project\ViSport_4.0\WS_S2\App_Code\ViSport_S2_Registered\ViSport_S2_Registered_UsersController.cs:line 1683
+   at GetCDR.btnUpdate_Click(Object sender, EventArgs e) in e:\Project\ViSport_4.0\WS_S2\GetCDR.aspx.cs:line 59
+ClientConnectionId:71fd3b1b-5519-4390-bc46-bed9acfb2ec4
+2016-08-02 11:21:00,520 [DEBUG] 8 GetCDR - GPC Service_NameVMG_taigamelap_2m_sam--Count user :6
+2016-08-02 11:21:14,851 [DEBUG] 8 GetCDR - GPC Service_NameVMG_taigamemini1_2m_sam--Count user :218
+2016-08-02 11:21:18,057 [DEBUG] 8 GetCDR - GPC Service_NameVMG_cliphotgs_2m_sam--Count user :4
+2016-08-02 11:21:42,957 [DEBUG] 8 GetCDR - GPC Service_NameVMG_taihinhnenscan_2m_sam--Count user :865
+2016-08-02 11:21:56,189 [DEBUG] 8 GetCDR - GPC Service_NameVMG_taigamepad_2m_sam--Count user :215
+2016-08-02 11:22:07,169 [DEBUG] 8 GetCDR - GPC Service_NameVMG_taigamephone_2m_sam--Count user :200
+2016-08-02 11:22:08,028 [DEBUG] 8 GetCDR - GPC Service_NameVMG_taigamemini_2m_sam--Count user :7
+2016-08-02 11:22:08,434 [DEBUG] 8 GetCDR - GPC Service_NameVMG_Taigametrungipad_Sam--Count user :3
+2016-08-02 11:22:08,437 [DEBUG] 8 GetCDR - GPC Service_NameVMG_UDhinhnenWIFI_SAM--Count user :0
+2016-08-02 11:22:08,441 [DEBUG] 8 GetCDR - GPC Service_NameVMG_UngdunghinhnenNET_Sam--Count user :0
+2016-08-02 11:22:08,494 [DEBUG] 8 GetCDR - GPC Service_NameVMG_UngdunghinhnenFS_Sam--Count user :0
+2016-08-02 11:22:08,498 [DEBUG] 8 GetCDR - GPC Service_NameVMG_TaigamePAD1_Sam  --Count user :0
+2016-08-02 11:22:08,541 [DEBUG] 8 GetCDR - GPC Service_NameVMG_HinhnenFREE_sam--Count user :0
+2016-08-02 11:22:08,570 [DEBUG] 8 GetCDR - GPC Service_NameVMG_Hoctructuyen_Sam--Count user :0
+2016-08-02 11:22:08,570 [DEBUG] 8 GetCDR - CDR GPC update
+2016-08-02 11:22:11,783 [DEBUG] 8 GetCDR - VMS Service_NameSAM LAPTOP_sam--Count user :277
+2016-08-02 11:22:12,022 [DEBUG] 8 GetCDR - VMS Service_NameSAM BOI_sam--Count user :3
+2016-08-02 11:22:12,335 [DEBUG] 8 GetCDR - VMS Service_NameCLIP SAM_sam--Count user :9
+2016-08-02 11:22:14,686 [DEBUG] 8 GetCDR - VMS Service_NameSAM iPAD MINI_sam--Count user :597
+2016-08-02 11:22:14,691 [DEBUG] 8 GetCDR - VMS Service_NameSAM OPS--Count user :0
+2016-08-02 11:22:29,954 [DEBUG] 8 GetCDR - VMS Service_NameSAM SCAN_sam--Count user :3904
+2016-08-02 11:22:30,032 [DEBUG] 8 GetCDR - VMS Service_NameSAM GAME_sam--Count user :2
+2016-08-02 11:22:36,961 [DEBUG] 8 GetCDR - VMS Service_NameSAM PAD_sam--Count user :1008
+2016-08-02 11:22:40,289 [DEBUG] 8 GetCDR - VMS Service_NameSAM PHONE_sam--Count user :386
+2016-08-02 11:22:40,586 [DEBUG] 8 GetCDR - VMS Service_NameSAM MINI_sam--Count user :8
+2016-08-02 11:22:40,591 [DEBUG] 8 GetCDR - VMS Service_NameSAM PAD1_sam--Count user :0
+2016-08-02 11:22:53,192 [DEBUG] 8 GetCDR - VMS Service_NameSAM GET_sam--Count user :2774
+2016-08-02 11:23:00,793 [DEBUG] 8 GetCDR - VMS Service_NameSAM FUN_sam--Count user :1525
+2016-08-02 11:23:00,798 [DEBUG] 8 GetCDR - VMS Service_NameSAM FREE_sam--Count user :0
+2016-08-02 11:23:03,854 [DEBUG] 8 GetCDR - VMS Service_NameVMG Tai game_SAM--Count user :767
+2016-08-02 11:23:03,864 [DEBUG] 8 GetCDR - VMS Service_NameSAM Ung dung va hinh nen WIFI--Count user :0
+2016-08-02 11:23:03,868 [DEBUG] 8 GetCDR - VMS Service_NameSAM Ung dung va hinh nen NET--Count user :0
+2016-08-02 11:23:03,872 [DEBUG] 8 GetCDR - VMS Service_NameSAM Ung dung va hinh nen FS--Count user :0
+2016-08-02 11:23:03,880 [DEBUG] 8 GetCDR - VMS Service_NameSam Hoc truc tuyen--Count user :0
+2016-08-02 11:23:03,880 [DEBUG] 8 GetCDR - CDR VMS update
+2016-08-02 11:47:38,343 [DEBUG] 14 GetCDR - GPC Service_NameVMG_videongay_TerraMobile--Count user :1114
+2016-08-02 11:47:38,343 [DEBUG] 14 GetCDR - CDR GPC update
+2016-08-02 11:47:48,252 [DEBUG] 14 GetCDR - VMS Service_NameCLIP_Terramobile--Count user :2284
+2016-08-02 11:47:48,792 [DEBUG] 14 GetCDR - VMS Service_NameVMG Clip PC_Terramobile--Count user :42
+2016-08-02 11:47:48,802 [DEBUG] 14 GetCDR - VMS Service_NameVMG Game hit HITS_Teramobile--Count user :0
+2016-08-02 11:47:48,810 [DEBUG] 14 GetCDR - VMS Service_NameVMG Ung dung APP_Teramobile--Count user :0
+2016-08-02 11:47:48,811 [DEBUG] 14 GetCDR - CDR VMS update
+2016-08-02 11:51:20,161 [DEBUG] 20 GetCDR - GPC Service_NameVMG_videongay_TerraMobile--Count user :534
+2016-08-02 11:51:20,161 [DEBUG] 20 GetCDR - CDR GPC update
+2016-08-02 11:51:30,298 [DEBUG] 20 GetCDR - VMS Service_NameCLIP_Terramobile--Count user :2273
+2016-08-02 11:51:31,415 [DEBUG] 20 GetCDR - VMS Service_NameVMG Clip PC_Terramobile--Count user :30
+2016-08-02 11:51:31,422 [DEBUG] 20 GetCDR - VMS Service_NameVMG Game hit HITS_Teramobile--Count user :0
+2016-08-02 11:51:31,435 [DEBUG] 20 GetCDR - VMS Service_NameVMG Ung dung APP_Teramobile--Count user :0
+2016-08-02 11:51:31,435 [DEBUG] 20 GetCDR - CDR VMS update
+2016-08-02 11:53:25,053 [DEBUG] 35 GetCDR - GPC Service_NameVMG_videongay_TerraMobile--Count user :525
+2016-08-02 11:53:25,053 [DEBUG] 35 GetCDR - CDR GPC update
+2016-08-02 11:53:34,032 [DEBUG] 35 GetCDR - VMS Service_NameCLIP_Terramobile--Count user :2233
+2016-08-02 11:53:34,602 [DEBUG] 35 GetCDR - VMS Service_NameVMG Clip PC_Terramobile--Count user :44
+2016-08-02 11:53:34,610 [DEBUG] 35 GetCDR - VMS Service_NameVMG Game hit HITS_Teramobile--Count user :0
+2016-08-02 11:53:34,624 [DEBUG] 35 GetCDR - VMS Service_NameVMG Ung dung APP_Teramobile--Count user :0
+2016-08-02 11:53:34,624 [DEBUG] 35 GetCDR - CDR VMS update
+2016-08-02 11:54:43,007 [DEBUG] 10 GetCDR - GPC Service_NameVMG_videongay_TerraMobile--Count user :507
+2016-08-02 11:54:43,007 [DEBUG] 10 GetCDR - CDR GPC update
+2016-08-02 11:54:53,418 [DEBUG] 10 GetCDR - VMS Service_NameCLIP_Terramobile--Count user :2190
+2016-08-02 11:54:54,013 [DEBUG] 10 GetCDR - VMS Service_NameVMG Clip PC_Terramobile--Count user :44
+2016-08-02 11:54:54,020 [DEBUG] 10 GetCDR - VMS Service_NameVMG Game hit HITS_Teramobile--Count user :0
+2016-08-02 11:54:54,034 [DEBUG] 10 GetCDR - VMS Service_NameVMG Ung dung APP_Teramobile--Count user :0
+2016-08-02 11:54:54,034 [DEBUG] 10 GetCDR - CDR VMS update
+2016-08-02 11:58:32,490 [DEBUG] 33 GetCDR - GPC Service_NameVMG_videongay_TerraMobile--Count user :483
+2016-08-02 11:58:32,490 [DEBUG] 33 GetCDR - CDR GPC update
+2016-08-02 11:58:48,069 [DEBUG] 33 GetCDR - VMS Service_NameCLIP_Terramobile--Count user :3800
+2016-08-02 11:58:48,648 [DEBUG] 33 GetCDR - VMS Service_NameVMG Clip PC_Terramobile--Count user :71
+2016-08-02 11:58:48,656 [DEBUG] 33 GetCDR - VMS Service_NameVMG Game hit HITS_Teramobile--Count user :0
+2016-08-02 11:58:48,667 [DEBUG] 33 GetCDR - VMS Service_NameVMG Ung dung APP_Teramobile--Count user :0
+2016-08-02 11:58:48,667 [DEBUG] 33 GetCDR - CDR VMS update
+2016-08-02 12:00:09,097 [DEBUG] 32 GetCDR - GPC Service_NameVMG_videongay_TerraMobile--Count user :490
+2016-08-02 12:00:09,097 [DEBUG] 32 GetCDR - CDR GPC update
+2016-08-02 12:00:21,821 [DEBUG] 32 GetCDR - VMS Service_NameCLIP_Terramobile--Count user :2142
+2016-08-02 12:00:22,135 [DEBUG] 32 GetCDR - VMS Service_NameVMG Clip PC_Terramobile--Count user :47
+2016-08-02 12:00:22,143 [DEBUG] 32 GetCDR - VMS Service_NameVMG Game hit HITS_Teramobile--Count user :0
+2016-08-02 12:00:22,149 [DEBUG] 32 GetCDR - VMS Service_NameVMG Ung dung APP_Teramobile--Count user :0
+2016-08-02 12:00:22,150 [DEBUG] 32 GetCDR - CDR VMS update
+2016-08-02 12:34:12,760 [DEBUG] 22 GetCDR - GPC Service_NameVMG_videongay_TerraMobile--Count user :491
+2016-08-02 12:34:12,760 [DEBUG] 22 GetCDR - CDR GPC update
+2016-08-02 12:34:24,389 [DEBUG] 22 GetCDR - VMS Service_NameCLIP_Terramobile--Count user :2061
+2016-08-02 12:34:24,602 [DEBUG] 22 GetCDR - VMS Service_NameVMG Clip PC_Terramobile--Count user :48
+2016-08-02 12:34:24,609 [DEBUG] 22 GetCDR - VMS Service_NameVMG Game hit HITS_Teramobile--Count user :0
+2016-08-02 12:34:24,619 [DEBUG] 22 GetCDR - VMS Service_NameVMG Ung dung APP_Teramobile--Count user :0
+2016-08-02 12:34:24,619 [DEBUG] 22 GetCDR - CDR VMS update
+2016-08-02 12:35:35,284 [DEBUG] 18 GetCDR - GPC Service_NameVMG_videongay_TerraMobile--Count user :516
+2016-08-02 12:35:35,284 [DEBUG] 18 GetCDR - CDR GPC update
+2016-08-02 12:35:43,344 [DEBUG] 18 GetCDR - VMS Service_NameCLIP_Terramobile--Count user :2037
+2016-08-02 12:35:43,572 [DEBUG] 18 GetCDR - VMS Service_NameVMG Clip PC_Terramobile--Count user :53
+2016-08-02 12:35:43,579 [DEBUG] 18 GetCDR - VMS Service_NameVMG Game hit HITS_Teramobile--Count user :0
+2016-08-02 12:35:43,586 [DEBUG] 18 GetCDR - VMS Service_NameVMG Ung dung APP_Teramobile--Count user :0
+2016-08-02 12:35:43,586 [DEBUG] 18 GetCDR - CDR VMS update

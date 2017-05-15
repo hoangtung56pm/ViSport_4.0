@@ -1,0 +1,8 @@
+2014-12-30 09:28:27,059 [ERROR] 9 CdrVnm - CDR_GPC Loi lay Tap User : System.ArgumentException: Column 'ChargingPrice' does not belong to table Table.
+   at System.Data.DataRow.GetDataColumn(String columnName)
+   at System.Data.DataRow.get_Item(String columnName)
+   at CdrVnm.Execute(Int32 jobID) in e:\Minh_Works\Wap\WIN_SERVICE\ViSport\WS_S2\App_Code\CdrVnm.cs:line 41
+2014-12-30 09:30:43,824 [ERROR] 9 CdrVnm - CDR_GPC Loi lay Tap User : System.ArgumentException: Column 'ChargingPrice' does not belong to table Table.
+   at System.Data.DataRow.GetDataColumn(String columnName)
+   at System.Data.DataRow.get_Item(String columnName)
+   at CdrVnm.Execute(Int32 jobID) in e:\Minh_Works\Wap\WIN_SERVICE\ViSport\WS_S2\App_Code\CdrVnm.cs:line 41
